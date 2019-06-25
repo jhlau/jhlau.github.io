@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jey Han Lau"
   avatar           : "profile.png"
-  bio              : "Lecturer, The University of Melbourne"
-  location         : "Melbourne, Australia"
-  employer         :
+  bio              : "Lecturer, School of Computing and Information Systems "
+  location         : "Room 3.25, Level 3, Doug McDonell Building"
+  employer         : "The University of Melbourne"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en"
-  email            :
+  email            : +61 3 8344 0447
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
