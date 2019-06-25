@@ -1,1 +1,1 @@
-homepage link: https://jhlau.github.io/
+https://jhlau.github.io/
