@@ -13,5 +13,6 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 
 ### News
 
-- I'm recruiting PhD students; particularly in the area of creative generation. If you're interested please contact me.
+- I'm recruiting PhD students. If you're interested in language 
+  generation, please contact me.
 - I'm presenting a [rumour detection paper](https://www.aclweb.org/anthology/N19-1163) at [NAACL2019](https://naacl2019.org/).
