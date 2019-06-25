@@ -81,25 +81,25 @@ analytics:
 # Site Author
 author:
   name             : "Jey Han Lau"
-  avatar           : "profile.jpg"
-  bio              : "Lecturer<br>School of Computing and Information Systems<br>The University of Melbourne<br><br>+61 3 8344 0447"
-  location         : "Room 3.25, Level 3,<br>Doug McDonell Building"
+  avatar           : "profile2.jpg"
+  bio              : "Lecturer<br>School of Computing and Information Systems<br>The University of Melbourne"
+  location         : "Room 3.25, Level 3,<br>Doug McDonell Building<br>+61 3 8344 0447"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en"
-  email            : jeyhan.lau@gmail.com
+  email            : "jeyhan.lau@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "https://www.flickr.com/photos/jhlau"
   facebook         :
   foursquare       :
   github           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/a.canvas.of.light/?hl=en"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
