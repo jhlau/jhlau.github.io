@@ -47,6 +47,6 @@ redirect_from:
 ## Supervision
 
 ## Publications
-
-{% include papers.html}
+test
+{% include papers.html %}
   
