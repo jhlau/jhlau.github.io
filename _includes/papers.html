@@ -1,7 +1,7 @@
-<h5>{{ include.heading }}</h5>
+
 <ol>
   {% for paper in site.papers %}
-    {% if paper.venue == include.venue %}
+
       <li>
       {{ paper.year }}.
       {{ paper.title }}.
@@ -20,6 +20,6 @@
         </b>
       {% endif %}
       </li>
-    {% endif %}
+
   {% endfor %}
 </ol>
