@@ -1,0 +1,25 @@
+
+<ul>
+  {% for paper in site.papers %}
+
+      <li>
+      {{ paper.author }}
+      ({{ paper.year }}).
+      <b> {{ paper.title }} </b>.
+      In
+      {% case paper.paper-type %}
+        {% when "inproceedings" %}
+          <i>{{ paper.booktitle }}</i>{% if paper.address %}, {{paper.address}}{% endif %}{% if paper.pages %}, pages {{paper.pages}}{% endif %}.
+        {% when "article" %}
+          <i>{{ paper.journal }}</i>{% if paper.volume %}, Vol {{ paper.volume }}{% endif %}{% if paper.number %}({{ paper.number }}){% endif %}.
+      {% endcase %}
+      {% if paper.docurl %}
+        <a href="{{paper.docurl}}">[pdf]</a>
+      {% endif %}
+      {% if paper.codeurl %}
+        <a href="{{paper.codeurl}}">[code]</a>
+      {% endif %}
+      </li>
+
+  {% endfor %}
+</ul>

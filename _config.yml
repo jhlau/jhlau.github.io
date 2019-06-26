@@ -93,13 +93,13 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://www.flickr.com/photos/jhlau"
+  flickr           : "jhlau"
   facebook         :
   foursquare       :
   github           :
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/a.canvas.of.light/?hl=en"
+  instagram        : "a.canvas.of.light"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -309,3 +309,184 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+    
+# Publications
+papers:
+  - layout: paper
+    author: "K. Zhou, C. Shu, B. Li, and J.H. Lau"
+    title: "Early Rumour Detection"
+    year: 2019
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2019)"
+    address: "Minneapolis, Minnesota"
+    docurl: "https://www.aclweb.org/anthology/N19-1163"
+    codeurl: "https://github.com/DeepBrainAI/ERD"
+    pages: 1614&mdash;1623
+  - layout: paper
+    author: "J.H. Lau, T. Cohn, T. Baldwin, J. Brooke, and A. Hammond"
+    title: "Deep-speare: A Joint Neural Model of Poetic Language, Meter and Rhyme"
+    year: 2018
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018)"
+    address: "Melbourne, Australia"
+    docurl: "https://www.aclweb.org/anthology/P18-1181"
+    codeurl: "https://github.com/jhlau/deepspeare"
+    pages: 1948&mdash;1958
+  - layout: paper
+    author: "N. Aletras, T. Baldwin, J.H. Lau, and M. Stevenson"
+    title: "Evaluating Topic Representations for Exploring Document Collections"
+    year: 2017
+    paper-type: article
+    journal: "Journal of the Association for Information Science and Technology"
+    volume: 68
+    pages: 154&mdash;167
+  - layout: paper
+    author: "J.H. Lau, A. Clark, and S. Lappin"
+    title: "Unsupervised Prediction of Acceptability Judgements"
+    year: 2015
+    paper-type: inproceedings
+    booktitle: "Proceedings of the Joint conference of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing (ACL-IJCNLP 2015)"
+    address: "Beijing, China"
+    pages: 1618&mdash;1628
+  - layout: paper
+    author: "N. Aletras, T. Baldwin, J.H. Lau, and M. Stevenson"
+    title: "Representing Topics Labels for Exploring Digital Libraries"
+    year: 2014
+    paper-type: inproceedings
+    booktitle: "Proceedings of Digital Libraries 2014"
+    address: "London, UK"
+  - layout: paper
+    author: "P. Cook, J.H. Lau, D. Mccarthy, and T. Baldwin"
+    title: "Novel Word-sense Identification"
+    year: 2014
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 25th International Conference on Computational Linguistics (COLING 2014)"
+    address: "Dublin, Ireland"
+    pages: 1624&mdash;1635
+  - layout: paper
+    author: "P. Cook, M. Rundell, J.H. Lau, and T. Baldwin"
+    title: "Applying a Word-sense Induction System to the Automatic Extraction of Diverse Dictionary Examples"
+    year: 2014
+    paper-type: inproceedings
+    booktitle: "Proceedings of the XVI EURALEX International Congress (EURALEX 2014)"
+    address: "Bolzano, Italy"
+    pages: 15-19
+  - layout: paper
+    author: "J.H. Lau, A. Clark, and S. Lappin"
+    title: "Measuring Gradience in Speakers&apos; Grammaticality Judgements"
+    year: 2014
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 36th Annual Meeting of the Cognitive Science Society (CogSci 2014)"
+    address: "Quebec City, Canada"
+    pages: 821&mdash;826
+  - layout: paper
+    author: "J.H. Lau, P. Cook, D. McCarthy, S. Gella, and T. Baldwin"
+    title: "Learning Word Sense Distributions, Detecting Unattested Senses and Identifying Novel Senses Using Topic Models"
+    year: 2014
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 52nd Annual Meet- ing of the Association for Computational Linguistics (ACL 2014)"
+    address: "Baltimore, Maryland"
+    pages: 259&mdash;270
+  - layout: paper
+    author: "J.H. Lau, D. Newman, and T. Baldwin"
+    title: "Machine Reading Tea Leaves: Automatically Evaluating Topic Coherence and Topic Model Quality"
+    year: 2014
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 14th Conference of the EACL (EACL 2014)"
+    address: "Gothenburg, Sweden"
+    pages: 530&mdash;539
+  - layout: paper
+    author: "M. Lui, J.H. Lau, and T. Baldwin"
+    title: "Automatic Detection and Language Identification of Multilingual Documents"
+    year: 2014
+    paper-type: article
+    journal: "Transactions of the Association for Computational Linguistics"
+    volume: 2(Feb)
+    pages: 27&mdash;40
+  - layout: paper
+    author: "M. Mistica, J.H. Lau, and T. Baldwin"
+    title: "Unsupervised Word Class Induction for Under-resourced Languages: A Case Study on Indonesian"
+    year: 2013
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 6th International Joint Conference on Natural Language Processing (IJCNLP 2013)"
+    address: "Nagoya, Japan"
+    pages: 685&mdash;691
+  - layout: paper
+    author: "P. Cook, J.H. Lau, and T. Baldwin"
+    title: "A Lexicographic Appraisal of an Automatic Approach for Detecting New Word Senses"
+    year: 2013
+    paper-type: inproceedings
+    booktitle: "Proceedings of {eLex} 2013"
+    address: "Tallinn, Estonia"
+    pages: 49&mdash;65
+  - layout: paper
+    author: "J.H. Lau, P. Cook, and T. Baldwin"
+    title: "unimelb: Topic Modelling-based Word Sense Induction for Web Snippet Clustering"
+    year: 2013
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 7th International Workshop on Semantic Evaluation (SemEval 2013)"
+    address: "Atlanta, USA"
+  - layout: paper
+    author: "J.H. Lau, P. Cook, and T. Baldwin"
+    title: "unimelb: Topic Modelling-based Word Sense Induction"
+    year: 2013
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 7th International Workshop on Semantic Evaluation (SemEval 2013)"
+    address: "Atlanta, USA"
+  - layout: paper
+    author: "J.H. Lau, T. Baldwin, and D. Newman"
+    title: "On Collocations and Topic Models"
+    year: 2013
+    paper-type: article
+    journal: "ACM Transactions on Speech and Language Processing"
+    volume: 10
+    pages: 1&mdash;14
+  - layout: paper
+    author: "J.H. Lau, N. Collier, and T. Baldwin"
+    title: "On-line Trend Analysis with Topic Models: #twitter trends detection topic model online"
+    year: 2012
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 24th International Conference of on Computational Linguistics (COLING 2012)"
+    address: "Mumbai, India"
+    pages: 1519&mdash;1534
+  - layout: paper
+    author: "D. Newman, N. Koilda, J.H. Lau, and T. Baldwin"
+    title: "Bayesian Text Segmentation for Index Term Identification and Keyphrase Extraction"
+    year: 2012
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 24th International Conference of on Computational Linguistics (COLING 2012)"
+    address: "Mumbai, India"
+    pages: 2077&mdash;2092
+  - layout: paper
+    author: "J.H. Lau, P. Cook, D. McCarthy, D. Newman, and T. Baldwin"
+    title: "Word Sense Induction for Novel Sense Detection"
+    year: 2012
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 13th Conference of the EACL (EACL 2012)"
+    address: "Avignon, France"
+    pages: 591&mdash;601
+  - layout: paper
+    author: "J.H. Lau, K. Grieser, D. Newman, and T. Baldwin"
+    title: "Automatic Labelling of Topics"
+    year: 2011
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL HLT 2011)"
+    address: "Portland, USA"
+    pages: 1536-1545
+  - layout: paper
+    author: "J.H. Lau, D. Newman, S. Karimi, and T. Baldwin"
+    title: "Best Topic Word Selection for Topic Labelling"
+    year: 2010
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 23rd International Conference on Computational Linguistics (COLING 2010), Posters Volume"
+    address: "Beijing, China"
+    pages: 605&mdash;613
+  - layout: paper
+    author: "D. Newman, J.H. Lau, K. Grieser, and T. Baldwin"
+    title: "Automatic Evaluation of Topic Coherence"
+    year: 2010
+    paper-type: inproceedings
+    booktitle: "Proceedings of Human Language Technologies: The 11th Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL HLT 2010)"
+    address: "Los Angeles, USA"
+    pages: 100&mdash;108
