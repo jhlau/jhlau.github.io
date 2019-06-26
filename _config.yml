@@ -332,6 +332,6 @@ papers:
     venue: conference
     year: 2018
     doc-url: https://www.aclweb.org/anthology/P18-1181
-    code-url:
+    code-url: https://github.com/jhlau/deepspeare
     pages: 1948&mdash;1958
     address: Melbourne, Australia
