@@ -48,7 +48,5 @@ redirect_from:
 
 ## Publications
 
-test
-
 {% include papers.html %}
   
