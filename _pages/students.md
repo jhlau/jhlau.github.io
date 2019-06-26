@@ -27,4 +27,4 @@ author_profile: true
 - **Steven Xu**
   - MSc student; co-supervised with Tim Baldwin
 - **Ionut-Teodor Sorodoc**
-  - visiting Masters student; co-supervised with Tim Baldwin
+  - Visiting Masters student; co-supervised with Tim Baldwin
