@@ -11,7 +11,7 @@
         {% when "inproceedings" %}
           <i>{{ paper.booktitle }}</i>{% if paper.address %}, {{paper.address}}{% endif %}{% if paper.pages %}, pages {{paper.pages}}{% endif %}
         {% when "article" %}
-          <i>{{ paper.journal }}</i>{% if paper.volume %}, {{ paper.volume }}{% endif %}{% if paper.number %}({{ paper.number }}){% endif %}
+          <i>{{ paper.journal }}</i>{% if paper.volume %}, Vol {{ paper.volume }}{% endif %}{% if paper.number %}({{ paper.number }}){% endif %}
       {% endcase %}
       {% if paper.docurl %}
         <a href="{{paper.docurl}}">[pdf]</a>
