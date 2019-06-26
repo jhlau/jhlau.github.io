@@ -321,7 +321,7 @@ papers:
     venue: conference
     year: 2019
     doc-url: https://www.aclweb.org/anthology/N19-1163
-    code: https://github.com/DeepBrainAI/ERD
+    code-url: https://github.com/DeepBrainAI/ERD
     pages: 1614&mdash;1623
     address: Minneapolis, Minnesota
   - layout: paper
@@ -332,6 +332,6 @@ papers:
     venue: conference
     year: 2018
     doc-url: https://www.aclweb.org/anthology/P18-1181
-    code:
+    code-url:
     pages: 1948&mdash;1958
     address: Melbourne, Australia
