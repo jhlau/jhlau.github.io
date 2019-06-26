@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 
 * Ph.D., Engineering Science (Computer), 2013
   * The University of Melbourne
@@ -18,10 +18,10 @@ redirect_from:
   * The University of Melbourne
   * First Class Honours
   
-# Appointments
+## Appointments
 
 * Lecturer, 2019 &mdash; present
-  * School of Computing and Information Systems, The University of Melbourne
+  * The University of Melbourne, School of Computing and Information Systems
 
 * Research Staff Member, 2015 &mdash; 2019
   * IBM Research Australia
@@ -34,34 +34,21 @@ redirect_from:
   * Transtech Consulting Service
  
   
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
+  
+## Teaching
+
+{ % include teaching.html %}
+  
+## Academic Honours 
+
+## Grants
+
+## Supervision
+
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
