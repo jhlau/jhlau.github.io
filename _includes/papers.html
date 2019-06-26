@@ -9,10 +9,7 @@
       In
       {% case paper.paper-type %}
         {% when "inproceedings" %}
-          <i>{{ paper.booktitle }}</i>xx
-        {% if paper.address %}
-, {{paper.address}}
-        {% endif %}
+          <i>{{ paper.booktitle }}</i>{% if paper.address %}, {{paper.address}}{% endif %}
         {% if paper.pages %}
          , pages {{paper.pages}}
         {% endif %}
