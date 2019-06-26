@@ -334,6 +334,34 @@ papers:
     codeurl: "https://github.com/jhlau/deepspeare"
     pages: 1948&mdash;1958
   - layout: paper
+    author: "J.P. Bernardy, S. Lappin, and J.H. Lau"
+    title: "The Influence of Context on Sentence Acceptability Judgements"
+    year: 2019
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018)"
+    address: "Melbourne, Australia"
+    docurl: "https://www.aclweb.org/anthology/P18-2073"
+    pages: 456&mdash;461
+  - layout: paper
+    author: "W. Zhang, Q.Z. Sheng, J.H. Lau, E. Abebe, and W. Ruan"
+    title: "Duplicate Detection in Programming Question Answering Communities"
+    year: 2018
+    paper-type: article
+    journal: "ACM Transactions of Internet Technology"
+    volume: 18(3)
+    docurl: "https://github.com/jhlau/jhlau.github.io/raw/master/files/2018-acm-duplicate-detection.pdf"
+    pages: 1&mdash;21
+  - layout: paper
+    author: "S. Bhatia, J.H. Lau, and T. Baldwin"
+    title: "Topic Intrusion for Automatic Topic Model Evaluation"
+    year: 2018
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing"
+    address: "Brussels, Belgium"
+    docurl: "https://www.aclweb.org/anthology/D18-1098"
+    codeurl: "https://github.com/sb1992/Topic-Intrusion-for-Automatic-Topic-Model-Evaluation"
+    pages: 844&mdash;849
+  - layout: paper
     author: "N. Aletras, T. Baldwin, J.H. Lau, and M. Stevenson"
     title: "Evaluating Topic Representations for Exploring Document Collections"
     year: 2017
@@ -371,7 +399,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the XVI EURALEX International Congress (EURALEX 2014)"
     address: "Bolzano, Italy"
-    pages: 15-19
+    pages: 15&mdash;19
   - layout: paper
     author: "J.H. Lau, A. Clark, and S. Lappin"
     title: "Measuring Gradience in Speakers&apos; Grammaticality Judgements"
@@ -473,7 +501,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL HLT 2011)"
     address: "Portland, USA"
-    pages: 1536-1545
+    pages: 1536&mdash;1545
   - layout: paper
     author: "J.H. Lau, D. Newman, S. Karimi, and T. Baldwin"
     title: "Best Topic Word Selection for Topic Labelling"
