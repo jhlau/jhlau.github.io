@@ -21,11 +21,11 @@
             {% if paper.volume %}{{ paper.volume }}{% if paper.number %}({{ paper.number }}){% endif %}.{% endif %}
             {% if paper.article%}Article {{ paper.article}}.{% endif %}
       {% endcase %}
-      {% if paper.doc-url %}
-        <a href="{{paper.doc-url}}">[pdf]</a>
+      {% if paper.docurl %}
+        <a href="{{paper.docurl}}">[pdf]</a>
       {% endif %}
-      {% if paper.code-url %}
-        <a href="{{paper.code-url}}">[code]</a>
+      {% if paper.codeurl %}
+        <a href="{{paper.codeurl}}">[code]</a>
       {% endif %}
       </li>
 
