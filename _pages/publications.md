@@ -14,3 +14,7 @@ Full publication list is given below. <a href="https://scholar.google.com.au/cit
 ## 2018
 
 {% include papers.html year=2018 %}
+
+## 2017
+
+{% include papers.html year=2017 %}
