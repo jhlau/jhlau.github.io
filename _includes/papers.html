@@ -1,7 +1,7 @@
 
 <ul>
   {% for paper in site.papers %}
-
+    {% if paper.year == include.year %}
       <li>
       {{ paper.author }}
       ({{ paper.year }}).
@@ -20,6 +20,6 @@
         <a href="{{paper.codeurl}}">[code]</a>
       {% endif %}
       </li>
-
+    {% endif %}
   {% endfor %}
 </ul>
