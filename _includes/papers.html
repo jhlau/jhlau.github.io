@@ -9,9 +9,13 @@
       In
       {% case paper.paper-type %}
         {% when "inproceedings" %}
-          <i>{{ paper.booktitle }}</i>,
-          {{paper.address}},
-          pages {{paper.pages}}.
+          <i>{{ paper.booktitle }}</i>
+        {% if paper.address %}
+          , {{paper.address}}
+        {% endif %}
+        {% if paper.pages %}
+          , pages {{paper.pages}}
+        {% endif %}
         {% when "article" %}
             <i>{{ paper.journal }}</i>,
             {% if paper.volume %}{{ paper.volume }}{% if paper.number %}({{ paper.number }}){% endif %}.{% endif %}
