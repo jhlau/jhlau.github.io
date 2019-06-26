@@ -1,0 +1,25 @@
+<h5>{{ include.heading }}</h5>
+<ol>
+  {% for paper in site.papers %}
+    {% if paper.venue == include.venue %}
+      <li>
+      {{ paper.year }}.
+      {{ paper.title }}.
+      In
+      {% case paper.paper-type %}
+        {% when "inproceedings" %}
+          <i>{{ paper.booktitle }}</i>.
+        {% when "article" %}
+            <i>{{ paper.journal }}</i>,
+            {% if paper.volume %}{{ paper.volume }}{% if paper.number %}({{ paper.number }}){% endif %}.{% endif %}
+            {% if paper.article%}Article {{ paper.article}}.{% endif %}
+      {% endcase %}
+      {% if paper.note %}
+        <p><b>
+      {{ paper.note }}
+        </b>
+      {% endif %}
+      </li>
+    {% endif %}
+  {% endfor %}
+</ol>
