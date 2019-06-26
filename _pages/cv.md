@@ -9,23 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D., Engineering Science (Computer), 2013
+  * The University of Melbourne
+  * Supervisors: Tim Baldwin and David Newman
+* B.E., Software Engineering, 2008
+  * The University of Melbourne
+  * First Class Honours
+  
+# Appointments
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Lecturer, 2019 &mdash; present
+  * School of Computing and Information Systems, The University of Melbourne
+
+* Research Staff Member, 2015 &mdash; 2019
+  * IBM Research Australia
+  
+* Research Associate, 2013 &mdash; 2015
+  * King's College London
+  * Supervisors: Shalom Lappin and Alexander Clark
+  
+* Software Developer, 2008 &mdash; 2011
+  * Transtech Consulting Service
+ 
+  
   
 Skills
 ======
