@@ -325,7 +325,7 @@ papers:
     address: Minneapolis, Minnesota
   - layout: paper
     author: J.H. Lau, T. Cohn, T. Baldwin, J. Brooke, and A. Hammond
-    title: Deep-speare: A Joint Neural Model of Poetic Language, Meter and Rhyme
+    title: "Deep-speare: A Joint Neural Model of Poetic Language, Meter and Rhyme"
     booktitle: Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018)
     paper-type: inproceedings
     venue: conference
