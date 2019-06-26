@@ -20,6 +20,9 @@
       {% if paper.doc-url %}
         <a href="{{paper.doc-url}}">[pdf]</a>
       {% endif %}
+      {% if paper.code-url %}
+        <a href="{{paper.code-url}}">[code]</a>
+      {% endif %}
       </li>
 
   {% endfor %}
