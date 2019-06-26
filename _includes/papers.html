@@ -12,7 +12,7 @@
           <i>{{ paper.booktitle }}</i>{% if paper.address %}, {{paper.address}}{% endif %}{% if paper.pages %}, pages {{paper.pages}}{% endif %}
         {% when "article" %}
           <i>{{ paper.journal }}</i>{% if paper.volume %}, Vol {{ paper.volume }}{% endif %}{% if paper.number %}({{ paper.number }}){% endif %}
-      {% endcase %}
+      {% endcase %}.
       {% if paper.docurl %}
         <a href="{{paper.docurl}}">[pdf]</a>
       {% endif %}
