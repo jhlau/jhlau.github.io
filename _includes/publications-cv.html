@@ -1,7 +1,6 @@
 <ol>
-<small>
   {% for paper in site.papers %}
-    {% if paper.year == include.year %}
+    {% if paper.paper-type == include.paper-type %}
       <li>
       [{{ paper.year }}] 
       <b>{{ paper.title }}</b>.
@@ -15,5 +14,4 @@
       </li>
     {% endif %}
   {% endfor %}
-</small>
 </ol>
