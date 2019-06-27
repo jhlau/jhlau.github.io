@@ -38,7 +38,6 @@ redirect_from:
   
 ## Teaching
 
-{ % include teaching.md %}
   
 ## Academic Honours 
 
