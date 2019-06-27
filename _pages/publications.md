@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Full publication list is given below. Please see <a href={{ site.author.googlescholar }}>my Google Scholar profile</a> for bibliometrics.
+Full publication list is given below. Please see <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a> for bibliometrics.
 ## 2019
 
 {% include publications.html year=2019 %}
