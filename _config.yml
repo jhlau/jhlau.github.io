@@ -366,7 +366,7 @@ papers:
     title: "Preferred Answer Selection in Stack Overflow: Better Text Representations ... and Metadata, Metadata, Metadata"
     year: 2018
     paper-type: inproceedings
-    booktitle: "Proceedings of the 2018 {EMNLP} Workshop W-{NUT}: The 4th Workshop on Noisy User-generated Text"
+    booktitle: "Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th Workshop on Noisy User-generated Text"
     address: "Brussels, Belgium"
     docurl: "https://www.aclweb.org/anthology/W18-6119"
     pages: 137&mdash;147
@@ -421,7 +421,7 @@ papers:
     title: "Decoupling Encoder and Decoder Networks for Abstractive Document Summarization"
     year: 2017
     paper-type: inproceedings
-    booktitle: "Proceedings of the {M}ulti{L}ing 2017 Workshop on Summarization and Summary Evaluation Across Source Types and Genres"
+    booktitle: "Proceedings of the MultiLing 2017 Workshop on Summarization and Summary Evaluation Across Source Types and Genres"
     address: "Valencia, Spain"
     docurl: "https://www.aclweb.org/anthology/W17-1002"
     pages: 7&mdash;11
@@ -478,7 +478,7 @@ papers:
     title: "The Sensitivity of Topic Coherence Evaluation to Topic Cardinality"
     year: 2016
     paper-type: inproceedings
-    booktitle: "Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics --- Human Language Technologies (NAACL HLT 2016)"
+    booktitle: "Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2016)"
     address: "San Diego, USA"
     docurl: "https://www.aclweb.org/anthology/N16-1057"
     codeurl: "https://github.com/jhlau/topic-coherence-sensitivity"
@@ -543,7 +543,7 @@ papers:
     title: "Learning Word Sense Distributions, Detecting Unattested Senses and Identifying Novel Senses Using Topic Models"
     year: 2014
     paper-type: inproceedings
-    booktitle: "Proceedings of the 52nd Annual Meet- ing of the Association for Computational Linguistics (ACL 2014)"
+    booktitle: "Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (ACL 2014)"
     address: "Baltimore, Maryland"
     docurl: "https://www.aclweb.org/anthology/P14-1025"
     pages: 259&mdash;270
@@ -596,7 +596,7 @@ papers:
     title: "A Lexicographic Appraisal of an Automatic Approach for Detecting New Word Senses"
     year: 2013
     paper-type: inproceedings
-    booktitle: "Proceedings of {eLex} 2013"
+    booktitle: "Proceedings of eLex 2013"
     address: "Tallinn, Estonia"
     docurl: "https://github.com/jhlau/jhlau.github.io/raw/master/files/2013-elex-sense.pdf"
     pages: 49&mdash;65
