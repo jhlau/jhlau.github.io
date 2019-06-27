@@ -48,5 +48,11 @@ redirect_from:
 
 ## Publications
 
-{% include papers.html %}
+### Journal
+
+{% include publications-cv.html paper-type=article %}
+
+### Conference
+
+{% include publications-cv.html paper-type=inproceedings %}
   
