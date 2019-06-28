@@ -2,7 +2,7 @@
   {% for people in site.team %}
     {% if people.completed == include.completed & people.type == include.type %}
       <li>
-      <b>{{ people.name }}</b>
+      <b>{{ people.name }}</b> ({{ people.start }} &mdash; {% if people.end %}{{ people.end }}{% endif %})
       <ul>
         <li>{{ people.role }}; co-supervised with {{ people.co-supervisor }}</li>
         {% if people.current %}
