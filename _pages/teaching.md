@@ -5,6 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-????
+?
 
 {% include teaching.html %}
