@@ -337,14 +337,6 @@ team:
     start: 2017
     end:
     current:
-  - name: "Adel Foda"
-    completed: 0
-    role: "PhD student"
-    type: student
-    co-supervisor: "Tim Baldwin"
-    start: 2016
-    end:
-    current:
   - name: "Steven Xu"
     completed: 1
     role: "MSc student"
@@ -352,6 +344,14 @@ team:
     co-supervisor: "Tim Baldwin"
     start: 2017
     end: 2017
+    current:
+  - name: "Adel Foda"
+    completed: 0
+    role: "PhD student"
+    type: student
+    co-supervisor: "Tim Baldwin"
+    start: 2016
+    end:
     current:
   - name: "Ionut-Teodor Sorodoc"
     completed: 1
