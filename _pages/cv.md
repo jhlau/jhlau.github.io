@@ -36,6 +36,15 @@ redirect_from:
   
 
 ## Grants
+- [2017&mdash;2022] **Industrial Transformation Training Centre on Cognitive Computing for Medical Technologies** (AUD$4.1M)
+  - Australian Research Council (ARC) 
+  - Partner Investigator, joint with T. Baldwin, D. Freestone, D. Grayden, C. Masters, K. Verspoor, M. Cook, A. Burkitt, T. Cohn, J. Bailey, I. Mareels, T. Kalincik, A. van Schaik; M. McDonnell, L. Cavedon, J. Batstone, S. Harrer, N. Faux, A. Jimeno Yepes, C. Butler, B. Goudey, U. Asif, J. Tang, B. Mashford, P. Maruff
+- [2014]&nbsp; **Learning Word Sense Distributions for Wordnets of the World’s Languages** (USD$10K)
+  - Google Cloud Credits Award
+  - Partner Investigator, joint with T. Baldwin, F. Bond and P. Cook
+- [2013&mdash;2015]&nbsp; **Personalised Topic Modelling and Sentiment Analysis for Enhanced Information Discovery over Document Streams** (AUD$195K)
+  - Australian Research Council (ARC) Linkage Project
+  - Partner Investigator, joint with T. Baldwin, J. Wells and D. Johnson
 
 
 ## Academic Honours
