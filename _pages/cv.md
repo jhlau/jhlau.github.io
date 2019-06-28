@@ -49,8 +49,8 @@ redirect_from:
 
 ### Journal
 
-{% include publications-cv.html year=2017 %}
+{% include publications-cv.html paper-type="article" %}
 
 ### Conference
 
-  
+{% include publications-cv.html paper-type=article %}
