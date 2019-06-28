@@ -35,12 +35,20 @@ redirect_from:
  
   
 
-  
-
-
-## Academic Honours 
-
 ## Grants
+
+
+## Academic Honours
+
+- [2008] **Dean's Honour List**, The University of Melbourne
+- [2005] **Dean's Honour List**, The University of Melbourne
+- [2005] **Wyvern Medal for Academic Excellency**, Queen's College
+- [2005] **Dean's Honour List**, The University of Melbourne
+- [2005] **Wyvern Medal for Academic Excellency**, Queen's College
+- [2003] **Gold Medal for Euclid Mathematics Competition**
+
+
+
 
 ## Teaching
 
