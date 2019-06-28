@@ -1,6 +1,6 @@
 <ul>
   {% for subject in site.subjects %}
-    {% if paper.year == include.year %}
+    {% if subject.year == include.year %}
       <li>
       {{ subject.name }}
       {% if subject.note1 %}
