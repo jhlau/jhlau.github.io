@@ -311,6 +311,66 @@ compress_html:
     envs: development
     
     
+# Team
+team:
+  - name: "Han Liu"
+    completed: 0
+    type: "PhD student"
+    co-supervisor: "Richard Sinnott"
+    start: 2019
+    end:
+    current:
+  - name: "Fajri"
+    completed: 0
+    type: "PhD student"
+    co-supervisor: "Tim Baldwin"
+    start: 2018
+    end:
+    current:
+  - name: "Shraey Bhatia"
+    completed: 0
+    type: PhD student
+    co-supervisor: "Tim Baldwin"
+    start: 2017
+    end:
+    current:
+  - name: "Adel Foda"
+    completed: 0
+    type: "PhD student"
+    co-supervisor: "Tim Baldwin"
+    start: 2016
+    end:
+    current:
+  - name: "Steven Xu"
+    completed: 1
+    type: "MSc student"
+    co-supervisor: "Tim Baldwin"
+    start: 2017
+    end: 2017
+    current:
+  - name: "Ionut-Teodor Sorodoc"
+    completed: 1
+    type: "Visiting Masters student"
+    co-supervisor: "Tim Baldwin"
+    start: 2016
+    end: 2017
+    current: "Currently a PhD student at Pompeu Fabra University"
+  - name: "Shraey Bhatia"
+    completed: 1
+    type: "MSc student"
+    co-supervisor: "Tim Baldwin"
+    start: 2015
+    end: 2017
+    current: "Currently a PhD student at The University of Melbourne"
+  - name: "Andrew Bennett"
+    completed: 1
+    type: "MSc student"
+    co-supervisor: "Tim Baldwin"
+    start: 2014
+    end: 2016
+    current: "Currently a PhD student at Cornell University"
+    
+    
 # Publications
 papers:
   - layout: paper
