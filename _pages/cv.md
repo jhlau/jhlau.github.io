@@ -20,17 +20,17 @@ redirect_from:
   
 ## Appointments
 
-* Lecturer, 2019&mdash;present
+* [2019&mdash;present] Lecturer
   * The University of Melbourne, School of Computing and Information Systems
 
-* Research Staff Member, 2015&mdash;2019
+* [2015&mdash;2019] Research Staff Member
   * IBM Research Australia
   
-* Research Associate, 2013&mdash;2015
+* [2013&mdash;2015] Research Associate
   * King's College London
   * Supervisors: Shalom Lappin and Alexander Clark
   
-* Software Developer, 2008&mdash;2011
+* [2008&mdash;2011] Software Developer
   * Transtech Consulting Service
  
   
