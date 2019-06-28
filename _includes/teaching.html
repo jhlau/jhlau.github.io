@@ -1,11 +1,14 @@
 <ul>
   {% for subject in site.subjects %}
+    {% if paper.year == include.year %}
       <li>
       {{ subject.name }}
+      {% if subject.note1 %}
       <ul>
-        <li>{{ subject.year }}</li>
-        <li>{% if subject.note1 %}{{ subject.note1 }}{% endif %}</li>
+        <li>{{ subject.note1 }}</li>
       </ul>
+      {% endif %}
       </li>
+    {% endif %}
   {% endfor %}
 </ul>
