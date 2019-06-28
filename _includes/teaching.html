@@ -2,6 +2,10 @@
   {% for subject in site.subjects %}
       <li>
       {{ subject.name }}
+      <ul>
+        <li>{{ subject.year }}</li>
+        <li>{% if subject.note1 %}{{ subject.note1 }}{% endif %}</li>
+      </ul>
       </li>
   {% endfor %}
 </ul>
