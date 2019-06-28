@@ -320,6 +320,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2019)"
     address: "Minneapolis, Minnesota"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/N19-1163"
     codeurl: "https://github.com/DeepBrainAI/ERD"
     pages: 1614&mdash;1623
@@ -330,6 +331,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018)"
     address: "Melbourne, Australia"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/P18-1181"
     codeurl: "https://github.com/jhlau/deepspeare"
     pages: 1948&mdash;1958
@@ -340,6 +342,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018)"
     address: "Melbourne, Australia"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/P18-2073"
     pages: 456&mdash;461
   - layout: paper
@@ -349,6 +352,7 @@ papers:
     paper-type: article
     journal: "ACM Transactions of Internet Technology"
     volume: 18(3)
+    venue: journal
     docurl: "https://github.com/jhlau/jhlau.github.io/raw/master/files/2018-acm-duplicate-detection.pdf"
     pages: 1&mdash;21
   - layout: paper
@@ -356,8 +360,9 @@ papers:
     title: "Topic Intrusion for Automatic Topic Model Evaluation"
     year: 2018
     paper-type: inproceedings
-    booktitle: "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing"
+    booktitle: "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)"
     address: "Brussels, Belgium"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/D18-1098"
     codeurl: "https://github.com/sb1992/Topic-Intrusion-for-Automatic-Topic-Model-Evaluation"
     pages: 844&mdash;849
@@ -368,6 +373,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th Workshop on Noisy User-generated Text"
     address: "Brussels, Belgium"
+    venue: workshop
     docurl: "https://www.aclweb.org/anthology/W18-6119"
     pages: 137&mdash;147
   - layout: paper
@@ -377,6 +383,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 8th International Joint Conference on Natural Language Processing (IJCNLP 2017)"
     address: "Taipei, Taiwan"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/I17-1075"
     pages: 744&mdash;753
   - layout: paper
@@ -386,6 +393,7 @@ papers:
     paper-type: article
     journal: "Cognitive Science"
     volume: 41
+    venue: journal
     docurl: "https://github.com/jhlau/jhlau.github.io/raw/master/files/2017-cogsci-grammaticality.pdf"
     pages: 1202&mdash;1241
   - layout: paper
@@ -395,6 +403,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL-2017)"
     address: "Vancouver, Canada"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/K17-1022"
     pages: 206&mdash;215
   - layout: paper
@@ -404,6 +413,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL 2017)"
     address: "Vancouver, Canada"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/P17-1033"
     codeurl: "https://github.com/jhlau/topically-driven-language-model"
     pages: 355&mdash;365
@@ -412,8 +422,9 @@ papers:
     title: "Detecting Duplicate Posts in Programming QA Communities via Latent Semantics and Association Rules"
     year: 2017
     paper-type: inproceedings
-    booktitle: "Proceedings of the 26th International Conference on World Wide Web"
+    booktitle: "Proceedings of the 26th International Conference on World Wide Web (WWW 2017)"
     address: "Perth, Australia"
+    venue: conference
     docurl: "https://github.com/jhlau/jhlau.github.io/raw/master/files/2017-www-duplicate-detection.pdf"
     pages: 1221&mdash;1229
   - layout: paper
@@ -423,6 +434,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the MultiLing 2017 Workshop on Summarization and Summary Evaluation Across Source Types and Genres"
     address: "Valencia, Spain"
+    venue: workshop
     docurl: "https://www.aclweb.org/anthology/W17-1002"
     pages: 7&mdash;11
   - layout: paper
@@ -432,6 +444,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 15th Conference of the EACL (EACL 2017)"
     address: "Valencia, Spain"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/E17-2111"
     pages: 701&mdash;706
   - layout: paper
@@ -441,6 +454,7 @@ papers:
     paper-type: article
     journal: "Journal of the Association for Information Science and Technology"
     volume: 68
+    venue: journal
     docurl: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/asi.23574"
     pages: 154&mdash;167
   - layout: paper
@@ -450,6 +464,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 26th International Conference on Computational Linguistics (COLING 2016)"
     address: "Osaka, Japan"
+    venue: conference
     docurl: "https://aclweb.org/anthology/C16-1091"
     codeurl: "https://github.com/sb1992/NETL-Automatic-Topic-Labelling-"
     pages: 953&mdash;963
@@ -460,6 +475,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 1st Workshop on Representation Learning for NLP"
     address: "Berlin, Germany"
+    venue: workshop
     docurl: "https://www.aclweb.org/anthology/W16-1609"
     codeurl: "https://github.com/jhlau/doc2vec"
     pages: 78&mdash;86
@@ -470,6 +486,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL 2016)"
     address: "Berlin, Germany"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/P16-1143"
     codeurl: "https://github.com/awbennett/LexSemTm"
     pages: 1513&mdash;1524
@@ -480,6 +497,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2016)"
     address: "San Diego, USA"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/N16-1057"
     codeurl: "https://github.com/jhlau/topic-coherence-sensitivity"
     pages: 483&mdash;487
@@ -490,6 +508,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the Joint conference of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing (ACL-IJCNLP 2015)"
     address: "Beijing, China"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/P15-1156"
     codeurl: "https://github.com/jhlau/acceptability_prediction"
     pages: 1618&mdash;1628
@@ -500,6 +519,7 @@ papers:
     paper-type: article
     journal: "Transactions of the Association for Computational Linguistics"
     volume: 2(Feb)
+    venue: journal
     docurl: "https://www.aclweb.org/anthology/Q14-1003"
     codeurl: "https://github.com/saffsd/polyglot"
     pages: 27&mdash;40
@@ -510,6 +530,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of Digital Libraries 2014"
     address: "London, UK"
+    venue: conference
     docurl: "https://github.com/jhlau/jhlau.github.io/raw/master/files/2014-jcdl-topic-label.pdf"
   - layout: paper
     author: "P. Cook, M. Rundell, J.H. Lau, and T. Baldwin"
@@ -518,6 +539,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the XVI EURALEX International Congress (EURALEX 2014)"
     address: "Bolzano, Italy"
+    venue: conference
     docurl: "http://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202014/euralex_2014_022_p_319.pdf"
     pages: 15&mdash;19
   - layout: paper
@@ -527,6 +549,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 25th International Conference on Computational Linguistics (COLING 2014)"
     address: "Dublin, Ireland"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/C14-1154"
     pages: 1624&mdash;1635
   - layout: paper
@@ -536,6 +559,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 36th Annual Meeting of the Cognitive Science Society (CogSci 2014)"
     address: "Quebec City, Canada"
+    venue: conference
     docurl: "https://github.com/jhlau/jhlau.github.io/raw/master/files/2014-cogsci-grammaticality.pdf"
     pages: 821&mdash;826
   - layout: paper
@@ -545,6 +569,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (ACL 2014)"
     address: "Baltimore, Maryland"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/P14-1025"
     pages: 259&mdash;270
   - layout: paper
@@ -554,6 +579,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 14th Conference of the EACL (EACL 2014)"
     address: "Gothenburg, Sweden"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/E14-1056"
     codeurl: "https://github.com/jhlau/topic_interpretability"
     pages: 530&mdash;539
@@ -564,6 +590,7 @@ papers:
     paper-type: article
     journal: "ACM Transactions on Speech and Language Processing"
     volume: 10
+    venue: journal
     docurl: "https://github.com/jhlau/jhlau.github.io/raw/master/files/2013-tslp-collocation.pdf"
     pages: 1&mdash;14
   - layout: paper
@@ -573,6 +600,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 7th International Workshop on Semantic Evaluation (SemEval 2013)"
     address: "Atlanta, USA"
+    venue: workshop
     docurl: "https://www.aclweb.org/anthology/S13-2051"
   - layout: paper
     author: "M. Mistica, J.H. Lau, and T. Baldwin"
@@ -581,6 +609,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 6th International Joint Conference on Natural Language Processing (IJCNLP 2013)"
     address: "Nagoya, Japan"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/I13-1080"
     pages: 685&mdash;691
   - layout: paper
@@ -590,6 +619,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 7th International Workshop on Semantic Evaluation (SemEval 2013)"
     address: "Atlanta, USA"
+    venue: workshop
     docurl: "https://www.aclweb.org/anthology/S13-2039"
   - layout: paper
     author: "P. Cook, J.H. Lau, and T. Baldwin"
@@ -598,6 +628,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of eLex 2013"
     address: "Tallinn, Estonia"
+    venue: conference
     docurl: "https://github.com/jhlau/jhlau.github.io/raw/master/files/2013-elex-sense.pdf"
     pages: 49&mdash;65
   - layout: paper
@@ -607,6 +638,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 13th Conference of the EACL (EACL 2012)"
     address: "Avignon, France"
+    venue: conference
     docurl: "https://aclweb.org/anthology/E12-1060"
     pages: 591&mdash;601
   - layout: paper
@@ -616,6 +648,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 24th International Conference of on Computational Linguistics (COLING 2012)"
     address: "Mumbai, India"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/C12-1093"
     pages: 1519&mdash;1534
   - layout: paper
@@ -625,6 +658,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 24th International Conference of on Computational Linguistics (COLING 2012)"
     address: "Mumbai, India"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/C12-1127"
     pages: 2077&mdash;2092
   - layout: paper
@@ -634,6 +668,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL HLT 2011)"
     address: "Portland, USA"
+    venue: conference
     docurl: "https://www.aclweb.org/anthology/P11-1154"
     pages: 1536&mdash;1545
   - layout: paper
@@ -643,6 +678,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 23rd International Conference on Computational Linguistics (COLING 2010), Posters Volume"
     address: "Beijing, China"
+    venue: conference
     docurl: "https://aclweb.org/anthology/C10-2069"
     pages: 605&mdash;613
   - layout: paper
@@ -652,5 +688,6 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of Human Language Technologies: The 11th Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL HLT 2010)"
     address: "Los Angeles, USA"
+    venue: conference
     docurl: "https://aclweb.org/anthology/N10-1012"
     pages: 100&mdash;108
