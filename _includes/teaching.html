@@ -2,7 +2,7 @@
   {% for subject in site.subjects %}
     {% if subject.year == include.year %}
       <li>
-      {{ subject.name }}
+        <b><a href="{{ subject.url }}">{{ subject.name }}</a></b> ({{ subject.department }})
       {% if subject.note1 %}
       <ul>
         <li>{{ subject.note1 }}</li>
