@@ -91,4 +91,4 @@ redirect_from:
 - [2019&mdash;2021]&nbsp; **Review Committee** for TACL
 - [2018]&nbsp; **Handbook Chair** for ACL 2018
 - [2015]&nbsp; **Co-organiser** for Topic Models: Post-Processing and Applications Workshop (TM 2015)
-- [2012&mdash;present]&nbsp; **Programme Committee** for: ACL, NAACL, EACL, EMNLP, COLING, IJCNLP, AAAI, CoNLL
+- [2012&mdash;present]&nbsp; **Programme Committee** for: ACL, NAACL, EACL, EMNLP, COLING, IJCNLP, AAAI, CoNLL, \*SEM, and ALTA
