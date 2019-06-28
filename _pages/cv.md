@@ -87,3 +87,8 @@ redirect_from:
 {% include publications-cv.html venue="workshop" %}
 
 ## Professional Activities
+
+- [2019&mdash;2021]&nbsp; **Review Committee** for TACL
+- [2018]&nbsp; **Handbook Chair** for ACL 2018
+- [2015]&nbsp; **Co-organiser** for Topic Models: Post-Processing and Applications Workshop (TM 2015)
+- **Programme Committee** for: ACL, NAACL, EACL, EMNLP, COLING, IJCNLP, AAAI, CoNLL
