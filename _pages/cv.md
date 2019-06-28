@@ -51,6 +51,6 @@ redirect_from:
 
 {% include publications-cv.html paper-type="article" %}
 
-### Conference
+### Conference/Workshop
 
-{% include publications-cv.html paper-type=article %}
+{% include publications-cv.html paper-type="inproceedings" %}
