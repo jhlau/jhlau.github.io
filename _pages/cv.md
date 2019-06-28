@@ -45,6 +45,8 @@ redirect_from:
 
 ## Supervision
 
+{% include supervision.html %}
+
 ## Publications
 
 ### Journal
