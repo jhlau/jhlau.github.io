@@ -2,7 +2,7 @@
   {% for paper in site.papers %}
     {% if paper.venue == include.venue %}
       <li>
-      [{{ paper.year }}] 
+      [{{ paper.year }}]&nbsp;
       <b>{{ paper.title }}</b>.
       In
       {% case paper.paper-type %}
