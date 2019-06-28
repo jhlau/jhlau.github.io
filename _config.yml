@@ -311,8 +311,8 @@ compress_html:
     envs: development
     
     
-# teaching
-teaching:
+# Teaching subjects
+subjects:
   - name: "BUSA90501 Text and Web Analytics (Melbourne Business School)"
     url: "https://handbook.unimelb.edu.au/2019/subjects/busa90501"
     year: "Winter 2019"
