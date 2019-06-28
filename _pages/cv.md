@@ -36,12 +36,15 @@ redirect_from:
   
 
   
-## Teaching
 
-  
+
 ## Academic Honours 
 
 ## Grants
+
+## Teaching
+
+{% include teaching-cv.html %}
 
 ## Supervision
 
