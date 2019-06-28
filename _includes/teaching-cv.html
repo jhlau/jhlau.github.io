@@ -1,0 +1,8 @@
+<ol>
+  {% for subject in site.subjects %}
+      <li>
+        [{{ subject.year }}]
+        <b>{{ subject.name }}</b> ({{ subject.department }})
+      </li>
+  {% endfor %}
+</ol>
