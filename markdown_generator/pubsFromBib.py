@@ -89,6 +89,9 @@ for pubsource in publist:
                     md += "    journal: \"" + b["journal"] + "\"\n"
                     if "volume" in b.keys():
                         md += "    volume: " + b["volume"] + "\n"
+
+                #venue
+                md += "    venue: " + b["venue"] + "\n"
                 
                 #optional doc and code url
                 if "docurl" in b.keys():
