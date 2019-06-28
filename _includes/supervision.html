@@ -1,0 +1,15 @@
+<ul>
+  {% for people in site.team %}
+    {% if people.completed == include.completed & people.type == include.type %}
+      <li>
+      <b>{{ people.name }}</b> ({{ people.start }}{% if people.end %}&mdash;{{ people.end }}{% endif %})
+      <ul>
+        <li>{{ people.role }}; co-supervised with {{ people.co-supervisor }}</li>
+        {% if people.current %}
+        <li>{{ people.current }}</li>
+        {% endif %}
+      </ul>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
