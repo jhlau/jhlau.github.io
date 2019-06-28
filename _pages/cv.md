@@ -11,10 +11,10 @@ redirect_from:
 
 ## Education
 
-* Ph.D., Engineering Science (Computer), 2013
+* [2013] **Ph.D., Engineering Science (Computer)**
   * The University of Melbourne
   * Supervisors: Tim Baldwin and David Newman
-* B.E., Software Engineering, 2008
+* [2008] **B.E., Software Engineering**
   * The University of Melbourne
   * First Class Honours
   
