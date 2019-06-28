@@ -38,7 +38,6 @@ redirect_from:
   
 ## Teaching
 
-{ % include teaching.md %}
   
 ## Academic Honours 
 
@@ -48,5 +47,14 @@ redirect_from:
 
 ## Publications
 
-{% include papers.html %}
-  
+### Journal
+
+{% include publications-cv.html venue="journal" %}
+
+### Conference
+
+{% include publications-cv.html venue="conference" %}
+
+### Workshop
+
+{% include publications-cv.html venue="workshop" %}
