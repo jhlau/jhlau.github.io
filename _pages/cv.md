@@ -47,9 +47,6 @@ redirect_from:
 - [2005] **Wyvern Medal for Academic Excellency**, Queen's College
 - [2003] **Gold Medal for Euclid Mathematics Competition**
 
-
-
-
 ## Teaching
 
 {% include teaching-cv.html %}
@@ -71,3 +68,5 @@ redirect_from:
 ### Workshop
 
 {% include publications-cv.html venue="workshop" %}
+
+## Professional Activities
