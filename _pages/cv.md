@@ -56,6 +56,14 @@ redirect_from:
 - [2005]&nbsp; **Wyvern Medal for Academic Excellency**, Queen's College
 - [2003]&nbsp; **Gold Medal for Euclid Mathematics Competition**
 
+## Invited Talks
+
+- [2018]&nbsp; **Deep-speare: A Joint Neural Model of Poetic Language, Meter and Rhyme**, Monash University
+- [2017]&nbsp; **Topically Driven Neural Language Model**, Monash University
+- [2014]&nbsp; **A Probabilistic Approach to Grammaticality**, University of Sheffield, University of Edinburgh
+- [2013]&nbsp; **Learning Predominant Sense with Non-parametric Topic Model**, South England NLP Meetup@UCL
+
+
 ## Teaching
 
 {% include teaching-cv.html %}
