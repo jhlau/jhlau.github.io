@@ -49,8 +49,12 @@ redirect_from:
 
 ### Journal
 
-{% include publications-cv.html paper-type="article" %}
+{% include publications-cv.html venue="journal" %}
 
-### Conference/Workshop
+### Conference
 
-{% include publications-cv.html paper-type="inproceedings" %}
+{% include publications-cv.html venue="conference" %}
+
+### Workshop
+
+{% include publications-cv.html venue="workshop" %}
