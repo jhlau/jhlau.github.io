@@ -14,5 +14,3 @@ author_profile: true
 ## Past
 
 {% include team.html completed=1 type="student" %}
-
-## ??
