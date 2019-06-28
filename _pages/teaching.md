@@ -5,4 +5,4 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include teaching.html %}
+{% include teaching.html year=2019 %}
