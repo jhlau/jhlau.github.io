@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research is in the intersection of machine learning and language, and my vision is to explore machine learning models to better understand language. I have a particular interest in language generation &mdash; tasks that require machine learning models to produce language, e.g. summarisation and story generation &mdash;  and unsupervised learning &mdash; learning where supervision signal is not available.
+My research is in the intersection of machine learning and language, and I have a particular interest in language generation &mdash; tasks that require machine learning models to produce language, e.g. summarisation and story generation &mdash;  and unsupervised learning &mdash; learning where supervision signal is not available.
 
 Prior to joining the University of Melbourne, I spent over 3.5 years as an industry scientist at IBM Research, developing solutions for clients in application domains from education to government. Parallel to this, I was active in research and collaborated with universities around the world, and in recognition of my scientific achievements I was awarded a research accomplishment prize by IBM in 2019.
 
