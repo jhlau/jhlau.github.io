@@ -322,6 +322,15 @@ subjects:
     
 # Team
 team:
+  - name: "Rongxiao Liu"
+    completed: 0
+    degree: "MIT"
+    type: student
+    affiliation: "The University of Melbourne"
+    co-supervisor:
+    start: 2019
+    end:
+    current:
   - name: "Han Liu"
     completed: 0
     degree: "PhD"
