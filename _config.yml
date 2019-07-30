@@ -322,6 +322,15 @@ subjects:
     
 # Team
 team:
+  - name: "Huidu Lu"
+    completed: 0
+    degree: "MSc"
+    type: student
+    affiliation: "The University of Melbourne"
+    co-supervisor: Lachlan Andrew
+    start: 2019
+    end:
+    current:
   - name: "Rongxiao Liu"
     completed: 0
     degree: "MIT"
