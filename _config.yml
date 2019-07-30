@@ -327,7 +327,7 @@ team:
     degree: "MSc"
     type: student
     affiliation: "The University of Melbourne"
-    co-supervisor: Lachlan Andrew
+    co-supervisor: "Lachlan Andrew"
     start: 2019
     end:
     current:
