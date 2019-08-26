@@ -1,6 +1,7 @@
 <ol>
   {% for paper in site.papers %}
-    {% if paper.venue == include.venue and paper.year == "2018" %}
+    {% if paper.venue == include.venue %}
+    {% if paper.year == 2018 %}
       <li>
       [{{ paper.year }}]&nbsp;
       <b>{{ paper.title }}</b>.
@@ -12,6 +13,7 @@
           <i>{{ paper.journal }}</i>.
       {% endcase %}
       </li>
+    {% endif %}
     {% endif %}
   {% endfor %}
 </ol>
