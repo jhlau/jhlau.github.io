@@ -1,6 +1,6 @@
 <ol>
   {% for paper in site.papers %}
-    {% if paper.venue == include.venue %}
+    {% if paper.venue == include.venue && paper.year != "to appear" %}
       <li>
       [{{ paper.year }}]&nbsp;
       <b>{{ paper.title }}</b>.
