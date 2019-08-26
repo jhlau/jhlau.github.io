@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 Full publication list is given below. Please see <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a> for bibliometrics.
+
+## To Appear
+
+{% include publications.html year="to appear" %}
+
 ## 2019
 
 {% include publications.html year=2019 %}
