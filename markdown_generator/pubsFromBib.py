@@ -77,7 +77,7 @@ for pubsource in publist:
                 md  = "  - layout: paper" + "\n"
                 md += "    author: \"" + authors + "\"\n"
                 md += "    title: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
-                md += "    year: " + b["year"] + "\n"
+                md += "    year: \"" + b["year"] + "\"\n"
                 md += "    paper-type: " + paper_type + "\n"
 
                 if paper_type == "inproceedings":
