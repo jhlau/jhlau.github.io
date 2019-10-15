@@ -1,5 +1,5 @@
 <ol>
-  {% for paper in site.papers %}
+  {% for paper in site.data.papers.papers %}
     {% if paper.venue == include.venue %}
     {% if paper.year != "to appear" %}
       <li>
