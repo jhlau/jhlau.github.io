@@ -58,6 +58,7 @@ redirect_from:
 
 ## Invited Talks
 
+- [2019]&nbsp; **Creativity, Machine and Poetry**, Language: interdisciplinary public forum
 - [2018]&nbsp; **Deep-speare: A Joint Neural Model of Poetic Language, Meter and Rhyme**, Monash University
 - [2017]&nbsp; **Topically Driven Neural Language Model**, Monash University
 - [2014]&nbsp; **A Probabilistic Approach to Grammaticality**, University of Sheffield, University of Edinburgh
