@@ -1,5 +1,5 @@
 <ul>
-  {% for people in site.team %}
+  {% for people in site.data.team.team %}
 
       <li>
       [{{ people.start }}{% if people.end %}&mdash;{{ people.end }}{% endif %}]&nbsp; <b>{{ people.name }}</b>,
