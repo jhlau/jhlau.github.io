@@ -1,5 +1,5 @@
 <ul>
-  {% for people in site.team %}
+  {% for people in site.data.team.team %}
     {% if people.completed == include.completed & people.type == include.type %}
       <li>
       <b>{{ people.name }}</b> ({{ people.start }}{% if people.end %}&mdash;{{ people.end }}{% endif %})
