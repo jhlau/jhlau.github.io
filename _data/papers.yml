@@ -2,7 +2,7 @@ papers:
   - layout: paper
     author: "Z. Xie, J.H. Lau, and T. Cohn"
     title: "From Shakespeare to Li-Bai: Adapting a Sonnet Model to Chinese Poetry"
-    year: "2019"
+    year: 2019
     paper-type: inproceedings
     booktitle: "Proceedings of the The 17th Annual Workshop of the Australasian Language Technology Association"
     address: "Sydney, Australia"
@@ -12,7 +12,7 @@ papers:
   - layout: paper
     author: "F. Koto, J.H. Lau, and T. Baldwin"
     title: "Improved Document Modelling with a Neural Discourse Parser"
-    year: "2019"
+    year: 2019
     paper-type: inproceedings
     booktitle: "Proceedings of the The 17th Annual Workshop of the Australasian Language Technology Association"
     address: "Sydney, Australia"
