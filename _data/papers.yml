@@ -1,5 +1,26 @@
 papers:
   - layout: paper
+    author: "Z. Xie, J.H. Lau, and T. Cohn"
+    title: "From Shakespeare to Li-Bai: Adapting a Sonnet Model to Chinese Poetry"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the The 17th Annual Workshop of the Australasian Language Technology Association"
+    address: "Sydney, Australia"
+    venue: workshop
+    docurl: "https://www.aclweb.org/anthology/U19-1002"
+    pages: 10&mdash;18
+  - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Improved Document Modelling with a Neural Discourse Parser"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the The 17th Annual Workshop of the Australasian Language Technology Association"
+    address: "Sydney, Australia"
+    venue: workshop
+    docurl: "https://www.aclweb.org/anthology/U19-1010"
+    codeurl: "https://github.com/fajri91/RSTExtractor"
+    pages: 67&mdash;76
+  - layout: paper
     author: "S. Zhang, J.H. Lau, X. Zhang, J. Chan, and C. Paris"
     title: "Discovering Relevant Reviews for Answering Product-related Queries"
     year: "to appear"
