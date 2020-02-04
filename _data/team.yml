@@ -1,4 +1,29 @@
 team:
+  - name: "Takashi Wada"
+    completed: 0
+    degree: "PhD"
+    type: student
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Tim Baldwin"
+    start: 2020
+    end:
+  - name: "Yulia Otmakhova"
+    completed: 0
+    degree: "PhD"
+    type: student
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Karin Verspoor, Tim Baldwin"
+    start: 2020
+    end:
+  - name: "Zhuohan Xie"
+    completed: 0
+    degree: "PhD"
+    type: student
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Trevor Cohn"
+    start: 2020
+    end:
+    current:
   - name: "Huidu Lu"
     completed: 0
     degree: "MSc"
@@ -9,7 +34,7 @@ team:
     end:
     current:
   - name: "Rongxiao Liu"
-    completed: 0
+    completed: 1
     degree: "MIT"
     type: student
     affiliation: "The University of Melbourne"
