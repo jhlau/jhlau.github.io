@@ -1,5 +1,16 @@
 papers:
   - layout: paper
+    author: "S. Zhang, J.H. Lau, X. Zhang, J. Chan, and C. Paris"
+    title: "Discovering Relevant Reviews for Answering Product-related Queries"
+    year: 2019
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 19th IEEE International Conference on Data Mining (ICDM 2019)"
+    address: "Beijing, China"
+    venue: conference
+    docurl: "https://github.com/jhlau/jhlau.github.io/raw/master/files/2019-icdm-qa.pdf"
+    codeurl: "https://github.com/zswvivi/icdm_pqa"
+    pages: 1468&mdash;1473
+  - layout: paper
     author: "Z. Xie, J.H. Lau, and T. Cohn"
     title: "From Shakespeare to Li-Bai: Adapting a Sonnet Model to Chinese Poetry"
     year: 2019
@@ -20,14 +31,6 @@ papers:
     docurl: "https://www.aclweb.org/anthology/U19-1010"
     codeurl: "https://github.com/fajri91/RSTExtractor"
     pages: 67&mdash;76
-  - layout: paper
-    author: "S. Zhang, J.H. Lau, X. Zhang, J. Chan, and C. Paris"
-    title: "Discovering Relevant Reviews for Answering Product-related Queries"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 19th IEEE International Conference on Data Mining (ICDM 2019)"
-    address: "Beijing, China"
-    venue: conference
   - layout: paper
     author: "K. Zhou, C. Shu, B. Li, and J.H. Lau"
     title: "Early Rumour Detection"
