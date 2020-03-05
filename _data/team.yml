@@ -1,4 +1,12 @@
 team:
+  - name: "Lin Tian"
+    completed: 0
+    degree: "PhD"
+    type: student
+    affiliation: "RMIT University"
+    co-supervisor: "Jenny Zhang"
+    start: 2020
+    end:
   - name: "Takashi Wada"
     completed: 0
     degree: "PhD"
