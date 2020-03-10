@@ -1,5 +1,12 @@
 papers:
   - layout: paper
+    author: "J.H. Lau, Carlos Armendariz, Shalom Lappin, Matthew Purver, and Chang Shu"
+    title: "How Furiously Can Colourless Green Ideas Sleep? Sentence Acceptability in Context"
+    year: "to appear"
+    paper-type: article
+    journal: "Transactions of the Association for Computational Linguistics"
+    venue: journal
+  - layout: paper
     author: "S. Zhang, J.H. Lau, X. Zhang, J. Chan, and C. Paris"
     title: "Discovering Relevant Reviews for Answering Product-related Queries"
     year: 2019
