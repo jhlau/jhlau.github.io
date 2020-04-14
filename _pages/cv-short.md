@@ -50,6 +50,6 @@ redirect_from:
 
 ## Publications
 
-{% for yr in (2010..2019) reversed %}
+{% for yr in (2015..2019) reversed %}
 {% include publications.html year=yr %}
 {% endfor %}
