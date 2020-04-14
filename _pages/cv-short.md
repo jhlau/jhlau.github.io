@@ -51,5 +51,5 @@ redirect_from:
 ## Publications
 
 {% for yr in (2015..2019) reversed %}
-{% include publications.html year=yr %}
+{% include publications-cv-short.html year=yr %}
 {% endfor %}

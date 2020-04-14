@@ -1,0 +1,18 @@
+<ol>
+  {% for paper in site.data.papers.papers %}
+    {% if paper.year == include.year %}
+      <li>
+      [{{ paper.year }}]&nbsp;
+      <b>{{ paper.title }}</b>.
+      In
+      {% case paper.paper-type %}
+        {% when "inproceedings" %}
+          <i>{{ paper.booktitle }}</i>.
+        {% when "article" %}
+          <i>{{ paper.journal }}</i>.
+      {% endcase %}
+      </li>
+    {% endif %}
+    {% endif %}
+  {% endfor %}
+</ol>
