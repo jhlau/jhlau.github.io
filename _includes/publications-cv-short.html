@@ -1,22 +1,18 @@
-<ul>
+<ol>
   {% for paper in site.data.papers.papers %}
     {% if paper.year == include.year %}
       <li>
-      {{ paper.author }}
-      ({{ paper.year }}).
-      {% if paper.docurl %}<a href="{{paper.docurl}}">{% endif %}
-      <b>{{ paper.title }}</b>{% if paper.docurl %}</a>{% endif %}.
+      [{{ paper.year }}]&nbsp;
+      <b>{{ paper.title }}</b>.
       In
       {% case paper.paper-type %}
         {% when "inproceedings" %}
-          <i>{{ paper.booktitle }}</i>{% if paper.address %}, {{paper.address}}{% endif %}{% if paper.pages %}, pages {{paper.pages}}{% endif %}.
+          <i>{{ paper.booktitle }}</i>.
         {% when "article" %}
-          <i>{{ paper.journal }}</i>{% if paper.volume %}, Vol {{ paper.volume }}{% endif %}{% if paper.number %}({{ paper.number }}){% endif %}.
+          <i>{{ paper.journal }}</i>.
       {% endcase %}
-      {% if paper.codeurl %}
-        <a href="{{paper.codeurl}}">[code]</a>
-      {% endif %}
       </li>
     {% endif %}
+    {% endif %}
   {% endfor %}
-</ul>
+</ol>
