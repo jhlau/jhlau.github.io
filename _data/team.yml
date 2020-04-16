@@ -1,4 +1,13 @@
 team:
+  - name: "Chaoxian Zhou"
+    completed: 0
+    degree: "MSc"
+    type: student
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Daniel Beck"
+    start: 2020
+    end:
+    current:
   - name: "Hualong Deng"
     completed: 0
     degree: "MSc"
