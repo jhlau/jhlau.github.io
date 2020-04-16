@@ -86,6 +86,15 @@ team:
     start: 2018
     end:
     current:
+  - name: "Shiwei Zhang"
+    completed: 0
+    degree: "PhD"
+    type: student
+    affiliation: "RMIT University"
+    co-supervisor: "Jenny Zhang, Jeffrey Chan, Cecile Paris"
+    start: 2017
+    end:
+    current:
   - name: "Shraey Bhatia"
     completed: 0
     degree: "PhD"
