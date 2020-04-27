@@ -1,4 +1,13 @@
 team:
+  - name: "Chaoxian Zhou"
+    completed: 0
+    degree: "MSc"
+    type: student
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Daniel Beck"
+    start: 2020
+    end:
+    current:
   - name: "Hualong Deng"
     completed: 0
     degree: "MSc"
@@ -76,7 +85,7 @@ team:
     co-supervisor: "Trevor Cohn"
     start: 2019
     end: 2019
-    current:
+    current: "Currently a PhD student at The University of Melbourne"
   - name: "Fajri"
     completed: 0
     degree: "PhD"
@@ -103,6 +112,15 @@ team:
     co-supervisor: "Tim Baldwin"
     start: 2017
     end: 2017
+    current:
+  - name: "Shiwei Zhang"
+    completed: 0
+    degree: "PhD"
+    type: student
+    affiliation: "RMIT University"
+    co-supervisor: "Jenny Zhang, Jeffrey Chan, Cecile Paris"
+    start: 2016
+    end:
     current:
   - name: "Adel Foda"
     completed: 0
