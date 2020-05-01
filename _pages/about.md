@@ -13,9 +13,8 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 
 ### News
 
-- Our IEEE Spectrum article "The AI Poet" 
-  [(draft)](https://github.com/jhlau/jhlau.github.io/raw/master/files/ieee-deepspeare.pdf) 
-will be published next month (May 2020)!
+- Our IEEE Spectrum article ["The AI Poet"](https://spectrum.ieee.org/artificial-intelligence/machine-learning/this-ai-poet-mastered-rhythm-rhyme-and-natural-language-to-write-like-shakespeare) 
+is up.
 - I'm presenting a talk on "Creativity, Machine and Poetry" at a [public forum on language](https://art-museum.unimelb.edu.au/events/language/).
 - I'm recruiting PhD students. If you're interested in language 
   generation, please contact me.
