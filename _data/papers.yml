@@ -1,5 +1,21 @@
 papers:
   - layout: paper
+    author: "K. Leins, J.H. Lau, and T. Baldwin"
+    title: "Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)"
+    address: "Seattle, USA"
+    venue: conference
+  - layout: paper
+    author: "Y. Xu, X. Zhong, A. Jimeno-Yepes, and J.H. Lau"
+    title: "Forget Me Not: Reducing Catastrophic Forgetting for Domain Adaptation in Reading Comprehension"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2020 International Joint Conference on Neural Networks (IJCNN2020)"
+    address: "Glasgow, UK"
+    venue: conference
+  - layout: paper
     author: "J.H. Lau, C. Armendariz, S. Lappin, M. Purver, and C. Shu"
     title: "How Furiously Can Colourless Green Ideas Sleep? Sentence Acceptability in Context"
     year: "to appear"
