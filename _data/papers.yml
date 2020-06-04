@@ -1,5 +1,13 @@
 papers:
   - layout: paper
+    author: "S. Zhang, X. Zhang, J.H. Lau, J. Chan, and C. Paris"
+    title: "Less is More: Rejecting Unreliable Reviews for Product Question Answering"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Machine Learning and Knowledge Discovery in Databases - European Conference (ECML PKDD 2020)"
+    address: "Ghent, Belgium"
+    venue: conference
+  - layout: paper
     author: "K. Leins, J.H. Lau, and T. Baldwin"
     title: "Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?"
     year: "to appear"
