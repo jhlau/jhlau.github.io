@@ -9,7 +9,7 @@ papers:
     venue: journal
     docurl: "https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00315"
     codeurl: "https://github.com/jhlau/acceptability-prediction-in-context"
-    pages: 296-310
+    pages: 296&mdash;310
   - layout: paper
     author: "S. Zhang, X. Zhang, J.H. Lau, J. Chan, and C. Paris"
     title: "Less is More: Rejecting Unreliable Reviews for Product Question Answering"
