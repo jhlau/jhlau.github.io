@@ -1,4 +1,12 @@
 team:
+  - name: "Rongxin Zhu"
+    completed: 0
+    degree: "PhD"
+    type: student
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Rui Zhang"
+    start: 2020
+    end:
   - name: "Chaoxian Zhou"
     completed: 0
     degree: "MSc"
