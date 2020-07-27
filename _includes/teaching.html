@@ -2,7 +2,12 @@
   {% for subject in site.data.teaching.subjects %}
     {% if subject.year == include.year %}
       <li>
-        <b><a href="{{ subject.url }}">{{ subject.name }}</a></b> ({{ subject.department }})
+        <b><a href="{{ subject.url }}">{{ subject.name }}</a></b> ({{ subject.semester }})
+      {% if subject.department != "Computing and Information Systems" %}
+      <ul>
+        <li>{{ subject.department }}</li>
+      </ul>
+      {% endif %}        
       {% if subject.note1 %}
       <ul>
         <li>{{ subject.note1 }}</li>
