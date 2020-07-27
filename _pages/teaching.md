@@ -9,8 +9,3 @@ author_profile: true
 ## {{yr}}
 {% include teaching.html year=yr %}
 {% endfor %}
-
-
-
-## test
-{% include teaching.html year=2019 %}
