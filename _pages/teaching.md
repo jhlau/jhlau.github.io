@@ -7,5 +7,5 @@ author_profile: true
 
 {% for yr in (2019..2020) reversed %}
 ## {{yr}}
-{% include teaching.html year=yr %}
+{% include teaching.html year="yr" %}
 {% endfor %}
