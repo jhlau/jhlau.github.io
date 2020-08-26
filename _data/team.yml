@@ -1,4 +1,20 @@
 team:
+  - name: "Yi Li"
+    completed: 0
+    degree: "MSc"
+    type: student
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Mel Mistica"
+    start: 2020
+    end:
+  - name: "An Nguyen"
+    completed: 0
+    degree: "MSc"
+    type: student
+    affiliation: "The University of Melbourne"
+    co-supervisor:
+    start: 2020
+    end:
   - name: "Rongxin Zhu"
     completed: 0
     degree: "PhD"
@@ -74,7 +90,7 @@ team:
     affiliation: "The University of Melbourne"
     co-supervisor:
     start: 2019
-    end:
+    end: 2019
     current:
   - name: "Han Liu"
     completed: 0
