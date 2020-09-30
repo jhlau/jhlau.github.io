@@ -1,5 +1,13 @@
 papers:
   - layout: paper
+    author: "T. Lin, X. Zhang, and J.H. Lau"
+    title: "#DemocratsAreDestroyingAmerica: Rumour Analysis on Twitter During COVID-19"
+    year: 2020
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 5th International Workshop on Mining Actionable Insights from Social Networks: Special Edition on Dis/Misinformation Mining from Social Media (MAISoN 2020)"
+    venue: workshop
+    docurl: "https://github.com/jhlau/jhlau.github.io/raw/master/files/2020-maison-rumour.pdf"
+  - layout: paper
     author: "K. Leins, J.H. Lau, and T. Baldwin"
     title: "Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?"
     year: 2020
