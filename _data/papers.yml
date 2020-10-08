@@ -1,5 +1,19 @@
 papers:
   - layout: paper
+    author: "F. Koto, A. Rahimi, J.H. Lau, and T. Baldwin"
+    title: "IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP"
+    year: 2020
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)"
+    venue: conference
+  - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Liputan6: A Large-scale Indonesian Dataset for Text Summarisation"
+    year: 2020
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2020)"
+    venue: conference
+  - layout: paper
     author: "T. Lin, X. Zhang, and J.H. Lau"
     title: "#DemocratsAreDestroyingAmerica: Rumour Analysis on Twitter During COVID-19"
     year: 2020
