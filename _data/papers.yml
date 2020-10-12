@@ -1,12 +1,5 @@
 papers:
   - layout: paper
-    author: "Y. Otmakhova, K. Verspoor, T. Baldwin, S. Suster, and J.H. Lau"
-    title: "Improved Topic Representations of Medical Documents to Assist COVID-19 Literature Exploration"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the EMNLP 2020 Workshop on NLP for COVID-19"
-    venue: workshop
-  - layout: paper
     author: "Y. Xu, X. Zhong, A. Jimeno-Yepes, and J.H. Lau"
     title: "Forget Me Not: Reducing Catastrophic Forgetting for Domain Adaptation in Reading Comprehension"
     year: 2020
