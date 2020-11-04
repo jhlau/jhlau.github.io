@@ -105,7 +105,7 @@ papers:
     pages: 1614&mdash;1623
   - layout: paper
     author: "K.N. Tran, J.H. Lau, D. Contractor, U. Gupta, B. Sengupta, C. Butler, and M. Mohania"
-    title: "Document Chunking and Learning Objective Generation for Instruction Design."
+    title: "Document Chunking and Learning Objective Generation for Instruction Design"
     year: 2018
     paper-type: inproceedings
     booktitle: "Proceedings of the 11th International Conference on Educational Data Mining"
