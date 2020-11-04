@@ -38,7 +38,7 @@ redirect_from:
 ## Grants
 - [2020] **Document Corpus Analysis** (AUD$20K)
   - Defence Science and Technology: AI for Decision Making Initiative
-  - Investigator, joint with M. Mistica and T. Baldwin
+  - Chief Investigator, joint with M. Mistica and T. Baldwin
 - [2017&mdash;2022] **Industrial Transformation Training Centre on Cognitive Computing for Medical Technologies** (AUD$4.1M)
   - Australian Research Council (ARC) 
   - Chief Investigator, joint with T. Baldwin, D. Freestone, D. Grayden, C. Masters, K. Verspoor, M. Cook, A. Burkitt, T. Cohn, J. Bailey, I. Mareels, T. Kalincik, A. van Schaik; M. McDonnell, L. Cavedon, J. Batstone, S. Harrer, N. Faux, A. Jimeno Yepes, C. Butler, B. Goudey, U. Asif, J. Tang, B. Mashford, P. Maruff
