@@ -104,6 +104,15 @@ papers:
     codeurl: "https://github.com/DeepBrainAI/ERD"
     pages: 1614&mdash;1623
   - layout: paper
+    author: "K.N. Tran, J.H. Lau, D. Contractor, U. Gupta, B. Sengupta, C. Butler, and M. Mohania"
+    title: "Document Chunking and Learning Objective Generation for Instruction Design."
+    year: 2018
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 11th International Conference on Educational Data Mining"
+    address: "New York, USA"
+    venue: conference
+    docurl: "https://files.eric.ed.gov/fulltext/ED593104.pdf"
+  - layout: paper
     author: "J.H. Lau, T. Cohn, T. Baldwin, J. Brooke, and A. Hammond"
     title: "Deep-speare: A Joint Neural Model of Poetic Language, Meter and Rhyme"
     year: 2018
