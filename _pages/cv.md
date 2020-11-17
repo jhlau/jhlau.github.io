@@ -30,6 +30,10 @@ redirect_from:
   * King's College London
   * Supervisors: Shalom Lappin and Alexander Clark
   
+* [2013&mdash;2013]&nbsp; **Research Fellow**
+  * The University of Melbourne
+  * Supervisors: Timothy Baldwin and David Newman
+  
 * [2008&mdash;2011]&nbsp; **Software Developer**
   * Transtech Consulting Service
  
