@@ -17,7 +17,10 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 - Our IEEE Spectrum article ["The AI Poet"](https://spectrum.ieee.org/artificial-intelligence/machine-learning/this-ai-poet-mastered-rhythm-rhyme-and-natural-language-to-write-like-shakespeare) 
 is up.
 - I'm presenting a talk on "Creativity, Machine and Poetry" at a [public forum on language](https://art-museum.unimelb.edu.au/events/language/) [[video](https://www.youtube.com/watch?v=cHUIFKhPPyo)].
-- I'm recruiting PhD students. If you're interested in language 
-  generation, please contact me.
 - I'm presenting our [rumour detection paper](https://www.aclweb.org/anthology/N19-1163) at [NAACL2019](https://naacl2019.org/).
 - Our [Shakespearean sonnet generator](https://www.aclweb.org/anthology/P18-1181) was covered by [New Scientist](https://www.newscientist.com/article/2175301-ai-creates-shakespearean-sonnets-and-theyre-actually-quite-good/), [Times UK](https://www.thetimes.co.uk/article/computers-produce-poetry-by-the-meter-vk80077zl), [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-6000619/Can-spot-real-Shakespeare-sonnet-AI-learns-write-poetry.html), and others. More information can be found [here](https://github.com/jhlau/deepspeare#media-coverage).
+
+### Prospective Students
+
+- If you're interested in PhD supervision in research related to language modelling and generation, feel free to reach out to me.
+- Unfortunately I do not take interns and as such will not respond to such enquiries.
