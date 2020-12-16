@@ -1,7 +1,6 @@
 papers:
   - layout: paper
-    author: "K. Verspoor, S. Suster, Y. Otmakhova, S. Mendis, Z. Zhai, B. Fang, J.H. Lau, T. Baldwin, A. Jimeno-Yepes, and D. Mart
-inez"
+    author: "K. Verspoor, S. Suster, Y. Otmakhova, S. Mendis, Z. Zhai, B. Fang, J.H. Lau, T. Baldwin, A. Jimeno-Yepes, and D. Martinez"
     title: "Brief description of COVID-SEE: The Scientific Evidence Explorer for COVID-19 Related Research"
     year: "to appear"
     paper-type: inproceedings
