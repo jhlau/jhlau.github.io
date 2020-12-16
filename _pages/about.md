@@ -22,4 +22,4 @@ is up.
 ### Prospective Students
 
 - If you're interested in PhD supervision in research related to language modelling and generation, feel free to reach out to me.
-- Unfortunately I do not take interns and as such do not respond to these enquiries.
+- Unfortunately I do not take interns, as such do not expect a response to these enquiries.
