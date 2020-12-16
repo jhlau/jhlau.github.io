@@ -1,5 +1,37 @@
 papers:
   - layout: paper
+    author: "K. Verspoor, S. Suster, Y. Otmakhova, S. Mendis, Z. Zhai, B. Fang, J.H. Lau, T. Baldwin, A. Jimeno-Yepes, and D. Mart
+inez"
+    title: "Brief description of COVID-SEE: The Scientific Evidence Explorer for COVID-19 Related Research"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Advances in Information Retrieval (ECIR 2021 Demonstration Papers)"
+    address: "Tuscany, Italy"
+    venue: conference
+  - layout: paper
+    author: "F. Koto, A. Rahimi, J.H. Lau, and T. Baldwin"
+    title: "IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP"
+    year: 2020
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)"
+    address: "Barcelona, Spain (Online)"
+    venue: conference
+    docurl: "https://www.aclweb.org/anthology/2020.coling-main.66/"
+    codeurl: "https://github.com/indolem"
+    pages: 757&mdash;770
+  - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Liputan6: A Large-scale Indonesian Dataset for Text Summarisation"
+    year: 2020
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and
+ the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2020)"
+    address: "Suzhou, China"
+    venue: conference
+    docurl: "https://www.aclweb.org/anthology/2020.aacl-main.60/"
+    codeurl: "https://github.com/fajri91/sum_liputan6"
+    pages: 598&mdash;608
+  - layout: paper
     author: "Y. Xu, X. Zhong, A. Jimeno-Yepes, and J.H. Lau"
     title: "Forget Me Not: Reducing Catastrophic Forgetting for Domain Adaptation in Reading Comprehension"
     year: 2020
@@ -9,20 +41,6 @@ papers:
     venue: conference
     docurl: "https://ieeexplore.ieee.org/abstract/document/9206891"
     pages: 1&mdash;8
-  - layout: paper
-    author: "F. Koto, A. Rahimi, J.H. Lau, and T. Baldwin"
-    title: "IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)"
-    venue: conference
-  - layout: paper
-    author: "F. Koto, J.H. Lau, and T. Baldwin"
-    title: "Liputan6: A Large-scale Indonesian Dataset for Text Summarisation"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2020)"
-    venue: conference
   - layout: paper
     author: "T. Lin, X. Zhang, and J.H. Lau"
     title: "#DemocratsAreDestroyingAmerica: Rumour Analysis on Twitter During COVID-19"
