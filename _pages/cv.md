@@ -40,6 +40,9 @@ redirect_from:
   
 
 ## Grants
+- [2020] **Metadata Extraction** (AUD$107K)
+  - Mitsubishi Heavy Industries
+  - Chief Investigator, joint with T. Baldwin
 - [2020] **Document Corpus Analysis** (AUD$20K)
   - Defence Science and Technology: AI for Decision Making Initiative
   - Chief Investigator, joint with M. Mistica and T. Baldwin
@@ -66,10 +69,16 @@ redirect_from:
 ## Invited Talks
 
 - [2019]&nbsp; **Creativity, Machine and Poetry**, Language: interdisciplinary public forum
+- [2018]&nbsp; **Teaching Machines to Write Better**, The University of Melbourne
 - [2018]&nbsp; **Deep-speare: A Joint Neural Model of Poetic Language, Meter and Rhyme**, Monash University
 - [2017]&nbsp; **Topically Driven Neural Language Model**, Monash University
-- [2014]&nbsp; **A Probabilistic Approach to Grammaticality**, University of Sheffield, University of Edinburgh
-- [2013]&nbsp; **Learning Predominant Sense with Non-parametric Topic Model**, University College London
+- [2016]&nbsp; **Do We Need Grammar?**, IBM Research Australia
+- [2015]&nbsp; **Unsupervised Sense Learning and Its Applications**, University of Gothenburg
+- [2015]&nbsp; **Application of Probabilistic Models to Acceptability Prediction**, University of Amsterdam
+- [2014]&nbsp; **A Probabilistic Approach to Grammaticality**, University of Sheffield, University of Edinburgh, The University of Melbourne
+- [2013]&nbsp; **Learning Predominant Sense with Non-parametric Topic Model**, South England NLP Meetup
+- [2013]&nbsp; **Automating the Computation of Topic Coherence and Generation of Topic Labels**, King's College London
+- [2013]&nbsp; **Fun with Topic Modelling**, National Institute of Informatics (Tokyo)
 
 
 ## Teaching
