@@ -38,6 +38,9 @@ redirect_from:
   * Transtech Consulting Service
  
   
+## Academic Honours/Awards
+
+- [2019]&nbsp; **IBM Research Accomplishment Prize**, IBM Research Australia
 
 ## Grants
 - [2020] **Metadata Extraction** (AUD$107K)
@@ -57,14 +60,12 @@ redirect_from:
   - Partner Investigator, joint with T. Baldwin, J. Wells and D. Johnson
 
 
-## Academic Honours
+## Patents
 
-- [2008]&nbsp; **Dean's Honour List**, The University of Melbourne
-- [2006]&nbsp; **Dean's Honour List**, The University of Melbourne
-- [2006]&nbsp; **Wyvern Medal for Academic Excellency**, Queen's College
-- [2005]&nbsp; **Dean's Honour List**, The University of Melbourne
-- [2005]&nbsp; **Wyvern Medal for Academic Excellency**, Queen's College
-- [2003]&nbsp; **Gold Medal for Euclid Mathematics Competition**
+- [2020]&nbsp; **Natural language processor for cognitively generating contextual filler designed to keep users engaged**
+  - Tran, K.N.D., Pervin, S., Li, J.J., Mohania, M.K., Lau, J.H. and Dubyak, W., International Business Machines Corp
+  - U.S. Patent Application 16/186,920
+
 
 ## Invited Talks
 
@@ -89,6 +90,18 @@ redirect_from:
 
 {% include supervision.html %}
 
+## Professional Activities
+
+- [2019&mdash;2021]&nbsp; **Review Committee** for TACL
+- [2018]&nbsp; **Handbook Chair** for ACL 2018
+- [2015]&nbsp; **Co-organiser** for Topic Models: Post-Processing and Applications Workshop (TM 2015)
+- [2012&mdash;present]&nbsp; **Programme Committee** for ACL, NAACL, EACL, EMNLP, COLING, IJCNLP, AAAI, CoNLL, \*SEM, and ALTA
+
+## Media Coverage
+- [2020] [The Poet AI](https://spectrum.ieee.org/artificial-intelligence/machine-learning/this-ai-poet-mastered-rhythm-rhyme-and-natural-language-to-write-like-shakespeare) was published on IEEE Spectrum, a leading science and engineering magazine.
+- [2020] Interviewed about AI and Creativity on the radio show [Passw0rd](https://www.mixcloud.com/FI_PassW0rd/passw0rd-creativity-and-ai/).
+- [2018] Our [Shakespearean sonnet generator](https://www.aclweb.org/anthology/P18-1181) was covered by [New Scientist](https://www.newscientist.com/article/2175301-ai-creates-shakespearean-sonnets-and-theyre-actually-quite-good/), [Times UK](https://www.thetimes.co.uk/article/computers-produce-poetry-by-the-meter-vk80077zl), [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-6000619/Can-spot-real-Shakespeare-sonnet-AI-learns-write-poetry.html), and others.
+
 ## Publications
 
 ### Journal
@@ -103,12 +116,3 @@ redirect_from:
 
 {% include publications-cv.html venue="workshop" %}
 
-## Professional Activities
-
-- [2019&mdash;2021]&nbsp; **Review Committee** for TACL
-- [2018]&nbsp; **Handbook Chair** for ACL 2018
-- [2015]&nbsp; **Co-organiser** for Topic Models: Post-Processing and Applications Workshop (TM 2015)
-- [2012&mdash;present]&nbsp; **Programme Committee** for ACL, NAACL, EACL, EMNLP, COLING, IJCNLP, AAAI, CoNLL, \*SEM, and ALTA
-
-## Media Coverage
-- [2018] Our [Shakespearean sonnet generator](https://www.aclweb.org/anthology/P18-1181) was covered by [New Scientist](https://www.newscientist.com/article/2175301-ai-creates-shakespearean-sonnets-and-theyre-actually-quite-good/), [Times UK](https://www.thetimes.co.uk/article/computers-produce-poetry-by-the-meter-vk80077zl), [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-6000619/Can-spot-real-Shakespeare-sonnet-AI-learns-write-poetry.html), and others.
