@@ -1,4 +1,12 @@
 team:
+  - name: "Miao Li"
+    completed: 0
+    degree: "PhD"
+    type: student
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Jianzhong Qi"
+    start: 2020
+    end:
   - name: "Yi Li"
     completed: 0
     degree: "MSc"
