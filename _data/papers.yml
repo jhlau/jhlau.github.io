@@ -1,5 +1,12 @@
 papers:
   - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Top-down Discourse Parsing via Sequence Labelling"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 16th Conference of the EACL (EACL 2021)"
+    venue: conference
+  - layout: paper
     author: "K. Verspoor, S. Suster, Y. Otmakhova, S. Mendis, Z. Zhai, B. Fang, J.H. Lau, T. Baldwin, A. Jimeno-Yepes, and D. Martinez"
     title: "Brief description of COVID-SEE: The Scientific Evidence Explorer for COVID-19 Related Research"
     year: "to appear"
