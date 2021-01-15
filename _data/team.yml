@@ -2,7 +2,6 @@ team:
   - name: "Miao Li"
     completed: 0
     degree: "PhD"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Jianzhong Qi"
     start: 2020
@@ -10,7 +9,6 @@ team:
   - name: "Yi Li"
     completed: 0
     degree: "MSc"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Mel Mistica"
     start: 2020
@@ -18,7 +16,6 @@ team:
   - name: "An Nguyen"
     completed: 0
     degree: "MSc"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor:
     start: 2020
@@ -26,7 +23,6 @@ team:
   - name: "Rongxin Zhu"
     completed: 0
     degree: "PhD"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Rui Zhang and Jiangzhong Qi"
     start: 2020
@@ -34,7 +30,6 @@ team:
   - name: "Chaoxian Zhou"
     completed: 0
     degree: "MSc"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Daniel Beck"
     start: 2020
@@ -43,7 +38,6 @@ team:
   - name: "Hualong Deng"
     completed: 0
     degree: "MSc"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Daniel Beck"
     start: 2020
@@ -52,7 +46,6 @@ team:
   - name: "Lin Tian"
     completed: 0
     degree: "PhD"
-    type: student
     affiliation: "RMIT University"
     co-supervisor: "Jenny Zhang"
     start: 2020
@@ -60,7 +53,6 @@ team:
   - name: "Takashi Wada"
     completed: 0
     degree: "PhD"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2020
@@ -68,7 +60,6 @@ team:
   - name: "Yulia Otmakhova"
     completed: 0
     degree: "PhD"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Karin Verspoor and Tim Baldwin"
     start: 2020
@@ -76,7 +67,6 @@ team:
   - name: "Zhuohan Xie"
     completed: 0
     degree: "PhD"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Trevor Cohn"
     start: 2020
@@ -85,7 +75,6 @@ team:
   - name: "Shiquan Yang"
     completed: 0
     degree: "PhD"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Sarah Erfani and Rui Zhang"
     start: 2019
@@ -93,7 +82,6 @@ team:
   - name: "Huidu Lu"
     completed: 1
     degree: "MSc"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Lachlan Andrew"
     start: 2019
@@ -102,7 +90,6 @@ team:
   - name: "Rongxiao Liu"
     completed: 1
     degree: "MIT"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor:
     start: 2019
@@ -111,7 +98,6 @@ team:
   - name: "Han Liu"
     completed: 0
     degree: "PhD"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Richard Sinnott"
     start: 2019
@@ -120,7 +106,6 @@ team:
   - name: "Zhuohan Xie"
     completed: 1
     degree: "MIT"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Trevor Cohn"
     start: 2019
@@ -129,7 +114,6 @@ team:
   - name: "Fajri"
     completed: 0
     degree: "PhD"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2018
@@ -138,7 +122,6 @@ team:
   - name: "Shraey Bhatia"
     completed: 0
     degree: "PhD"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2017
@@ -147,7 +130,6 @@ team:
   - name: "Steven Xu"
     completed: 1
     degree: "MSc"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2017
@@ -156,7 +138,6 @@ team:
   - name: "Shiwei Zhang"
     completed: 0
     degree: "PhD"
-    type: student
     affiliation: "RMIT University"
     co-supervisor: "Jenny Zhang, Jeffrey Chan, Cecile Paris"
     start: 2016
@@ -165,7 +146,6 @@ team:
   - name: "Adel Foda"
     completed: 0
     degree: "PhD"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2016
@@ -174,7 +154,6 @@ team:
   - name: "Ionut-Teodor Sorodoc"
     completed: 1
     degree: "Visiting Masters"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2016
@@ -183,7 +162,6 @@ team:
   - name: "Shraey Bhatia"
     completed: 1
     degree: "MSc"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2015
@@ -192,7 +170,6 @@ team:
   - name: "Andrew Bennett"
     completed: 1
     degree: "MSc"
-    type: student
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2014
