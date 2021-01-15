@@ -1,12 +1,4 @@
 team:
-  - name: "Shiquan Yang"
-    completed: 0
-    degree: "PhD"
-    type: student
-    affiliation: "The University of Melbourne"
-    co-supervisor: "Sarah Erfani and Rui Zhang"
-    start: 2020
-    end:
   - name: "Miao Li"
     completed: 0
     degree: "PhD"
@@ -90,6 +82,14 @@ team:
     start: 2020
     end:
     current:
+  - name: "Shiquan Yang"
+    completed: 0
+    degree: "PhD"
+    type: student
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Sarah Erfani and Rui Zhang"
+    start: 2019
+    end:
   - name: "Huidu Lu"
     completed: 1
     degree: "MSc"
