@@ -4,7 +4,7 @@ team:
     degree: "PhD"
     type: student
     affiliation: "The University of Melbourne"
-    co-supervisor: "Sarah Erfani", "Rui Zhang"
+    co-supervisor: "Sarah Erfani and Rui Zhang"
     start: 2020
     end:
   - name: "Miao Li"
@@ -36,7 +36,7 @@ team:
     degree: "PhD"
     type: student
     affiliation: "The University of Melbourne"
-    co-supervisor: "Rui Zhang", "Jiangzhong Qi"
+    co-supervisor: "Rui Zhang and Jiangzhong Qi"
     start: 2020
     end:
   - name: "Chaoxian Zhou"
