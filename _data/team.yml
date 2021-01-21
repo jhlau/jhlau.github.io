@@ -144,7 +144,7 @@ team:
     end:
     current:
   - name: "Adel Foda"
-    completed: 0
+    completed: 1
     degree: "PhD"
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
