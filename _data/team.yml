@@ -136,12 +136,12 @@ team:
     end: 2017
     current:
   - name: "Shiwei Zhang"
-    completed: 0
+    completed: 1
     degree: "PhD"
     affiliation: "RMIT University"
     co-supervisor: "Jenny Zhang, Jeffrey Chan, Cecile Paris"
     start: 2016
-    end:
+    end: 2021
     current:
   - name: "Adel Foda"
     completed: 1
