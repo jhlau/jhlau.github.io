@@ -38,7 +38,7 @@ papers:
   - layout: paper
     author: "S. Zhang, X. Zhang, J.H. Lau, J. Chan, and C. Paris"
     title: "Less is More: Rejecting Unreliable Reviews for Product Question Answering"
-    year: 2021
+    year: 2020
     paper-type: inproceedings
     booktitle: "ECML PKDD 2020: Machine Learning and Knowledge Discovery in Databases"
     address: "Ghent, Belgium"
