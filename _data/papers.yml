@@ -36,6 +36,17 @@ papers:
     address: "Tuscany, Italy"
     venue: conference
   - layout: paper
+    author: "S. Zhang, X. Zhang, J.H. Lau, J. Chan, and C. Paris"
+    title: "Less is More: Rejecting Unreliable Reviews for Product Question Answering"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "ECML PKDD 2020: Machine Learning and Knowledge Discovery in Databases"
+    address: "Ghent, Belgium"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2007.04526"
+    codeurl: "https://github.com/zswvivi/ecml_pqa"
+    pages: 567&mdash;583
+  - layout: paper
     author: "F. Koto, A. Rahimi, J.H. Lau, and T. Baldwin"
     title: "IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP"
     year: 2020
@@ -97,14 +108,6 @@ papers:
     docurl: "https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00315"
     codeurl: "https://github.com/jhlau/acceptability-prediction-in-context"
     pages: 296&mdash;310
-  - layout: paper
-    author: "S. Zhang, X. Zhang, J.H. Lau, J. Chan, and C. Paris"
-    title: "Less is More: Rejecting Unreliable Reviews for Product Question Answering"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Machine Learning and Knowledge Discovery in Databases - European Conference (ECML PKDD 2020)"
-    address: "Ghent, Belgium"
-    venue: conference
   - layout: paper
     author: "S. Zhang, J.H. Lau, X. Zhang, J. Chan, and C. Paris"
     title: "Discovering Relevant Reviews for Answering Product-related Queries"
