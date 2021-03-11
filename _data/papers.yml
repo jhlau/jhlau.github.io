@@ -1,5 +1,26 @@
 papers:
   - layout: paper
+    author: "Y. Xu, X. Zhong, A. Jimeno-Yepes, and J.H. Lau"
+    title: "Grey-box Adversarial Attack And Defence For Sentiment Classification"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2021)"
+    venue: conference
+  - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Discourse Probing of Pretrained Language Models"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2021)"
+    venue: conference
+  - layout: paper
+    author: "S. Bhatia, J.H. Lau, and T. Baldwin"
+    title: "Automatic Classification of Neutralization Techniques in the Narrative of Climate Change Scepticism"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2021)"
+    venue: conference
+  - layout: paper
     author: "F. Koto, J.H. Lau, and T. Baldwin"
     title: "Top-down Discourse Parsing via Sequence Labelling"
     year: "to appear"
