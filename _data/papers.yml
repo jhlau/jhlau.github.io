@@ -1,5 +1,12 @@
 papers:
   - layout: paper
+    author: "S. Yang, R. Zhang, S. Erfani, and J.H. Lau"
+    title: "A Unified Framework to Incorporate Multimodal Knowledge Bases into End-to-End Task-Oriented Dialogue Systems"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)"
+    venue: conference
+  - layout: paper
     author: "Y. Xu, X. Zhong, A. Jimeno-Yepes, and J.H. Lau"
     title: "Grey-box Adversarial Attack And Defence For Sentiment Classification"
     year: "to appear"
