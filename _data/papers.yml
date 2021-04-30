@@ -1,5 +1,23 @@
 papers:
   - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Top-down Discourse Parsing via Sequence Labelling"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume (EACL 2021)"
+    venue: conference
+    docurl: "https://www.aclweb.org/anthology/2021.eacl-main.60/"
+    codeurl: "https://github.com/fajri91/NeuralRST-TopDown"
+    pages: 715&mdash;726
+  - layout: paper
+    author: "K. Verspoor, S. Suster, Y. Otmakhova, S. Mendis, Z. Zhai, B. Fang, J.H. Lau, T. Baldwin, A. Jimeno-Yepes, and D. Martinez"
+    title: "Brief description of COVID-SEE: The Scientific Evidence Explorer for COVID-19 Related Research"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 43rd European Conference on Information Retrieval (ECIR 2021)"
+    address: "Tuscany, Italy"
+    venue: conference
+  - layout: paper
     author: "S. Yang, R. Zhang, S. Erfani, and J.H. Lau"
     title: "A Unified Framework to Incorporate Multimodal Knowledge Bases into End-to-End Task-Oriented Dialogue Systems"
     year: "to appear"
@@ -26,21 +44,6 @@ papers:
     year: "to appear"
     paper-type: inproceedings
     booktitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2021)"
-    venue: conference
-  - layout: paper
-    author: "F. Koto, J.H. Lau, and T. Baldwin"
-    title: "Top-down Discourse Parsing via Sequence Labelling"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 16th Conference of the EACL (EACL 2021)"
-    venue: conference
-  - layout: paper
-    author: "K. Verspoor, S. Suster, Y. Otmakhova, S. Mendis, Z. Zhai, B. Fang, J.H. Lau, T. Baldwin, A. Jimeno-Yepes, and D. Martinez"
-    title: "Brief description of COVID-SEE: The Scientific Evidence Explorer for COVID-19 Related Research"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Advances in Information Retrieval (ECIR 2021 Demonstration Papers)"
-    address: "Tuscany, Italy"
     venue: conference
   - layout: paper
     author: "S. Zhang, X. Zhang, J.H. Lau, J. Chan, and C. Paris"
