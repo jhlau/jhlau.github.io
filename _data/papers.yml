@@ -1,5 +1,85 @@
 papers:
   - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Top-down Discourse Parsing via Sequence Labelling"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume (EACL 2021)"
+    venue: conference
+    docurl: "https://www.aclweb.org/anthology/2021.eacl-main.60/"
+    codeurl: "https://github.com/fajri91/NeuralRST-TopDown"
+    pages: 715&mdash;726
+  - layout: paper
+    author: "K. Verspoor, S. Suster, Y. Otmakhova, S. Mendis, Z. Zhai, B. Fang, J.H. Lau, T. Baldwin, A. Jimeno-Yepes, and D. Martinez"
+    title: "Brief description of COVID-SEE: The Scientific Evidence Explorer for COVID-19 Related Research"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 43rd European Conference on Information Retrieval (ECIR 2021)"
+    address: "Tuscany, Italy"
+    venue: conference
+  - layout: paper
+    author: "S. Yang, R. Zhang, S. Erfani, and J.H. Lau"
+    title: "A Unified Framework to Incorporate Multimodal Knowledge Bases into End-to-End Task-Oriented Dialogue Systems"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)"
+    venue: conference
+  - layout: paper
+    author: "Y. Xu, X. Zhong, A. Jimeno-Yepes, and J.H. Lau"
+    title: "Grey-box Adversarial Attack And Defence For Sentiment Classification"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2021)"
+    venue: conference
+  - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Discourse Probing of Pretrained Language Models"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2021)"
+    venue: conference
+  - layout: paper
+    author: "S. Bhatia, J.H. Lau, and T. Baldwin"
+    title: "Automatic Classification of Neutralization Techniques in the Narrative of Climate Change Scepticism"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2021)"
+    venue: conference
+  - layout: paper
+    author: "S. Zhang, X. Zhang, J.H. Lau, J. Chan, and C. Paris"
+    title: "Less is More: Rejecting Unreliable Reviews for Product Question Answering"
+    year: 2020
+    paper-type: inproceedings
+    booktitle: "ECML PKDD 2020: Machine Learning and Knowledge Discovery in Databases"
+    address: "Ghent, Belgium"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2007.04526"
+    codeurl: "https://github.com/zswvivi/ecml_pqa"
+    pages: 567&mdash;583
+  - layout: paper
+    author: "F. Koto, A. Rahimi, J.H. Lau, and T. Baldwin"
+    title: "IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP"
+    year: 2020
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)"
+    address: "Barcelona, Spain (Online)"
+    venue: conference
+    docurl: "https://www.aclweb.org/anthology/2020.coling-main.66/"
+    codeurl: "https://github.com/indolem"
+    pages: 757&mdash;770
+  - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Liputan6: A Large-scale Indonesian Dataset for Text Summarisation"
+    year: 2020
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and
+ the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2020)"
+    address: "Suzhou, China"
+    venue: conference
+    docurl: "https://www.aclweb.org/anthology/2020.aacl-main.60/"
+    codeurl: "https://github.com/fajri91/sum_liputan6"
+    pages: 598&mdash;608
+  - layout: paper
     author: "Y. Xu, X. Zhong, A. Jimeno-Yepes, and J.H. Lau"
     title: "Forget Me Not: Reducing Catastrophic Forgetting for Domain Adaptation in Reading Comprehension"
     year: 2020
@@ -9,20 +89,6 @@ papers:
     venue: conference
     docurl: "https://ieeexplore.ieee.org/abstract/document/9206891"
     pages: 1&mdash;8
-  - layout: paper
-    author: "F. Koto, A. Rahimi, J.H. Lau, and T. Baldwin"
-    title: "IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)"
-    venue: conference
-  - layout: paper
-    author: "F. Koto, J.H. Lau, and T. Baldwin"
-    title: "Liputan6: A Large-scale Indonesian Dataset for Text Summarisation"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2020)"
-    venue: conference
   - layout: paper
     author: "T. Lin, X. Zhang, and J.H. Lau"
     title: "#DemocratsAreDestroyingAmerica: Rumour Analysis on Twitter During COVID-19"
@@ -52,14 +118,6 @@ papers:
     docurl: "https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00315"
     codeurl: "https://github.com/jhlau/acceptability-prediction-in-context"
     pages: 296&mdash;310
-  - layout: paper
-    author: "S. Zhang, X. Zhang, J.H. Lau, J. Chan, and C. Paris"
-    title: "Less is More: Rejecting Unreliable Reviews for Product Question Answering"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Machine Learning and Knowledge Discovery in Databases - European Conference (ECML PKDD 2020)"
-    address: "Ghent, Belgium"
-    venue: conference
   - layout: paper
     author: "S. Zhang, J.H. Lau, X. Zhang, J. Chan, and C. Paris"
     title: "Discovering Relevant Reviews for Answering Product-related Queries"
