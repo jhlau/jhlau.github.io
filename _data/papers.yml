@@ -17,6 +17,8 @@ papers:
     booktitle: "Proceedings of the 43rd European Conference on Information Retrieval (ECIR 2021)"
     address: "Tuscany, Italy"
     venue: conference
+    docurl: "https://github.com/jhlau/jhlau.github.io/raw/master/files/2021-ecir-covidsee.pdf"
+    codeurl: "https://covid-see.com/search"
   - layout: paper
     author: "S. Yang, R. Zhang, S. Erfani, and J.H. Lau"
     title: "A Unified Framework to Incorporate Multimodal Knowledge Bases into End-to-End Task-Oriented Dialogue Systems"
