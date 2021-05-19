@@ -1,6 +1,13 @@
 papers:
   - layout: paper
     author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Evaluating the Efficacy of Summarization Evaluation across Languages"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021"
+    venue: conference
+  - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
     title: "Top-down Discourse Parsing via Sequence Labelling"
     year: 2021
     paper-type: inproceedings
