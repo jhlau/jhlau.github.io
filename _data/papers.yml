@@ -1,5 +1,12 @@
 papers:
   - layout: paper
+    author: "S. Suster, K. Verspoor, T. Baldwin, J.H. Lau, A. Jimeno-Yepes, D. Martinez, and Y. Otmakhova"
+    title: "Impact of Detecting Clinical Trial Elements in Exploration of COVID-19 Literature"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of The Fourth International Workshop on Health Natural Language Processing (HealthNLP 2021)"
+    venue: workshop
+  - layout: paper
     author: "F. Koto, J.H. Lau, and T. Baldwin"
     title: "Evaluating the Efficacy of Summarization Evaluation across Languages"
     year: "to appear"
