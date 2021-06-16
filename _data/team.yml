@@ -86,7 +86,7 @@ team:
     co-supervisor: "Lachlan Andrew"
     start: 2019
     end: 2020
-    current:
+    current: "Currently a software engineer at Shopee, Shenzhen China.
   - name: "Rongxiao Liu"
     completed: 1
     degree: "MIT"
@@ -142,7 +142,7 @@ team:
     co-supervisor: "Jenny Zhang, Jeffrey Chan, Cecile Paris"
     start: 2016
     end: 2021
-    current: "Currently at Tencent Jarvis Lab, China"
+    current: "Currently a researcher at Tencent Jarvis Lab, Shenzhen China"
   - name: "Adel Foda"
     completed: 1
     degree: "PhD"
