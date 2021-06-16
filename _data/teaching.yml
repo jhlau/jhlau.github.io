@@ -1,6 +1,11 @@
 subjects:
   - name: "COMP90042 Natural Language Processing"
     department: "Computing and Information Systems"
+    url: "https://handbook.unimelb.edu.au/2021/subjects/comp90042"
+    year: 2021
+    semester: "Semester 1"
+  - name: "COMP90042 Natural Language Processing"
+    department: "Computing and Information Systems"
     url: "https://handbook.unimelb.edu.au/2020/subjects/comp90042"
     year: 2020
     semester: "Semester 1"
