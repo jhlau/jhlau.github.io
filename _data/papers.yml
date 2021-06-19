@@ -1,5 +1,42 @@
 papers:
   - layout: paper
+    author: "Y. Xu, X. Zhong, A. Jimeno-Yepes, and J.H. Lau"
+    title: "Grey-box Adversarial Attack And Defence For Sentiment Classification"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2021)"
+    venue: conference
+    docurl: "https://www.aclweb.org/anthology/2021.naacl-main.321/"
+    codeurl: "https://github.com/ibm-aur-nlp/adv-def-text-dist"
+    pages: 4078&mdash;4087
+  - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Discourse Probing of Pretrained Language Models"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2021)"
+    venue: conference
+    docurl: "https://www.aclweb.org/anthology/2021.naacl-main.301/"
+    codeurl: "https://github.com/fajri91/discourse_probing"
+    pages: 3849&mdash;3864
+  - layout: paper
+    author: "S. Bhatia, J.H. Lau, and T. Baldwin"
+    title: "Automatic Classification of Neutralization Techniques in the Narrative of Climate Change Scepticism"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2021)"
+    venue: conference
+    docurl: "https://www.aclweb.org/anthology/2021.naacl-main.175/"
+    codeurl: "https://github.com/sb1992/cc-neutralization"
+    pages: 2167&mdash;2175
+  - layout: paper
+    author: "T. Lin, X. Zhang, and J.H. Lau"
+    title: "Rumour Detection via Zero-shot Cross-lingual Transfer Learning"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2021)"
+    venue: conference
+  - layout: paper
     author: "S. Suster, K. Verspoor, T. Baldwin, J.H. Lau, A. Jimeno-Yepes, D. Martinez, and Y. Otmakhova"
     title: "Impact of Detecting Clinical Trial Elements in Exploration of COVID-19 Literature"
     year: "to appear"
@@ -39,27 +76,6 @@ papers:
     year: "to appear"
     paper-type: inproceedings
     booktitle: "Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)"
-    venue: conference
-  - layout: paper
-    author: "Y. Xu, X. Zhong, A. Jimeno-Yepes, and J.H. Lau"
-    title: "Grey-box Adversarial Attack And Defence For Sentiment Classification"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2021)"
-    venue: conference
-  - layout: paper
-    author: "F. Koto, J.H. Lau, and T. Baldwin"
-    title: "Discourse Probing of Pretrained Language Models"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2021)"
-    venue: conference
-  - layout: paper
-    author: "S. Bhatia, J.H. Lau, and T. Baldwin"
-    title: "Automatic Classification of Neutralization Techniques in the Narrative of Climate Change Scepticism"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2021)"
     venue: conference
   - layout: paper
     author: "S. Zhang, X. Zhang, J.H. Lau, J. Chan, and C. Paris"
