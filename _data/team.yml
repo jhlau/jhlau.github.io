@@ -7,14 +7,14 @@ team:
     start: 2020
     end:
   - name: "Yi Li"
-    completed: 0
+    completed: 1
     degree: "MSc"
     affiliation: "The University of Melbourne"
     co-supervisor: "Mel Mistica"
     start: 2020
     end: 2021
   - name: "An Nguyen"
-    completed: 0
+    completed: 1
     degree: "MSc"
     affiliation: "The University of Melbourne"
     co-supervisor:
@@ -36,7 +36,7 @@ team:
     end:
     current:
   - name: "Hualong Deng"
-    completed: 0
+    completed: 1
     degree: "MSc"
     affiliation: "The University of Melbourne"
     co-supervisor: "Daniel Beck"
