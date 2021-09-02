@@ -1,5 +1,31 @@
 papers:
   - layout: paper
+    author: "S. Suster, K. Verspoor, T. Baldwin, J.H. Lau, A. Jimeno-Yepes, D. Martinez, and Y. Otmakhova"
+    title: "Impact of Detecting Clinical Trial Elements in Exploration of COVID-19 Literature"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Proceedings of The Fourth International Workshop on Health Natural Language Processing (HealthNLP 2021)"
+    venue: workshop
+    docurl: "https://arxiv.org/abs/2105.12261"
+  - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Evaluating the Efficacy of Summarization Evaluation across Languages"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021"
+    venue: conference
+    docurl: "https://aclanthology.org/2021.findings-acl.71/"
+    codeurl: "https://github.com/fajri91/Multi_SummEval"
+  - layout: paper
+    author: "S. Yang, R. Zhang, S. Erfani, and J.H. Lau"
+    title: "A Unified Framework to Incorporate Multimodal Knowledge Bases into End-to-End Task-Oriented Dialogue Systems"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)"
+    venue: conference
+    docurl: "https://www.ijcai.org/proceedings/2021/548"
+    pages: 3978&mdash;3984
+  - layout: paper
     author: "F. Koto, J.H. Lau, and T. Baldwin"
     title: "IndoBERTweet: A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization"
     year: "to appear"
@@ -44,20 +70,6 @@ papers:
     booktitle: "Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2021)"
     venue: conference
   - layout: paper
-    author: "S. Suster, K. Verspoor, T. Baldwin, J.H. Lau, A. Jimeno-Yepes, D. Martinez, and Y. Otmakhova"
-    title: "Impact of Detecting Clinical Trial Elements in Exploration of COVID-19 Literature"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of The Fourth International Workshop on Health Natural Language Processing (HealthNLP 2021)"
-    venue: workshop
-  - layout: paper
-    author: "F. Koto, J.H. Lau, and T. Baldwin"
-    title: "Evaluating the Efficacy of Summarization Evaluation across Languages"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021"
-    venue: conference
-  - layout: paper
     author: "F. Koto, J.H. Lau, and T. Baldwin"
     title: "Top-down Discourse Parsing via Sequence Labelling"
     year: 2021
@@ -77,13 +89,6 @@ papers:
     venue: conference
     docurl: "https://github.com/jhlau/jhlau.github.io/raw/master/files/2021-ecir-covidsee.pdf"
     codeurl: "https://covid-see.com/search"
-  - layout: paper
-    author: "S. Yang, R. Zhang, S. Erfani, and J.H. Lau"
-    title: "A Unified Framework to Incorporate Multimodal Knowledge Bases into End-to-End Task-Oriented Dialogue Systems"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021)"
-    venue: conference
   - layout: paper
     author: "S. Zhang, X. Zhang, J.H. Lau, J. Chan, and C. Paris"
     title: "Less is More: Rejecting Unreliable Reviews for Product Question Answering"
