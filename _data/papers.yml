@@ -1,5 +1,12 @@
 papers:
   - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "IndoBERTweet: A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)"
+    venue: conference
+  - layout: paper
     author: "Y. Xu, X. Zhong, A. Jimeno-Yepes, and J.H. Lau"
     title: "Grey-box Adversarial Attack And Defence For Sentiment Classification"
     year: 2021
