@@ -1,5 +1,19 @@
 papers:
   - layout: paper
+    author: "T. Wada, T. Iwata, Y. Matsumoto, T. Baldwin, and J.H. Lau"
+    title: "Learning Contextualised Cross-lingual Word Embeddings and Alignments for Extremely Low-Resource Languages Using Parallel Corpora"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 1st Workshop on Multilingual Representation Learning"
+    venue: workshop
+  - layout: paper
+    author: "M. Mistica, J.H. Lau, B. Merrifield, K. Fazio, and T. Baldwin"
+    title: "Semi-automatic Triage of Requests for Free Legal Assistance"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the Natural Legal Language Processing Workshop 2021"
+    venue: workshop
+  - layout: paper
     author: "S. Suster, K. Verspoor, T. Baldwin, J.H. Lau, A. Jimeno-Yepes, D. Martinez, and Y. Otmakhova"
     title: "Impact of Detecting Clinical Trial Elements in Exploration of COVID-19 Literature"
     year: 2021
