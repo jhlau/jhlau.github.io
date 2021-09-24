@@ -81,7 +81,7 @@ papers:
     title: "Rumour Detection via Zero-shot Cross-lingual Transfer Learning"
     year: "to appear"
     paper-type: inproceedings
-    booktitle: "Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2021)"
+    booktitle: "Proceedings of The 2021 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2021)"
     venue: conference
   - layout: paper
     author: "F. Koto, J.H. Lau, and T. Baldwin"
@@ -108,7 +108,7 @@ papers:
     title: "Less is More: Rejecting Unreliable Reviews for Product Question Answering"
     year: 2020
     paper-type: inproceedings
-    booktitle: "ECML PKDD 2020: Machine Learning and Knowledge Discovery in Databases"
+    booktitle: "Proceedings of the 2020 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2020)"
     address: "Ghent, Belgium"
     venue: conference
     docurl: "https://arxiv.org/abs/2007.04526"
