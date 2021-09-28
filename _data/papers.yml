@@ -1,5 +1,14 @@
 papers:
   - layout: paper
+    author: "T. Lin, X. Zhang, and J.H. Lau"
+    title: "Rumour Detection via Zero-shot Cross-lingual Transfer Learning"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2021)"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2109.12773"
+    pages: 603&mdash;618
+  - layout: paper
     author: "T. Wada, T. Iwata, Y. Matsumoto, T. Baldwin, and J.H. Lau"
     title: "Learning Contextualised Cross-lingual Word Embeddings and Alignments for Extremely Low-Resource Languages Using Parallel Corpora"
     year: "to appear"
@@ -76,13 +85,6 @@ papers:
     docurl: "https://www.aclweb.org/anthology/2021.naacl-main.175/"
     codeurl: "https://github.com/sb1992/cc-neutralization"
     pages: 2167&mdash;2175
-  - layout: paper
-    author: "T. Lin, X. Zhang, and J.H. Lau"
-    title: "Rumour Detection via Zero-shot Cross-lingual Transfer Learning"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of The 2021 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2021)"
-    venue: conference
   - layout: paper
     author: "F. Koto, J.H. Lau, and T. Baldwin"
     title: "Top-down Discourse Parsing via Sequence Labelling"
