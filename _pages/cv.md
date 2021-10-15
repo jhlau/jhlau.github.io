@@ -44,7 +44,13 @@ redirect_from:
 - [2019]&nbsp; **IBM Research Accomplishment Prize**
 
 ## Grants
-- [2020] **Metadata Extraction** (AUD$107K)
+- [2021] **Mirrored Social Media Platform**
+  - Defense Science Institute Collaborative Research Grant
+  - Chief Investigator, joint with C. Leckie and S. Karunasekera
+- [2021] **Multi-Party Collaborative Project for Three Case Studies of Mass Influencing Organisations**
+  - Department of Defense
+  - Chief Investigator, joint with L. Sciacca, E. Ebbott, C. Leckie, S. Karunasekera, A. Ahmad, L. Ruppanner, T. van Gelder, A. Perfors, Y. Kashima and R. de Rozario. 
+- [2020] **Development of Natural Language Processing for Knowledge Base Population** (AUD$107K)
   - Mitsubishi Heavy Industries
   - Chief Investigator, joint with T. Baldwin
 - [2020] **Document Corpus Analysis** (AUD$20K)
@@ -70,6 +76,7 @@ redirect_from:
 
 ## Invited Talks
 
+- [2021]&nbsp; **Misinformation Detection and Analysis**, The University of Melbourne, Telstra
 - [2019]&nbsp; **Creativity, Machine and Poetry**, Language: interdisciplinary public forum
 - [2018]&nbsp; **Teaching Machines to Write Better**, The University of Melbourne
 - [2018]&nbsp; **Deep-speare: A Joint Neural Model of Poetic Language, Meter and Rhyme**, Monash University
