@@ -66,16 +66,6 @@ redirect_from:
   - Tran, K.N.D., Pervin, S., Li, J.J., Mohania, M.K., Lau, J.H. and Dubyak, W., International Business Machines Corp
   - U.S. Patent Application 16/186,920
 
-
-## Recent Talks
-
-- [2021]&nbsp; **Misinformation Detection and Analysis**, The University of Melbourne, Telstra
-- [2019]&nbsp; **Creativity, Machine and Poetry**, Language: interdisciplinary public forum
-- [2018]&nbsp; **Teaching Machines to Write Better**, The University of Melbourne
-- [2018]&nbsp; **Deep-speare: A Joint Neural Model of Poetic Language, Meter and Rhyme**, Monash University
-- [2017]&nbsp; **Topically Driven Neural Language Model**, Monash University
-- [2016]&nbsp; **Do We Need Grammar?**, IBM Research Australia
-
 ## Professional Activities
 
 - [2021]&nbsp; Area Chair for EMNLP 2021
