@@ -44,27 +44,20 @@ redirect_from:
 - [2019]&nbsp; **IBM Research Accomplishment Prize**
 
 ## Grants
-- [2021] **Mirrored Social Media Platform**
+- [2021] **Mirrored Social Media Platform** (AUD$50K)
   - Defense Science Institute Collaborative Research Grant
-  - Chief Investigator, joint with C. Leckie and S. Karunasekera
-- [2021] **Multi-Party Collaborative Project for Three Case Studies of Mass Influencing Organisations**
+- [2021] **Multi-Party Collaborative Project for Three Case Studies of Mass Influencing Organisations** (AUD$419K)
   - Department of Defense
-  - Chief Investigator, joint with L. Sciacca, E. Ebbott, C. Leckie, S. Karunasekera, A. Ahmad, L. Ruppanner, T. van Gelder, A. Perfors, Y. Kashima and R. de Rozario. 
 - [2020] **Development of Natural Language Processing for Knowledge Base Population** (AUD$107K)
   - Mitsubishi Heavy Industries
-  - Chief Investigator, joint with T. Baldwin
 - [2020] **Document Corpus Analysis** (AUD$20K)
   - Defence Science and Technology: AI for Decision Making Initiative
-  - Chief Investigator, joint with M. Mistica and T. Baldwin
 - [2017&mdash;2022] **Industrial Transformation Training Centre on Cognitive Computing for Medical Technologies** (AUD$4.1M)
   - Australian Research Council (ARC) 
-  - Chief Investigator, joint with T. Baldwin, D. Freestone, D. Grayden, C. Masters, K. Verspoor, M. Cook, A. Burkitt, T. Cohn, J. Bailey, I. Mareels, T. Kalincik, A. van Schaik; M. McDonnell, L. Cavedon, J. Batstone, S. Harrer, N. Faux, A. Jimeno Yepes, C. Butler, B. Goudey, U. Asif, J. Tang, B. Mashford, P. Maruff
 - [2014]&nbsp; **Learning Word Sense Distributions for Wordnets of the World’s Languages** (USD$10K)
   - Google Cloud Credits Award
-  - Partner Investigator, joint with T. Baldwin, F. Bond and P. Cook
 - [2013&mdash;2015]&nbsp; **Personalised Topic Modelling and Sentiment Analysis for Enhanced Information Discovery over Document Streams** (AUD$195K)
   - Australian Research Council (ARC) Linkage Project
-  - Partner Investigator, joint with T. Baldwin, J. Wells and D. Johnson
 
 
 ## Patents
@@ -89,15 +82,6 @@ redirect_from:
 - [2013]&nbsp; **Automating the Computation of Topic Coherence and Generation of Topic Labels**, King's College London
 - [2013]&nbsp; **Fun with Topic Modelling**, National Institute of Informatics (Tokyo)
 
-
-## Teaching
-
-{% include teaching-cv.html %}
-
-## Supervision
-
-{% include supervision.html %}
-
 ## Professional Activities
 
 - [2021]&nbsp; Area Chair for EMNLP 2021
@@ -108,21 +92,11 @@ redirect_from:
 - [2012&mdash;present]&nbsp; Programme Committee for ACL, NAACL, EACL, EMNLP, COLING, IJCNLP, AAAI, CoNLL, \*SEM, and ALTA
 
 ## Media Coverage
-- [2020] [The Poet AI](https://spectrum.ieee.org/artificial-intelligence/machine-learning/this-ai-poet-mastered-rhythm-rhyme-and-natural-language-to-write-like-shakespeare) was published in IEEE Spectrum, a leading science and engineering magazine.
-- [2020] Interviewed about AI and Creativity on the radio show [Passw0rd](https://www.mixcloud.com/FI_PassW0rd/passw0rd-creativity-and-ai/).
-- [2018] Our [Shakespearean sonnet generator](https://www.aclweb.org/anthology/P18-1181) was covered by [New Scientist](https://www.newscientist.com/article/2175301-ai-creates-shakespearean-sonnets-and-theyre-actually-quite-good/), [Times UK](https://www.thetimes.co.uk/article/computers-produce-poetry-by-the-meter-vk80077zl), [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-6000619/Can-spot-real-Shakespeare-sonnet-AI-learns-write-poetry.html), and others.
+- [2020] [The Poet AI](https://spectrum.ieee.org/artificial-intelligence/machine-learning/this-ai-poet-mastered-rhythm-rhyme-and-natural-language-to-write-like-shakespeare) was published in IEEE Spectrum, a leading science and engineering magazine
+- [2020] Interviewed about AI and Creativity on the radio show [Passw0rd](https://www.mixcloud.com/FI_PassW0rd/passw0rd-creativity-and-ai/)
+- [2018] Our [Shakespearean sonnet generator](https://www.aclweb.org/anthology/P18-1181) was covered by [New Scientist](https://www.newscientist.com/article/2175301-ai-creates-shakespearean-sonnets-and-theyre-actually-quite-good/), [Times UK](https://www.thetimes.co.uk/article/computers-produce-poetry-by-the-meter-vk80077zl), [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-6000619/Can-spot-real-Shakespeare-sonnet-AI-learns-write-poetry.html), and others
 
-## Publications
+## Publications/Research
 
-### Journal
-
-{% include publications-cv.html venue="journal" %}
-
-### Conference
-
-{% include publications-cv.html venue="conference" %}
-
-### Workshop
-
-{% include publications-cv.html venue="workshop" %}
-
+- As an early career researcher, I have authored almost 50 peer-reviewed papers, with over 3,900 citations and an h-index of 24 (source = Google Scholar, 15/10/2021).
+- Google Scholar Profile: https://scholar.google.com.au/citations?user=MFi65f4AAAAJ&hl=en
