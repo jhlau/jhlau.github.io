@@ -40,6 +40,7 @@ redirect_from:
   
 ## Academic Honours/Awards
 
+- [2020]&nbsp; **Outstanding Reviewer for EMNLP 2020**
 - [2019]&nbsp; **IBM Research Accomplishment Prize**
 
 ## Grants
@@ -92,10 +93,11 @@ redirect_from:
 
 ## Professional Activities
 
-- [2019&mdash;2021]&nbsp; **Review Committee** for TACL
-- [2018]&nbsp; **Handbook Chair** for ACL 2018
-- [2015]&nbsp; **Co-organiser** for Topic Models: Post-Processing and Applications Workshop (TM 2015)
-- [2012&mdash;present]&nbsp; **Programme Committee** for ACL, NAACL, EACL, EMNLP, COLING, IJCNLP, AAAI, CoNLL, \*SEM, and ALTA
+- [2020&mdash;present]&nbsp; ACL Rolling Reviewer
+- [2019&mdash;2021]&nbsp; Review Committee for TACL
+- [2018]&nbsp; Handbook Chair for ACL 2018
+- [2015]&nbsp; Co-organiser for Topic Models: Post-Processing and Applications Workshop (TM 2015)
+- [2012&mdash;present]&nbsp; Programme Committee for ACL, NAACL, EACL, EMNLP, COLING, IJCNLP, AAAI, CoNLL, \*SEM, and ALTA
 
 ## Media Coverage
 - [2020] [The Poet AI](https://spectrum.ieee.org/artificial-intelligence/machine-learning/this-ai-poet-mastered-rhythm-rhyme-and-natural-language-to-write-like-shakespeare) was published in IEEE Spectrum, a leading science and engineering magazine.
