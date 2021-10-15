@@ -67,7 +67,7 @@ redirect_from:
   - U.S. Patent Application 16/186,920
 
 
-## Invited Talks
+## Recent Talks
 
 - [2021]&nbsp; **Misinformation Detection and Analysis**, The University of Melbourne, Telstra
 - [2019]&nbsp; **Creativity, Machine and Poetry**, Language: interdisciplinary public forum
@@ -75,12 +75,6 @@ redirect_from:
 - [2018]&nbsp; **Deep-speare: A Joint Neural Model of Poetic Language, Meter and Rhyme**, Monash University
 - [2017]&nbsp; **Topically Driven Neural Language Model**, Monash University
 - [2016]&nbsp; **Do We Need Grammar?**, IBM Research Australia
-- [2015]&nbsp; **Unsupervised Sense Learning and Its Applications**, University of Gothenburg
-- [2015]&nbsp; **Application of Probabilistic Models to Acceptability Prediction**, University of Amsterdam
-- [2014]&nbsp; **A Probabilistic Approach to Grammaticality**, University of Sheffield, University of Edinburgh, The University of Melbourne
-- [2013]&nbsp; **Learning Predominant Sense with Non-parametric Topic Model**, South England NLP Meetup
-- [2013]&nbsp; **Automating the Computation of Topic Coherence and Generation of Topic Labels**, King's College London
-- [2013]&nbsp; **Fun with Topic Modelling**, National Institute of Informatics (Tokyo)
 
 ## Professional Activities
 
