@@ -93,7 +93,8 @@ redirect_from:
 
 ## Professional Activities
 
-- [2020&mdash;present]&nbsp; ACL Rolling Reviewer
+- [2021]&nbsp; Area Chair for EMNLP 2021
+- [2021&mdash;present]&nbsp; ACL Rolling Reviewer
 - [2019&mdash;2021]&nbsp; Review Committee for TACL
 - [2018]&nbsp; Handbook Chair for ACL 2018
 - [2015]&nbsp; Co-organiser for Topic Models: Post-Processing and Applications Workshop (TM 2015)
