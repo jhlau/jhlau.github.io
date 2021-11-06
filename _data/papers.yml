@@ -1,5 +1,19 @@
 papers:
   - layout: paper
+    author: "Z. Xie, J.H. Lau, and T. Cohn"
+    title: "Exploring Story Generation with Multi-task Objectives in Variational Autoencoders"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of The 19th Annual Workshop of the Australasian Language Technology Association"
+    venue: workshop
+  - layout: paper
+    author: "R. Zhu, J.H. Lau, and J. Qi"
+    title: "Findings on Conversation Disentanglement"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of The 19th Annual Workshop of the Australasian Language Technology Association"
+    venue: workshop
+  - layout: paper
     author: "T. Lin, X. Zhang, and J.H. Lau"
     title: "Rumour Detection via Zero-shot Cross-lingual Transfer Learning"
     year: 2021
