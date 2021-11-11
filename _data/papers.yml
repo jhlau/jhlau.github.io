@@ -1,5 +1,15 @@
 papers:
   - layout: paper
+    author: "T. Wada, T. Iwata, Y. Matsumoto, T. Baldwin, and J.H. Lau"
+    title: "Learning Contextualised Cross-lingual Word Embeddings and Alignments for Extremely Low-Resource Languages Using Parallel Corpora"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 1st Workshop on Multilingual Representation Learning (MRL 2021)"
+    venue: workshop
+    docurl: "https://aclanthology.org/2021.mrl-1.2.pdf"
+    codeurl: "https://github.com/twadada/multilingual-nlm"
+    pages: 16&mdash;31
+  - layout: paper
     author: "Z. Xie, J.H. Lau, and T. Cohn"
     title: "Exploring Story Generation with Multi-task Objectives in Variational Autoencoders"
     year: "to appear"
@@ -22,13 +32,6 @@ papers:
     venue: conference
     docurl: "https://arxiv.org/abs/2109.12773"
     pages: 603&mdash;618
-  - layout: paper
-    author: "T. Wada, T. Iwata, Y. Matsumoto, T. Baldwin, and J.H. Lau"
-    title: "Learning Contextualised Cross-lingual Word Embeddings and Alignments for Extremely Low-Resource Languages Using Parallel Corpora"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 1st Workshop on Multilingual Representation Learning"
-    venue: workshop
   - layout: paper
     author: "M. Mistica, J.H. Lau, B. Merrifield, K. Fazio, and T. Baldwin"
     title: "Semi-automatic Triage of Requests for Free Legal Assistance"
