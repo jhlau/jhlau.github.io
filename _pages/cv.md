@@ -40,6 +40,7 @@ redirect_from:
   
 ## Academic Honours/Awards
 
+- [2021]&nbsp; **Best Paper Award for MRL 2021**
 - [2020]&nbsp; **Outstanding Reviewer for EMNLP 2020**
 - [2019]&nbsp; **IBM Research Accomplishment Prize**
 
