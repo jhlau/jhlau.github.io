@@ -1,4 +1,35 @@
 team:
+  - name: "Zixun Wu"
+    completed: 0
+    degree: "MCS"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Kris Ehinger"
+    start: 2021
+    end:
+    current:
+  - name: "Erya Wen"
+    completed: 0
+    degree: "MCS"
+    affiliation: "The University of Melbourne"
+    co-supervisor:
+    start: 2021
+    end:
+    current:
+  - name: "Mulin Shi"
+    completed: 0
+    degree: "MCS"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Lea Frermann"
+    start: 2021
+    end:
+    current:
+  - name: "Jianing Yang"
+    completed: 1
+    degree: "MSc"
+    affiliation: "The University of Melbourne"
+    co-supervisor:
+    start: 2020
+    end: 2020
   - name: "Andrew Shen"
     completed: 0
     degree: "Undergraduate"
@@ -27,6 +58,7 @@ team:
     co-supervisor:
     start: 2020
     end: 2021
+    current: Currently a software engineer at Canva, Sydney
   - name: "Rongxin Zhu"
     completed: 0
     degree: "PhD"
