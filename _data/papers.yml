@@ -1,5 +1,24 @@
 papers:
   - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "IndoBERTweet: A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)"
+    venue: conference
+    docurl: "https://aclanthology.org/2021.emnlp-main.833/"
+    codeurl: "https://github.com/indolem/indobertweet"
+    pages: 10660&mdash;10668
+  - layout: paper
+    author: "M. Mistica, J.H. Lau, B. Merrifield, K. Fazio, and T. Baldwin"
+    title: "Semi-automatic Triage of Requests for Free Legal Assistance"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Proceedings of the Natural Legal Language Processing Workshop 2021"
+    venue: workshop
+    docurl: "https://aclanthology.org/2021.nllp-1.23/"
+    pages: 217&mdash;227
+  - layout: paper
     author: "T. Wada, T. Iwata, Y. Matsumoto, T. Baldwin, and J.H. Lau"
     title: "Learning Contextualised Cross-lingual Word Embeddings and Alignments for Extremely Low-Resource Languages Using Parallel Corpora"
     year: 2021
@@ -33,13 +52,6 @@ papers:
     docurl: "https://arxiv.org/abs/2109.12773"
     pages: 603&mdash;618
   - layout: paper
-    author: "M. Mistica, J.H. Lau, B. Merrifield, K. Fazio, and T. Baldwin"
-    title: "Semi-automatic Triage of Requests for Free Legal Assistance"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the Natural Legal Language Processing Workshop 2021"
-    venue: workshop
-  - layout: paper
     author: "S. Suster, K. Verspoor, T. Baldwin, J.H. Lau, A. Jimeno-Yepes, D. Martinez, and Y. Otmakhova"
     title: "Impact of Detecting Clinical Trial Elements in Exploration of COVID-19 Literature"
     year: 2021
@@ -65,13 +77,6 @@ papers:
     venue: conference
     docurl: "https://www.ijcai.org/proceedings/2021/548"
     pages: 3978&mdash;3984
-  - layout: paper
-    author: "F. Koto, J.H. Lau, and T. Baldwin"
-    title: "IndoBERTweet: A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)"
-    venue: conference
   - layout: paper
     author: "Y. Xu, X. Zhong, A. Jimeno-Yepes, and J.H. Lau"
     title: "Grey-box Adversarial Attack And Defence For Sentiment Classification"
