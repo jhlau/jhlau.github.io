@@ -13,6 +13,8 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 
 ### News
 
+- Our paper on [conversation disentanglment](https://alta2021.alta.asn.au/files/ALTA2021-proceedings-draft.pdf#page=11) won the Best Paper Award for [ALTA 2021](https://alta2021.alta.asn.au/)!
+
 - Our paper on [learning cross-lingual embeddings for low resource languages](https://aclanthology.org/2021.mrl-1.2.pdf) won the [Best Paper Award for MRL 2021](https://sites.google.com/view/mrl-2021/best-papers)!
 - Talked about AI and creativity on the radio show [Passw0rd](https://www.mixcloud.com/FI_PassW0rd/passw0rd-creativity-and-ai/) (starts at around the 43 minute mark).
 - Our IEEE Spectrum article ["The AI Poet"](https://spectrum.ieee.org/artificial-intelligence/machine-learning/this-ai-poet-mastered-rhythm-rhyme-and-natural-language-to-write-like-shakespeare) 
