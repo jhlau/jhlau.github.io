@@ -63,7 +63,7 @@ team:
     completed: 0
     degree: "PhD"
     affiliation: "The University of Melbourne"
-    co-supervisor: "Rui Zhang and Jiangzhong Qi"
+    co-supervisor: "Jiangzhong Qi"
     start: 2020
     end:
   - name: "Chaoxian Zhou"
@@ -115,7 +115,7 @@ team:
     completed: 0
     degree: "PhD"
     affiliation: "The University of Melbourne"
-    co-supervisor: "Sarah Erfani and Rui Zhang"
+    co-supervisor: "Sarah Erfani"
     start: 2019
     end:
   - name: "Huidu Lu"
