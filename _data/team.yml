@@ -31,12 +31,12 @@ team:
     start: 2020
     end: 2020
   - name: "Andrew Shen"
-    completed: 0
+    completed: 1
     degree: "Undergraduate"
     affiliation: "The University of Melbourne"
     co-supervisor: "Fajri Koto and Tim Baldwin"
     start: 2021
-    end:
+    end: 2021
   - name: "Miao Li"
     completed: 0
     degree: "PhD"
