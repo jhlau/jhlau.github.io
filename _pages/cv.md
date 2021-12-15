@@ -110,9 +110,10 @@ redirect_from:
 - [2012&mdash;present]&nbsp; Programme Committee for ACL, NAACL, EACL, EMNLP, COLING, IJCNLP, AAAI, CoNLL, \*SEM, and ALTA
 
 ## Media Coverage
-- [2020] [The Poet AI](https://spectrum.ieee.org/artificial-intelligence/machine-learning/this-ai-poet-mastered-rhythm-rhyme-and-natural-language-to-write-like-shakespeare) was published in IEEE Spectrum, a leading science and engineering magazine
+- [2021] Research on understanding mass influence activities online was covered by [Guardian](https://www.theguardian.com/australia-news/2021/dec/10/cyberwarfare-report-australias-democracy-faces-existential-threat-from-mass-influence-of-foreign-powers-and-social-media)
+- [2020] [The Poet AI](https://spectrum.ieee.org/artificial-intelligence/machine-learning/this-ai-poet-mastered-rhythm-rhyme-and-natural-language-to-write-like-shakespeare) was published on IEEE Spectrum, a leading science and engineering magazine
 - [2020] Interviewed about AI and Creativity on the radio show [Passw0rd](https://www.mixcloud.com/FI_PassW0rd/passw0rd-creativity-and-ai/)
-- [2018] Our [Shakespearean sonnet generator](https://www.aclweb.org/anthology/P18-1181) was covered by [New Scientist](https://www.newscientist.com/article/2175301-ai-creates-shakespearean-sonnets-and-theyre-actually-quite-good/), [Times UK](https://www.thetimes.co.uk/article/computers-produce-poetry-by-the-meter-vk80077zl), [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-6000619/Can-spot-real-Shakespeare-sonnet-AI-learns-write-poetry.html), and others
+- [2018] [Shakespearean sonnet generator](https://www.aclweb.org/anthology/P18-1181) was covered by [New Scientist](https://www.newscientist.com/article/2175301-ai-creates-shakespearean-sonnets-and-theyre-actually-quite-good/), [Times UK](https://www.thetimes.co.uk/article/computers-produce-poetry-by-the-meter-vk80077zl), [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-6000619/Can-spot-real-Shakespeare-sonnet-AI-learns-write-poetry.html), and others
 
 ## Publications
 
