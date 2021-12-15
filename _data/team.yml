@@ -16,13 +16,13 @@ team:
     end:
     current:
   - name: "Mulin Shi"
-    completed: 0
+    completed: 1
     degree: "MCS"
     affiliation: "The University of Melbourne"
     co-supervisor: "Lea Frermann"
     start: 2021
-    end:
-    current:
+    end: 2021
+    current: "Currently an NLP engineer at Pinduoduo"
   - name: "Jianing Yang"
     completed: 1
     degree: "MSc"
