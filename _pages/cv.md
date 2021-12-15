@@ -40,6 +40,7 @@ redirect_from:
   
 ## Academic Honours/Awards
 
+- [2021]&nbsp; **Best Paper Award for ALTA 2021**
 - [2021]&nbsp; **Best Paper Award for MRL 2021**
 - [2020]&nbsp; **Outstanding Reviewer for EMNLP 2020**
 - [2019]&nbsp; **IBM Research Accomplishment Prize**
@@ -70,7 +71,7 @@ redirect_from:
 
 ## Patents
 
-- [2020]&nbsp; **Natural language processor for cognitively generating contextual filler designed to keep users engaged**
+- [2021]&nbsp; **Natural language processor for cognitively generating contextual filler designed to keep users engaged**
   - Tran, K.N.D., Pervin, S., Li, J.J., Mohania, M.K., Lau, J.H. and Dubyak, W., International Business Machines Corp
   - U.S. Patent Application 16/186,920
 
