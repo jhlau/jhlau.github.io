@@ -51,7 +51,7 @@ redirect_from:
   - Chief Investigator, joint with C. Leckie and S. Karunasekera
 - [2021] **Multi-Party Collaborative Project for Three Case Studies of Mass Influencing Organisations** ($AUD419K)
   - Department of Defense
-  - Chief Investigator, joint with L. Sciacca, E. Ebbott, C. Leckie, S. Karunasekera, A. Ahmad, L. Ruppanner, T. van Gelder, A. Perfors, Y. Kashima and R. de Rozario. 
+  - Partner Investigator, joint with L. Sciacca, E. Ebbott, C. Leckie, S. Karunasekera, A. Ahmad, L. Ruppanner, T. van Gelder, A. Perfors, Y. Kashima and R. de Rozario. 
 - [2020] **Development of Natural Language Processing for Knowledge Base Population** (AUD$107K)
   - Mitsubishi Heavy Industries
   - Chief Investigator, joint with T. Baldwin
