@@ -46,8 +46,8 @@ redirect_from:
 - [2019]&nbsp; **IBM Research Accomplishment Prize**
 
 ## Grants
-- [2021] **Mirrored Social Media Platform** (AUD$50K)
-  - Defense Science Institute Collaborative Research Grant
+- [2021] **Mirrored Social Media Platform** (AUD$75K)
+  - Defense Science Institute Collaborative Research Grant and Leidos
   - Chief Investigator, joint with C. Leckie and S. Karunasekera
 - [2021] **Multi-Party Collaborative Project for Three Case Studies of Mass Influencing Organisations** ($AUD419K)
   - Department of Defense
