@@ -11,6 +11,8 @@ redirect_from:
 
 ## Education
 
+* [2021]&nbsp; **Graduate Certificate in University Teaching**
+  * The University of Melbourne
 * [2013]&nbsp; **Ph.D., Engineering Science (Computer)**
   * The University of Melbourne
   * Supervisors: Tim Baldwin and David Newman
