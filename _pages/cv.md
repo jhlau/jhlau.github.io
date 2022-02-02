@@ -104,7 +104,13 @@ redirect_from:
 
 ## Supervision
 
-{% include supervision.html %}
+### PhD
+
+{% include supervision.html degree=PhD %}
+
+### Masters
+
+{% include supervision.html degree=Masters %}
 
 ## Professional Activities
 
