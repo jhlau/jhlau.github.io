@@ -106,11 +106,15 @@ redirect_from:
 
 ### PhD
 
-{% include supervision.html degree=PhD %}
+{% include supervision.html degree="PhD" %}
 
 ### Masters
 
-{% include supervision.html degree=Masters %}
+{% include supervision.html degree="Masters" %}
+
+### Undergraduate
+
+{% include supervision.html degree="Undergraduate" %}
 
 ## Professional Activities
 
