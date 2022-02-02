@@ -5,7 +5,7 @@
 
       <li>
       [{{ people.start }}&mdash;{% if people.end %}{{ people.end }}{% else %}present{% endif %}]&nbsp; <b>{{ people.name }}</b>,
-      {{ people.degree }}, {{ people.affiliation }}.
+      with {{ people.co-supervisor }}, {{ people.affiliation }}.
       </li>
   
     {% endif %}
