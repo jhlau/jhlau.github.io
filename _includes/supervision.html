@@ -1,10 +1,13 @@
 <ul>
   {% for people in site.data.team.team %}
+    {% if people.degree == include.degree %}
+
 
       <li>
       [{{ people.start }}&mdash;{% if people.end %}{{ people.end }}{% else %}present{% endif %}]&nbsp; <b>{{ people.name }}</b>,
-      {{ people.degree }}, {{ people.affiliation }}.
+      {% if people.co-supervisor %}with {{ people.co-supervisor }},{% endif %} {{ people.affiliation }}.
       </li>
-
+  
+    {% endif %}
   {% endfor %}
 </ul>
