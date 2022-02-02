@@ -2,7 +2,7 @@
   {% for people in site.data.team.team %}
 
       <li>
-      [{{ people.start }}{% if people.end %}&mdash;{{ people.end }}{% endif %}]&nbsp; <b>{{ people.name }}</b>,
+      [{{ people.start }}&mdash;{% if people.end %}{{ people.end }}{% else %}present{% endif %}]&nbsp; <b>{{ people.name }}</b>,
       {{ people.degree }}, {{ people.affiliation }}.
       </li>
 
