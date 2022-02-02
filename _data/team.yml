@@ -85,7 +85,7 @@ team:
   - name: "Lin Tian"
     completed: 0
     degree: "PhD"
-    affiliation: "RMasters University"
+    affiliation: "RMIT University"
     co-supervisor: "Jenny Zhang"
     start: 2020
     end:
@@ -177,7 +177,7 @@ team:
   - name: "Shiwei Zhang"
     completed: 1
     degree: "PhD"
-    affiliation: "RMasters University"
+    affiliation: "RMIT University"
     co-supervisor: "Jenny Zhang, Jeffrey Chan, Cecile Paris"
     start: 2016
     end: 2021
