@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+## Qualifications
 
 * [2021]&nbsp; **Graduate Certificate in University Teaching**
   * The University of Melbourne
@@ -20,7 +20,7 @@ redirect_from:
   * The University of Melbourne
   * First Class Honours
   
-## Appointments
+## Employment History
 
 * [2019&mdash;present]&nbsp; **Lecturer**
   * The University of Melbourne, School of Computing and Information Systems
@@ -40,12 +40,16 @@ redirect_from:
   * Transtech Consulting Service
  
   
-## Academic Honours/Awards
+## Awards and Honours
 
-- [2021]&nbsp; **Best Paper Award for ALTA 2021**
-- [2021]&nbsp; **Best Paper Award for MRL 2021**
-- [2020]&nbsp; **Outstanding Reviewer for EMNLP 2020**
-- [2019]&nbsp; **IBM Research Accomplishment Prize**
+- [2021]&nbsp; **Best Paper Award**, ALTA
+- [2021]&nbsp; **Best Paper Award**, MRL
+- [2020]&nbsp; **Outstanding Reviewer**, EMNLP
+- [2019]&nbsp; **Research Accomplishment Prize**, IBM
+- [2009&mdash;2013]&nbsp; **Endeavour International Postgraduate Research Scholarship**, University of Melbourne
+- [2009&mdash;2013]&nbsp; **Melbourne International Research Scholarship**, University of Melbourne
+- [2005, 2006, 2008]&nbsp; **Dean’s Honour List**, University of Melbourne
+- [2005, 2006]&nbsp; **Wyvern Medal for Academic Excellency**, Queen's College
 
 ## Grants
 - [2021] **Mirrored Social Media Platform** (AUD$75K)
