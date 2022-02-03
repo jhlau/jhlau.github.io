@@ -116,11 +116,11 @@ redirect_from:
 
 {% include supervision.html degree="Undergraduate" %}
 
-## Professional Activities
+## Service
 
 - [2021]&nbsp; Area Chair for EMNLP 2021
 - [2021&mdash;present]&nbsp; ACL Rolling Reviewer
-- [2019&mdash;2021]&nbsp; Review Committee for TACL
+- [2019&mdash;present]&nbsp; Review Committee for TACL
 - [2018]&nbsp; Handbook Chair for ACL 2018
 - [2015]&nbsp; Program Co-chair for Topic Models: Post-Processing and Applications Workshop (TM 2015)
 - [2012&mdash;present]&nbsp; Programme Committee for ACL, NAACL, EACL, EMNLP, COLING, IJCNLP, AAAI, CoNLL, \*SEM, and ALTA
