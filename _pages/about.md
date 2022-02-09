@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research is in the intersection of machine learning and language (natural language processing/computational linguistics), and I have a particular interest in language generation &mdash; tasks that require machine learning models to produce language, e.g. summarisation and story generation &mdash;  and unsupervised learning &mdash; learning where supervision signal is not available.
+My research is in Natural Language Processing (NLP) &mdash; a sub-field of Artificial Intelligence &mdash; and the goal of NLP is to develop computational models to understand human languages. There are a host of NLP applications that are commonly used in our everyday lives: machine translation (e.g. Google Translate) and chatbot (e.g. Siri) are two examples. A common theme of my research is that it involves building computational models in an unsupervised or semi-supervised setting, i.e. a learning scenario where the supervision signal for model training is not available or scarce. My research is generally guided by a diverse flavour of applications, e.g. topic models, lexical semantics, text generation and misinformation detection.
 
 Prior to joining the University of Melbourne, I spent over 3.5 years as an industry scientist at IBM Research, developing solutions for clients in application domains from education to government. Parallel to this, I was active in research and collaborated with universities around the world, and in recognition of my scientific achievements I was awarded a research accomplishment prize by IBM in 2019.
 
