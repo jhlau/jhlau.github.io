@@ -1,5 +1,23 @@
 papers:
   - layout: paper
+    author: "Z. Xie, J.H. Lau, and T. Cohn"
+    title: "Exploring Story Generation with Multi-task Objectives in Variational Autoencoders"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Proceedings of The 19th Annual Workshop of the Australasian Language Technology Association"
+    venue: workshop
+    docurl: "https://aclanthology.org/2021.alta-1.10/"
+    pages: 97&mdash;106
+  - layout: paper
+    author: "R. Zhu, J.H. Lau, and J. Qi"
+    title: "Findings on Conversation Disentanglement"
+    year: 2021
+    paper-type: inproceedings
+    booktitle: "Proceedings of The 19th Annual Workshop of the Australasian Language Technology Association"
+    venue: workshop
+    docurl: "https://aclanthology.org/2021.alta-1.1/"
+    pages: 1&mdash;11
+  - layout: paper
     author: "F. Koto, J.H. Lau, and T. Baldwin"
     title: "IndoBERTweet: A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization"
     year: 2021
@@ -28,20 +46,6 @@ papers:
     docurl: "https://aclanthology.org/2021.mrl-1.2.pdf"
     codeurl: "https://github.com/twadada/multilingual-nlm"
     pages: 16&mdash;31
-  - layout: paper
-    author: "Z. Xie, J.H. Lau, and T. Cohn"
-    title: "Exploring Story Generation with Multi-task Objectives in Variational Autoencoders"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of The 19th Annual Workshop of the Australasian Language Technology Association"
-    venue: workshop
-  - layout: paper
-    author: "R. Zhu, J.H. Lau, and J. Qi"
-    title: "Findings on Conversation Disentanglement"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of The 19th Annual Workshop of the Australasian Language Technology Association"
-    venue: workshop
   - layout: paper
     author: "T. Lin, X. Zhang, and J.H. Lau"
     title: "Rumour Detection via Zero-shot Cross-lingual Transfer Learning"
