@@ -1,5 +1,26 @@
 papers:
   - layout: paper
+    author: "A. Aji, G. Winata, F. Koto, S. Cahyawijaya, A. Romadhony, R. Mahendra, K. Kurniawan, D. Moeljadi, R. Prasojo, T. Baldwin, J.H. Lau, and S. Ruder"
+    title: "One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)"
+    venue: conference
+  - layout: paper
+    author: "Y. Otmakhova, K. Verspoor, T. Baldwin, and J.H. Lau"
+    title: "The Patient Is More Dead Than Alive: Exploring The Current State of The Multi-document Summarisation of The Biomedical Literature"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)"
+    venue: conference
+  - layout: paper
+    author: "S. Yang, R. Zhang, S. Erfani, and J.H. Lau"
+    title: "An Interpretable Neuro-Symbolic Reasoning Framework for Task-Oriented Dialogue Generation"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)"
+    venue: conference
+  - layout: paper
     author: "Z. Xie, J.H. Lau, and T. Cohn"
     title: "Exploring Story Generation with Multi-task Objectives in Variational Autoencoders"
     year: 2021
