@@ -13,6 +13,8 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 
 ### News
 
+- 3 papers accepted for ACL2022! [One Country, 700+ languages](https://openreview.net/forum?id=zZOyzUCFFt), [The Patient Is More Dead Than Alive](https://openreview.net/forum?id=YDwkCkgFFFn), and An Interpretable Neuro-Symbolic Reasoning Framework for Task-Oriented Dialogue Generation.
+
 - Our work on understanding mass influence activities online is covered by [Guardian](https://www.theguardian.com/australia-news/2021/dec/10/cyberwarfare-report-australias-democracy-faces-existential-threat-from-mass-influence-of-foreign-powers-and-social-media).
 
 - Our paper on [conversation disentanglement](https://alta2021.alta.asn.au/files/ALTA2021-proceedings-draft.pdf#page=11) won the Best Paper Award for [ALTA 2021](https://alta2021.alta.asn.au/)!
