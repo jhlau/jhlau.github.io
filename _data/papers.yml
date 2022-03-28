@@ -4,7 +4,7 @@ papers:
     title: "Cloze Evaluation for Deeper Understanding of Commonsense Stories in Indonesian"
     year: "to appear"
     paper-type: inproceedings
-    booktitle: "Commonsense Representation and Reasoning Workshop (CSRR 2022)"
+    booktitle: "Commonsense Representation and Reasoning Workshop 2022 (CSRR 2022)"
     venue: workshop
     docurl: "https://openreview.net/forum?id=zPFbyqOX8Cx"
   - layout: paper
