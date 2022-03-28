@@ -1,6 +1,14 @@
 papers:
   - layout: paper
     author: "F. Koto, T. Baldwin, and J.H. Lau"
+    title: "Cloze Evaluation for Deeper Understanding of Commonsense Stories in Indonesian"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Commonsense Representation and Reasoning Workshop (CSRR 2022)"
+    venue: workshop
+    docurl: "https://openreview.net/forum?id=zPFbyqOX8Cx"
+  - layout: paper
+    author: "F. Koto, T. Baldwin, and J.H. Lau"
     title: "FFCI: A Framework for Interpretable Automatic Evaluation of Summarization"
     year: "to appear"
     paper-type: article
