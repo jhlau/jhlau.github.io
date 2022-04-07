@@ -13,6 +13,8 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 
 ### News
 
+- Together with [Georgia Banks](https://www.georgiabanks.info/) we will be presenting an art+science collaboration project for [ANAT Spectra 2022](https://events.humanitix.com/spectravision), where we build a chatbot with Georgia's personality to explore ego/self.
+
 - 3 papers accepted for ACL2022! [One Country, 700+ languages](https://openreview.net/forum?id=zZOyzUCFFt), [The Patient Is More Dead Than Alive](https://openreview.net/forum?id=YDwkCkgFFFn), and [An Interpretable Neuro-Symbolic Reasoning Framework for Task-Oriented Dialogue Generation](https://arxiv.org/abs/2203.05843).
 
 - Our work on understanding mass influence activities online is covered by [Guardian](https://www.theguardian.com/australia-news/2021/dec/10/cyberwarfare-report-australias-democracy-faces-existential-threat-from-mass-influence-of-foreign-powers-and-social-media).
