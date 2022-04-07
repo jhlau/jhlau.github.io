@@ -8,6 +8,13 @@ papers:
     venue: conference
     docurl: "https://openreview.net/forum?id=VxlfmC-73ww"
   - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Can Pretrained Language Models Generate Persuasive, Faithful, and Informative Ads Text for Product Descriptions?"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "The 5th Workshop on e-Commerce and NLP (ECNLP 2022)"
+    venue: workshop
+  - layout: paper
     author: "F. Koto, T. Baldwin, and J.H. Lau"
     title: "Cloze Evaluation for Deeper Understanding of Commonsense Stories in Indonesian"
     year: "to appear"
