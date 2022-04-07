@@ -1,5 +1,13 @@
 papers:
   - layout: paper
+    author: "T. Lin, X. Zhang, and J.H. Lau"
+    title: "DUCK: Rumour Detection on Social Media by Modelling User and Comment Propagation Networks"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2022)"
+    venue: conference
+    docurl: "https://openreview.net/forum?id=VxlfmC-73ww"
+  - layout: paper
     author: "F. Koto, T. Baldwin, and J.H. Lau"
     title: "Cloze Evaluation for Deeper Understanding of Commonsense Stories in Indonesian"
     year: "to appear"
