@@ -641,7 +641,7 @@ papers:
     docurl: "https://www.aclweb.org/anthology/C12-1093"
     pages: 1519&mdash;1534
   - layout: paper
-    author: "D. Newman, N. Koilda, J.H. Lau, and T. Baldwin"
+    author: "D. Newman, N. Koilada, J.H. Lau, and T. Baldwin"
     title: "Bayesian Text Segmentation for Index Term Identification and Keyphrase Extraction"
     year: 2012
     paper-type: inproceedings
