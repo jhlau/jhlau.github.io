@@ -52,6 +52,9 @@ redirect_from:
 - [2005, 2006]&nbsp; **Wyvern Medal for Academic Excellency**, Queen's College
 
 ## Grants
+- [2022] **AI for Legal Problem Diagnosis in the Diverse Language of Australians** (AUD 343K)
+  - Australian Research Council (ARC) Linkage Project
+  - Chief Investigator, joint with T. Baldwin, T. O’Doherty and B. Merrifield
 - [2021] **Mirrored Social Media Platform** (AUD$75K)
   - Defense Science Institute Collaborative Research Grant and Leidos
   - Chief Investigator, joint with C. Leckie and S. Karunasekera
@@ -84,6 +87,7 @@ redirect_from:
 
 ## Invited Talks
 
+- [2022]&nbsp; **Responsible Data Science (Panelist)**, DERC 2022 seminar series, University of Cambridge+RMIT
 - [2021]&nbsp; **Misinformation Detection and Analysis**, The University of Melbourne, Telstra
 - [2019]&nbsp; **Creativity, Machine and Poetry**, Language: interdisciplinary public forum
 - [2018]&nbsp; **Teaching Machines to Write Better**, The University of Melbourne
@@ -118,18 +122,28 @@ redirect_from:
 
 ## Service
 
-- [2021]&nbsp; Area Chair for EMNLP 2021
+- [2022]&nbsp; Area Chair for Natural Language Processing and Chinese Computing (NLPCC)
+- [2021&mdash;2022]&nbsp; MIT-AI Coordinator (interim)
+- [2021]&nbsp; Area Chair for EMNLP
 - [2021&mdash;present]&nbsp; ACL Rolling Reviewer
 - [2019&mdash;present]&nbsp; Review Committee for TACL
-- [2018]&nbsp; Handbook Chair for ACL 2018
+- [2018]&nbsp; Handbook Chair for ACL
 - [2015]&nbsp; Program Co-chair for Topic Models: Post-Processing and Applications Workshop (TM 2015)
 - [2012&mdash;present]&nbsp; Programme Committee for ACL, NAACL, EACL, EMNLP, COLING, IJCNLP, AAAI, CoNLL, \*SEM, and ALTA
 
 ## Media Coverage
-- [2021] Research on understanding mass influence activities online was covered by [Guardian](https://www.theguardian.com/australia-news/2021/dec/10/cyberwarfare-report-australias-democracy-faces-existential-threat-from-mass-influence-of-foreign-powers-and-social-media)
-- [2020] [The Poet AI](https://spectrum.ieee.org/artificial-intelligence/machine-learning/this-ai-poet-mastered-rhythm-rhyme-and-natural-language-to-write-like-shakespeare) was published on IEEE Spectrum, a leading science and engineering magazine
-- [2020] Interviewed about AI and Creativity on the radio show [PassW0rd](https://www.mixcloud.com/FI_PassW0rd/passw0rd-creativity-and-ai/)
-- [2018] [Shakespearean sonnet generator](https://www.aclweb.org/anthology/P18-1181) was covered by [New Scientist](https://www.newscientist.com/article/2175301-ai-creates-shakespearean-sonnets-and-theyre-actually-quite-good/), [Times UK](https://www.thetimes.co.uk/article/computers-produce-poetry-by-the-meter-vk80077zl), [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-6000619/Can-spot-real-Shakespeare-sonnet-AI-learns-write-poetry.html), and others
+- [2021]&nbsp; Research on understanding mass influence activities online was covered by [Guardian](https://www.theguardian.com/australia-news/2021/dec/10/cyberwarfare-report-australias-democracy-faces-existential-threat-from-mass-influence-of-foreign-powers-and-social-media)
+- [2020]&nbsp; Interviewed about AI and Creativity on the radio show [PassW0rd](https://www.mixcloud.com/FI_PassW0rd/passw0rd-creativity-and-ai/)
+- [2018]&nbsp; [Shakespearean sonnet generator](https://www.aclweb.org/anthology/P18-1181) was covered by [New Scientist](https://www.newscientist.com/article/2175301-ai-creates-shakespearean-sonnets-and-theyre-actually-quite-good/), [Times UK](https://www.thetimes.co.uk/article/computers-produce-poetry-by-the-meter-vk80077zl), [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-6000619/Can-spot-real-Shakespeare-sonnet-AI-learns-write-poetry.html), and others
+
+## Collaborations Outside Academia
+- [2020&mdash;present]&nbsp; **Gee**. A project with artist Georgia Banks to develop a chatbot that incorporates her personality to explore self/ego. It was presented in ANAT Spectra and will have an exhibition in 2023.
+- [2021&mdash;present]&nbsp; **Exploring AI for Interpreting Artwork**. A project with the Ian Potter Museum of Art to develop computational models to generate descriptions for artworks.
+
+## Non-scientifc Publications
+- [2021]&nbsp; **[Creativity, Machine and Poetry](https://art-museum.unimelb.edu.au/wp-content/uploads/2021/06/IPM_Language_online.pdf)**, Language
+- [2020]&nbsp; **[The Poet AI](https://spectrum.ieee.org/artificial-intelligence/machine-learning/this-ai-poet-mastered-rhythm-rhyme-and-natural-language-to-write-like-shakespeare)**, IEEE Spectrum
+
 
 ## Publications
 
