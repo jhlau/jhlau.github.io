@@ -1,5 +1,12 @@
 papers:
   - layout: paper
+    author: "Y. Otmakhova, K. Verspoor, and J.H. Lau"
+    title: "Cross-linguistic Comparison of Linguistic Feature Encoding in BERT Models for Typologically Different Languages"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the Commonsense Representation and Reasoning Workshop 2022 (CSRR 2022)"
+    venue: workshop
+  - layout: paper
     author: "F. Koto, T. Baldwin, and J.H. Lau"
     title: "FFCI: A Framework for Interpretable Automatic Evaluation of Summarization"
     year: 2022
@@ -23,14 +30,14 @@ papers:
     title: "Can Pretrained Language Models Generate Persuasive, Faithful, and Informative Ads Text for Product Descriptions?"
     year: "to appear"
     paper-type: inproceedings
-    booktitle: "The 5th Workshop on e-Commerce and NLP (ECNLP 2022)"
+    booktitle: "Proceedings of the 5th Workshop on e-Commerce and NLP (ECNLP 2022)"
     venue: workshop
   - layout: paper
     author: "F. Koto, T. Baldwin, and J.H. Lau"
     title: "Cloze Evaluation for Deeper Understanding of Commonsense Stories in Indonesian"
     year: "to appear"
     paper-type: inproceedings
-    booktitle: "Commonsense Representation and Reasoning Workshop 2022 (CSRR 2022)"
+    booktitle: "Proceedings of the Commonsense Representation and Reasoning Workshop 2022 (CSRR 2022)"
     venue: workshop
     docurl: "https://openreview.net/forum?id=zPFbyqOX8Cx"
   - layout: paper
