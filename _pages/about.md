@@ -13,6 +13,8 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 
 ### News
 
+- Our paper on [understanding commonsense stories in Indonesian](https://openreview.net/forum?id=zPFbyqOX8Cx) won the Best Paper Award for [CSRR 2022](https://csrr-workshop.github.io/)!
+
 - Together with [Georgia Banks](https://www.georgiabanks.info/) we will be presenting an art+science collaboration project for [ANAT Spectra 2022](https://events.humanitix.com/spectravision), where we build a chatbot with Georgia's personality to explore ego/self.
 
 - 3 papers accepted for ACL2022! [One Country, 700+ languages](https://openreview.net/forum?id=zZOyzUCFFt), [The Patient Is More Dead Than Alive](https://openreview.net/forum?id=YDwkCkgFFFn), and [An Interpretable Neuro-Symbolic Reasoning Framework for Task-Oriented Dialogue Generation](https://arxiv.org/abs/2203.05843).
