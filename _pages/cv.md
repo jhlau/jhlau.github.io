@@ -42,6 +42,7 @@ redirect_from:
   
 ## Awards and Honours
 
+- [2022]&nbsp; **Best Paper Award**, CSRR
 - [2021]&nbsp; **Best Paper Award**, ALTA
 - [2021]&nbsp; **Best Paper Award**, MRL
 - [2020]&nbsp; **Outstanding Reviewer**, EMNLP
