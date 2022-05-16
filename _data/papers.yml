@@ -4,7 +4,7 @@ papers:
     title: "Cross-linguistic Comparison of Linguistic Feature Encoding in BERT Models for Typologically Different Languages"
     year: "to appear"
     paper-type: inproceedings
-    booktitle: "Proceedings of the Commonsense Representation and Reasoning Workshop 2022 (CSRR 2022)"
+    booktitle: "Proceedings of the 4th Workshop on Research in Computational Typology and Multilingual NLP (SIGTYP 2022)"
     venue: workshop
   - layout: paper
     author: "F. Koto, T. Baldwin, and J.H. Lau"
