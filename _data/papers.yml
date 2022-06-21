@@ -18,7 +18,7 @@ papers:
     codeurl: "https://github.com/fajri91/ffci"
     pages: 1553&mdash;1607
   - layout: paper
-    author: "T. Lin, X. Zhang, and J.H. Lau"
+    author: "L. Tian, X. Zhang, and J.H. Lau"
     title: "DUCK: Rumour Detection on Social Media by Modelling User and Comment Propagation Networks"
     year: "to appear"
     paper-type: inproceedings
@@ -112,7 +112,7 @@ papers:
     codeurl: "https://github.com/twadada/multilingual-nlm"
     pages: 16&mdash;31
   - layout: paper
-    author: "T. Lin, X. Zhang, and J.H. Lau"
+    author: "L. Tian, X. Zhang, and J.H. Lau"
     title: "Rumour Detection via Zero-shot Cross-lingual Transfer Learning"
     year: 2021
     paper-type: inproceedings
@@ -241,7 +241,7 @@ papers:
     docurl: "https://ieeexplore.ieee.org/abstract/document/9206891"
     pages: 1&mdash;8
   - layout: paper
-    author: "T. Lin, X. Zhang, and J.H. Lau"
+    author: "L. Tian, X. Zhang, and J.H. Lau"
     title: "#DemocratsAreDestroyingAmerica: Rumour Analysis on Twitter During COVID-19"
     year: 2020
     paper-type: inproceedings
