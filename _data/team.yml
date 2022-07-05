@@ -7,20 +7,20 @@ team:
     start: 2022
     end:
   - name: "Zixun Wu"
-    completed: 0
+    completed: 1
     degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Kris Ehinger"
     start: 2021
-    end:
+    end: 2022
     current:
   - name: "Erya Wen"
-    completed: 0
+    completed: 1
     degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor:
     start: 2021
-    end:
+    end: 2022
     current:
   - name: "Mulin Shi"
     completed: 1
