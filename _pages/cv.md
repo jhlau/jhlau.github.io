@@ -88,6 +88,8 @@ redirect_from:
 
 ## Invited Talks
 
+- [2022]&nbsp; **Generating Product Descriptions and Answers for Customer
+Queries on E-commerce Platforms**, Endeavour Group
 - [2022]&nbsp; **Responsible Data Science (Panelist)**, DERC 2022 seminar series, University of Cambridge+RMIT
 - [2021]&nbsp; **Misinformation Detection and Analysis**, The University of Melbourne, Telstra
 - [2019]&nbsp; **Creativity, Machine and Poetry**, Language: interdisciplinary public forum
