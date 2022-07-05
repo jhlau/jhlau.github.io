@@ -1,5 +1,24 @@
 papers:
   - layout: paper
+    author: "F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Can Pretrained Language Models Generate Persuasive, Faithful, and Informative Ads Text for Product Descriptions?"
+    year: 2022
+    paper-type: inproceedings
+    booktitle: "Proceedings of the Fifth Workshop on e-Commerce and NLP (ECNLP 2022)"
+    venue: workshop
+    docurl: "https://aclanthology.org/2022.ecnlp-1.27/"
+    pages: 234&mdash;243
+  - layout: paper
+    author: "F. Koto, T. Baldwin, and J.H. Lau"
+    title: "Cloze Evaluation for Deeper Understanding of Commonsense Stories in Indonesian"
+    year: 2022
+    paper-type: inproceedings
+    booktitle: "Proceedings of the Commonsense Representation and Reasoning Workshop 2022 (CSRR 2022)"
+    venue: workshop
+    docurl: "https://aclanthology.org/2022.csrr-1.2/"
+    codeurl: "https://github.com/fajri91/IndoCloze"
+    pages: 8&mdash;16
+  - layout: paper
     author: "A. Aji, G. Winata, F. Koto, S. Cahyawijaya, A. Romadhony, R. Mahendra, K. Kurniawan, D. Moeljadi, R. Prasojo, T. Baldwin, J.H. Lau, and S. Ruder"
     title: "One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia"
     year: 2022
@@ -53,21 +72,6 @@ papers:
     booktitle: "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics — Human Language Technologies (NAACL HLT 2022)"
     venue: conference
     docurl: "https://openreview.net/forum?id=VxlfmC-73ww"
-  - layout: paper
-    author: "F. Koto, J.H. Lau, and T. Baldwin"
-    title: "Can Pretrained Language Models Generate Persuasive, Faithful, and Informative Ads Text for Product Descriptions?"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 5th Workshop on e-Commerce and NLP (ECNLP 2022)"
-    venue: workshop
-  - layout: paper
-    author: "F. Koto, T. Baldwin, and J.H. Lau"
-    title: "Cloze Evaluation for Deeper Understanding of Commonsense Stories in Indonesian"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the Commonsense Representation and Reasoning Workshop 2022 (CSRR 2022)"
-    venue: workshop
-    docurl: "https://openreview.net/forum?id=zPFbyqOX8Cx"
   - layout: paper
     author: "Z. Xie, J.H. Lau, and T. Cohn"
     title: "Exploring Story Generation with Multi-task Objectives in Variational Autoencoders"
