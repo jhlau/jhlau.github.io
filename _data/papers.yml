@@ -6,7 +6,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL HLT 2022)"
     venue: conference
-    docurl: "https://openreview.net/forum?id=VxlfmC-73ww"
+    docurl: "https://aclanthology.org/2022.naacl-main.364/"
     codeurl: "https://github.com/ltian678/duck-code"
     pages: 4939&mdash;4949
   - layout: paper
