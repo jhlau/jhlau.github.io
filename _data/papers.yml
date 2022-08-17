@@ -1,5 +1,19 @@
 papers:
   - layout: paper
+    author: "F. Koto, T. Baldwin, and J.H. Lau"
+    title: "LipKey: A Large-Scale News Dataset for Absent Keyphrases Generation and Abstractive Summarization"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)"
+    venue: conference
+  - layout: paper
+    author: "F. Koto, T. Baldwin, Y. Matsumoto, and J.H. Lau"
+    title: "Unsupervised Lexical Substitution with Decontextualised Embeddings"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)"
+    venue: conference
+  - layout: paper
     author: "L. Tian, X. Zhang, and J.H. Lau"
     title: "DUCK: Rumour Detection on Social Media by Modelling User and Comment Propagation Networks"
     year: 2022
