@@ -7,7 +7,7 @@ papers:
     booktitle: "Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)"
     venue: conference
   - layout: paper
-    author: "F. Koto, T. Baldwin, Y. Matsumoto, and J.H. Lau"
+    author: "T. Wada, T. Baldwin, Y. Matsumoto, and J.H. Lau"
     title: "Unsupervised Lexical Substitution with Decontextualised Embeddings"
     year: "to appear"
     paper-type: inproceedings
