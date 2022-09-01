@@ -21,8 +21,10 @@ redirect_from:
   * First Class Honours
   
 ## Employment History
+* [2022&mdash;present]&nbsp; **Senior Lecturer**
+  * The University of Melbourne, School of Computing and Information Systems
 
-* [2019&mdash;present]&nbsp; **Lecturer**
+* [2019&mdash;2022]&nbsp; **Lecturer**
   * The University of Melbourne, School of Computing and Information Systems
 
 * [2015&mdash;2019]&nbsp; **Research Staff Member**
