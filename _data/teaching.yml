@@ -1,6 +1,17 @@
 subjects:
   - name: "BUSA90501 Text and Web Analytics"
     department: "Melbourne Business School"
+    url: "https://handbook.unimelb.edu.au/2022/subjects/busa90501"
+    year: 2022
+    semester: "Semester 2"
+    note1: "Co-lectured with Lea Frermann"
+  - name: "COMP90042 Natural Language Processing"
+    department: "Computing and Information Systems"
+    url: "https://handbook.unimelb.edu.au/2022/subjects/comp90042"
+    year: 2022
+    semester: "Semester 1"
+  - name: "BUSA90501 Text and Web Analytics"
+    department: "Melbourne Business School"
     url: "https://handbook.unimelb.edu.au/2021/subjects/busa90501"
     year: 2021
     semester: "Semester 2"
