@@ -55,6 +55,12 @@ redirect_from:
 - [2005, 2006]&nbsp; **Wyvern Medal for Academic Excellency**, Queen's College
 
 ## Grants
+- [2022] **Towards Robust NLP: Out-of-distribution Benchmarks and Multi-task Fine-tuning** (USD 90K)
+  - Oracle Gift
+  - Lead Investigator, joint with D. Beck
+- [2022] **Robust Natural Language Processing for Healthcare** (AUD 10K + GBP 6K)
+  - Manchester-Melbourne-Toronto Research Fund
+  - Partner Investigator, joint with D. Beck, T. Cohn, Y. Otmakhova, V. Schlegel, R. Batista-Navarro, Y. Sun and Y. Wu
 - [2022] **AI for Legal Problem Diagnosis in the Diverse Language of Australians** (AUD 343K)
   - Australian Research Council (ARC) Linkage Project
   - Chief Investigator, joint with T. Baldwin, T. O’Doherty and B. Merrifield
@@ -91,7 +97,7 @@ redirect_from:
 ## Invited Talks
 
 - [2022]&nbsp; **Generating Product Descriptions and Answers for Customer
-Queries on E-commerce Platforms**, Endeavour Group
+Queries on E-commerce Platforms**, Endeavour Group, Open Data Science Conference Asia Pacific (Keynote)
 - [2022]&nbsp; **Responsible Data Science (Panelist)**, DERC 2022 seminar series, University of Cambridge+RMIT
 - [2021]&nbsp; **Misinformation Detection and Analysis**, The University of Melbourne, Telstra
 - [2019]&nbsp; **Creativity, Machine and Poetry**, Language: interdisciplinary public forum
