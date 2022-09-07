@@ -123,9 +123,9 @@ Queries on E-commerce Platforms**, Endeavour Group, Open Data Science Conference
 
 {% include supervision.html degree="PhD" %}
 
-### Masters
+### Master
 
-{% include supervision.html degree="Masters" %}
+{% include supervision.html degree="Master" %}
 
 ### Undergraduate
 
