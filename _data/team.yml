@@ -47,7 +47,7 @@ team:
     end: 2020
   - name: "Andrew Shen"
     completed: 1
-    degree: "Undergraduate"
+    degree: "Bachelor"
     affiliation: "The University of Melbourne"
     co-supervisor: "Fajri Koto and Tim Baldwin"
     start: 2021
