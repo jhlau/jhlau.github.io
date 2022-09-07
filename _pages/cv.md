@@ -133,9 +133,10 @@ Queries on E-commerce Platforms**, Endeavour Group, Open Data Science Conference
 
 ## Service
 
+- [2022&mdash;present]&nbsp; Master of Computer Science Project Coordinator, University of Melbourne 
 - [2022]&nbsp; Area Chair for EMNLP
 - [2022]&nbsp; Area Chair for Natural Language Processing and Chinese Computing (NLPCC)
-- [2021&mdash;2022]&nbsp; MIT-AI Coordinator (interim)
+- [2021&mdash;2022]&nbsp; Master of Information Technology (AI) Coordinator (interim), University of Melbourne 
 - [2021]&nbsp; Area Chair for EMNLP
 - [2021&mdash;present]&nbsp; ACL Rolling Reviewer
 - [2019&mdash;present]&nbsp; Review Committee for TACL
