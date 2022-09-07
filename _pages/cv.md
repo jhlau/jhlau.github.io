@@ -133,6 +133,7 @@ Queries on E-commerce Platforms**, Endeavour Group, Open Data Science Conference
 
 ## Service
 
+- [2022]&nbsp; Area Chair for EMNLP
 - [2022]&nbsp; Area Chair for Natural Language Processing and Chinese Computing (NLPCC)
 - [2021&mdash;2022]&nbsp; MIT-AI Coordinator (interim)
 - [2021]&nbsp; Area Chair for EMNLP
