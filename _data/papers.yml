@@ -1,5 +1,12 @@
 papers:
   - layout: paper
+    author: "A. Shen, F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Easy-First Bottom-Up Discourse Parsing via Sequence Labelling"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 3rd Workshop on Computational Approaches to Discourse (CODI 2022)"
+    venue: workshop
+  - layout: paper
     author: "F. Koto, T. Baldwin, and J.H. Lau"
     title: "LipKey: A Large-Scale News Dataset for Absent Keyphrases Generation and Abstractive Summarization"
     year: "to appear"
