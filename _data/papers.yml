@@ -1,5 +1,12 @@
 papers:
   - layout: paper
+    author: "T.H. Truong, Y. Otmakhova, T. Baldwin, T. Cohn, J.H. Lau, and K. Verspoor"
+    title: "Not another Negation Benchmark: The NaN-NLI Test Suite for Sub-clausal Negation"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022)"
+    venue: conference
+  - layout: paper
     author: "A. Shen, F. Koto, J.H. Lau, and T. Baldwin"
     title: "Easy-First Bottom-Up Discourse Parsing via Sequence Labelling"
     year: "to appear"
