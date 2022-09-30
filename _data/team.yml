@@ -56,7 +56,7 @@ team:
     completed: 0
     degree: "PhD"
     affiliation: "The University of Melbourne"
-    co-supervisor: "Jianzhong Qi"
+    co-supervisor: "Ed Hovy"
     start: 2020
     end:
   - name: "Yi Li"
