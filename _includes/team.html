@@ -5,6 +5,9 @@
       <b>{{ people.name }}</b> ({{ people.start }}{% if people.end %}&mdash;{{ people.end }}{% endif %})
       <ul>
         <li>{{ people.degree }}{% if people.co-supervisor %}; co-supervised with {{ people.co-supervisor }}{% endif %}</li>
+        {% if people.thesis-title%}
+        <li>{{ people.thesis-title }}</li>
+        {% endif %}
         {% if people.current %}
         <li>{{ people.current }}</li>
         {% endif %}
