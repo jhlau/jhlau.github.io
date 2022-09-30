@@ -6,7 +6,7 @@
       <ul>
         <li>{{ people.degree }}{% if people.co-supervisor %}; co-supervised with {{ people.co-supervisor }}{% endif %}</li>
         {% if people.thesis-title%}
-        <li>{{ people.thesis-title }}</li>
+        <li> Thesis: <a href="{{ people.thesis-url }}">{{ people.thesis-title }}</a> </li>
         {% endif %}
         {% if people.current %}
         <li>{{ people.current }}</li>
