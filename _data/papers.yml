@@ -3,6 +3,7 @@ papers:
     author: "F. Koto, T. Baldwin, and J.H. Lau"
     title: "LipKey: A Large-Scale News Dataset for Absent Keyphrases Generation and Abstractive Summarization"
     year: 2022
+    address: "Gyeongju, Republic of Korea"
     paper-type: inproceedings
     booktitle: "Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)"
     venue: conference
@@ -13,6 +14,7 @@ papers:
     author: "T. Wada, T. Baldwin, Y. Matsumoto, and J.H. Lau"
     title: "Unsupervised Lexical Substitution with Decontextualised Embeddings"
     year: 2022
+    address: "Gyeongju, Republic of Korea"
     paper-type: inproceedings
     booktitle: "Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)"
     venue: conference
@@ -23,6 +25,7 @@ papers:
     author: "A. Shen, F. Koto, J.H. Lau, and T. Baldwin"
     title: "Easy-First Bottom-Up Discourse Parsing via Sequence Labelling"
     year: 2022
+    address: "Gyeongju, Republic of Korea"
     paper-type: inproceedings
     booktitle: "Proceedings of the 3rd Workshop on Computational Approaches to Discourse (CODI 2022)"
     venue: workshop
