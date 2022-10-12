@@ -1,5 +1,35 @@
 papers:
   - layout: paper
+    author: "F. Koto, T. Baldwin, and J.H. Lau"
+    title: "LipKey: A Large-Scale News Dataset for Absent Keyphrases Generation and Abstractive Summarization"
+    year: 2022
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)"
+    venue: conference
+    docurl: "https://aclanthology.org/2022.coling-1.303"
+    codeurl: "https://github.com/fajri91/LipKey"
+    pages: 3427&mdash;3437
+  - layout: paper
+    author: "T. Wada, T. Baldwin, Y. Matsumoto, and J.H. Lau"
+    title: "Unsupervised Lexical Substitution with Decontextualised Embeddings"
+    year: 2022
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)"
+    venue: conference
+    docurl: "https://aclanthology.org/2022.coling-1.366"
+    codeurl: "https://github.com/twadada/lexsub_decontextualised"
+    pages: 4172&mdash;4185
+  - layout: paper
+    author: "A. Shen, F. Koto, J.H. Lau, and T. Baldwin"
+    title: "Easy-First Bottom-Up Discourse Parsing via Sequence Labelling"
+    year: 2022
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 3rd Workshop on Computational Approaches to Discourse (CODI 2022)"
+    venue: workshop
+    docurl: "https://aclanthology.org/2022.codi-1.5"
+    codeurl: "https://github.com/Redrew/NeuralRST-Bottom-Up"
+    pages: 35&mdash;41
+  - layout: paper
     author: "S. Yang, X. Huang, R. Zhang, J.H. Lau, and S. Erfani"
     title: "Robust Task-Oriented Dialogue Generation with Contrastive Pre-training and Adversarial Filtering"
     year: "to appear"
@@ -20,27 +50,6 @@ papers:
     year: "to appear"
     paper-type: inproceedings
     booktitle: "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022)"
-    venue: conference
-  - layout: paper
-    author: "A. Shen, F. Koto, J.H. Lau, and T. Baldwin"
-    title: "Easy-First Bottom-Up Discourse Parsing via Sequence Labelling"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 3rd Workshop on Computational Approaches to Discourse (CODI 2022)"
-    venue: workshop
-  - layout: paper
-    author: "F. Koto, T. Baldwin, and J.H. Lau"
-    title: "LipKey: A Large-Scale News Dataset for Absent Keyphrases Generation and Abstractive Summarization"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)"
-    venue: conference
-  - layout: paper
-    author: "T. Wada, T. Baldwin, Y. Matsumoto, and J.H. Lau"
-    title: "Unsupervised Lexical Substitution with Decontextualised Embeddings"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)"
     venue: conference
   - layout: paper
     author: "L. Tian, X. Zhang, and J.H. Lau"
