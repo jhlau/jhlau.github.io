@@ -1,5 +1,20 @@
 papers:
   - layout: paper
+    author: "S. Yang, X. Huang, R. Zhang, J.H. Lau, and S. Erfani"
+    title: "Robust Task-Oriented Dialogue Generation with Contrastive Pre-training and Adversarial Filtering"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2022"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2205.10363"
+  - layout: paper
+    author: "Y. Otmakhova, K. Verspoor, T. Baldwin, A. Jimeno-Yepes, and J.H. Lau"
+    title: "M3: Multi-level dataset for Multi-document summarisation of Medical studies"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2022"
+    venue: conference
+  - layout: paper
     author: "T.H. Truong, Y. Otmakhova, T. Baldwin, T. Cohn, J.H. Lau, and K. Verspoor"
     title: "Not another Negation Benchmark: The NaN-NLI Test Suite for Sub-clausal Negation"
     year: "to appear"
