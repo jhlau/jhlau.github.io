@@ -15,6 +15,8 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 
 ### News
 
+- Our paper on [a new natural language inference dataset](https://arxiv.org/abs/2210.03256) was a runner up for [Best Paper Award at AACL 2022](https://www.aacl2022.org/Blog/Best-paper-awards)!
+
 - Our paper on [understanding commonsense stories in Indonesian](https://openreview.net/forum?id=zPFbyqOX8Cx) won the Best Paper Award for [CSRR 2022](https://csrr-workshop.github.io/)!
 
 - Together with [Georgia Banks](https://www.georgiabanks.info/) we will be presenting an art+science collaboration project for [ANAT Spectra 2022](https://events.humanitix.com/spectravision), where we build a chatbot with Georgia's personality to explore ego/self.
