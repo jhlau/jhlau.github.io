@@ -22,6 +22,17 @@ papers:
     codeurl: "https://github.com/twadada/lexsub_decontextualised"
     pages: 4172&mdash;4185
   - layout: paper
+    author: "Y. Otmakhova, T.H. Truong, T. Baldwin, T. Cohn, K. Verspoor, and J.H. Lau"
+    title: "LED Down the Rabbit Hole: Exploring the Potential of Global Attention for Biomedical Multi-document Summarisation"
+    year: 2022
+    paper-type: inproceedings
+    booktitle: "Proceedings of the Third Workshop on Scholarly Document Processing"
+    address: "Gyeongju, Republic of Korea"
+    venue: workshop
+    docurl: "https://aclanthology.org/2022.sdp-1.21/"
+    codeurl: "https://github.com/joey234/PRIMER-pico-attn"
+    pages: 181&mdash;187   
+  - layout: paper
     author: "A. Shen, F. Koto, J.H. Lau, and T. Baldwin"
     title: "Easy-First Bottom-Up Discourse Parsing via Sequence Labelling"
     year: 2022
