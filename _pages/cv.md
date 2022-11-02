@@ -56,15 +56,15 @@ redirect_from:
 - [2005, 2006]&nbsp; **Wyvern Medal for Academic Excellency**, Queen's College
 
 ## Grants
-- [2022] **Towards Robust NLP: Out-of-distribution Benchmarks and Multi-task Fine-tuning** (USD 90K)
-  - Oracle Gift
-  - Lead Investigator, joint with D. Beck
-- [2022] **Robust Natural Language Processing for Healthcare** (AUD 10K + GBP 6K)
-  - Manchester-Melbourne-Toronto Research Fund
-  - Partner Investigator, joint with D. Beck, T. Cohn, Y. Otmakhova, V. Schlegel, R. Batista-Navarro, Y. Sun and Y. Wu
-- [2022] **AI for Legal Problem Diagnosis in the Diverse Language of Australians** (AUD 343K)
+- [2022&mdash;2024] **AI for Legal Problem Diagnosis in the Diverse Language of Australians** (AUD 343K)
   - Australian Research Council (ARC) Linkage Project
   - Chief Investigator, joint with T. Baldwin, T. O’Doherty and B. Merrifield
+- [2022&mdash;2024] **Robust Natural Language Processing for Healthcare** (AUD 10K + GBP 6K)
+  - Manchester-Melbourne-Toronto Research Fund
+  - Partner Investigator, joint with D. Beck, T. Cohn, Y. Otmakhova, V. Schlegel, R. Batista-Navarro, Y. Sun and Y. Wu
+- [2022&mdash;2023] **Towards Robust NLP: Out-of-distribution Benchmarks and Multi-task Fine-tuning** (USD 90K)
+  - Oracle Gift
+  - Lead Investigator, joint with D. Beck
 - [2021] **Mirrored Social Media Platform** (AUD$75K)
   - Defense Science Institute Collaborative Research Grant and Leidos
   - Chief Investigator, joint with C. Leckie and S. Karunasekera
@@ -77,7 +77,7 @@ redirect_from:
 - [2020] **Document Corpus Analysis** (AUD$20K)
   - Defence Science and Technology: AI for Decision Making Initiative
   - Chief Investigator, joint with M. Mistica and T. Baldwin
-- [2017&mdash;2022] **Industrial Transformation Training Centre on Cognitive Computing for Medical Technologies** (AUD$4.1M)
+- [2018&mdash;2024] **Industrial Transformation Training Centre on Cognitive Computing for Medical Technologies** (AUD$4.1M)
   - Australian Research Council (ARC) 
   - Chief Investigator, joint with T. Baldwin, D. Freestone, D. Grayden, C. Masters, K. Verspoor, M. Cook, A. Burkitt, T. Cohn, J. Bailey, I. Mareels, T. Kalincik, A. van Schaik; M. McDonnell, L. Cavedon, J. Batstone, S. Harrer, N. Faux, A. Jimeno Yepes, C. Butler, B. Goudey, U. Asif, J. Tang, B. Mashford, P. Maruff
 - [2014]&nbsp; **Learning Word Sense Distributions for Wordnets of the World’s Languages** (USD$10K)
