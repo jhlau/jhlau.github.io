@@ -95,13 +95,14 @@ redirect_from:
   - U.S. Patent Application 16/186,920
 
 
-## Invited Talks
+## Invited Keynotes, Talks and Tutorials
 
+- [2022]&nbsp; **Combating Misinformation on Social Media: From Detection to Mitigation (Tutorial)**, ALTA
 - [2022]&nbsp; **Generating Product Descriptions and Answers for Customer
-Queries on E-commerce Platforms**, Endeavour Group, Open Data Science Conference Asia Pacific (Keynote)
-- [2022]&nbsp; **Responsible Data Science (Panelist)**, DERC 2022 seminar series, University of Cambridge+RMIT
-- [2021]&nbsp; **Misinformation Detection and Analysis**, The University of Melbourne, Telstra
-- [2019]&nbsp; **Creativity, Machine and Poetry**, Language: interdisciplinary public forum
+Queries on E-commerce Platforms (Keynote)**, Endeavour Group, Open Data Science Conference Asia Pacific
+- [2022]&nbsp; **Responsible Data Science (Panelist)**, DERC 2022 seminar series, University of Cambridge and RMIT
+- [2021]&nbsp; **Misinformation Detection and Analysis**, The University of Melbourne, Information and Influence Seminar Series, Telstra
+- [2019]&nbsp; **Creativity, Machine and Poetry (Keynote)**, Language: interdisciplinary public forum
 - [2018]&nbsp; **Teaching Machines to Write Better**, The University of Melbourne
 - [2018]&nbsp; **Deep-speare: A Joint Neural Model of Poetic Language, Meter and Rhyme**, Monash University
 - [2017]&nbsp; **Topically Driven Neural Language Model**, Monash University
