@@ -1,7 +1,7 @@
 team:
   - name: "Andrew Naughton"
     completed: 0
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Lea Frermann"
     start: 2022
@@ -16,7 +16,7 @@ team:
     end:
   - name: "Zixun Wu"
     completed: 1
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Kris Ehinger"
     start: 2021
@@ -24,7 +24,7 @@ team:
     current:
   - name: "Erya Wen"
     completed: 1
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor:
     start: 2021
@@ -32,7 +32,7 @@ team:
     current:
   - name: "Mulin Shi"
     completed: 1
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Lea Frermann"
     start: 2021
@@ -40,7 +40,7 @@ team:
     current: "Currently an NLP engineer at Pinduoduo"
   - name: "Jianing Yang"
     completed: 1
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor:
     start: 2020
@@ -61,14 +61,14 @@ team:
     end:
   - name: "Yi Li"
     completed: 1
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Mel Mistica"
     start: 2020
     end: 2021
   - name: "An Nguyen"
     completed: 1
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor:
     start: 2020
@@ -83,7 +83,7 @@ team:
     end:
   - name: "Chaoxian Zhou"
     completed: 1
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Daniel Beck"
     start: 2020
@@ -91,7 +91,7 @@ team:
     current: Currently an AI engineer at Baidu
   - name: "Hualong Deng"
     completed: 1
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Daniel Beck"
     start: 2020
@@ -135,7 +135,7 @@ team:
     end:
   - name: "Huidu Lu"
     completed: 1
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Lachlan Andrew"
     start: 2019
@@ -143,7 +143,7 @@ team:
     current: "Currently a software engineer at Shopee, Shenzhen China"
   - name: "Rongxiao Liu"
     completed: 1
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor:
     start: 2019
@@ -159,7 +159,7 @@ team:
     current:
   - name: "Zhuohan Xie"
     completed: 1
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Trevor Cohn"
     start: 2019
@@ -183,7 +183,7 @@ team:
     current:
   - name: "Steven Xu"
     completed: 1
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2017
@@ -209,7 +209,7 @@ team:
     current:
   - name: "Ionut-Teodor Sorodoc"
     completed: 1
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2016
@@ -217,7 +217,7 @@ team:
     current: "Currently a PhD student at Pompeu Fabra University"
   - name: "Shraey Bhatia"
     completed: 1
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2015
@@ -225,7 +225,7 @@ team:
     current: "Currently a PhD student at The University of Melbourne"
   - name: "Andrew Bennett"
     completed: 1
-    degree: "Master"
+    degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2014
