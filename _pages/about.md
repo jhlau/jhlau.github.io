@@ -11,7 +11,7 @@ My field of research is in Natural Language Processing (NLP) &mdash; a sub-field
 
 Prior to joining the University of Melbourne, I spent over 3.5 years as an industry scientist at IBM Research, developing solutions for clients in application domains from education to government.
 
-**Affiliations**: [The University of Melbourne NLP Group](https://cis.unimelb.edu.au/research/artificial-intelligence/Natural-Language-Processing)
+**Affiliations**: The University of Melbourne's [NLP Group](https://cis.unimelb.edu.au/research/artificial-intelligence/Natural-Language-Processing) and Information and Influence Hub. 
 
 ### News
 
