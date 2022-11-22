@@ -1,5 +1,13 @@
 papers:
   - layout: paper
+    author: "M. Li, J. Qi, and J.H. Lau"
+    title: "Compressed Heterogeneous Graph for Abstractive Multi-document Summarization"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2023)"
+    address: "Washington DC, USA"
+    venue: conference
+  - layout: paper
     author: "F. Koto, T. Baldwin, and J.H. Lau"
     title: "LipKey: A Large-Scale News Dataset for Absent Keyphrases Generation and Abstractive Summarization"
     year: 2022
