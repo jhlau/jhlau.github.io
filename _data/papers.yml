@@ -1,5 +1,12 @@
 papers:
   - layout: paper
+    author: "C. Shu, Z. Zhang, Y. Chen, J. Xiao, J.H. Lau, Q. Zhang, and Z. Lu"
+    title: "Open Domain Response Generation Guided by Retrieved Conversations"
+    year: "to appear"
+    paper-type: article
+    journal: "IEEE Access"
+    venue: journal
+  - layout: paper
     author: "M. Li, J. Qi, and J.H. Lau"
     title: "Compressed Heterogeneous Graph for Abstractive Multi-document Summarization"
     year: "to appear"
