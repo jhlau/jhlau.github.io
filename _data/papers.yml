@@ -1,5 +1,14 @@
 papers:
   - layout: paper
+    author: "R. Xing, S. Bhatia, T. Baldwin, and J.H. Lau"
+    title: "Automatic Explanation Generation For Climate Science Claims"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of The 20th Annual Workshop of the Australasian Language Technology Association (ALTA 2022)"
+    address: "Adelaide, Australia"
+    venue: workshop
+    codeurl: "https://github.com/ruixing76/ClimateChange-ExpGen"
+  - layout: paper
     author: "C. Shu, Z. Zhang, Y. Chen, J. Xiao, J.H. Lau, Q. Zhang, and Z. Lu"
     title: "Open Domain Response Generation Guided by Retrieved Conversations"
     year: "to appear"
@@ -163,7 +172,7 @@ papers:
     title: "Exploring Story Generation with Multi-task Objectives in Variational Autoencoders"
     year: 2021
     paper-type: inproceedings
-    booktitle: "Proceedings of The 19th Annual Workshop of the Australasian Language Technology Association"
+    booktitle: "Proceedings of The 19th Annual Workshop of the Australasian Language Technology Association (ALTA 2021)"
     venue: workshop
     docurl: "https://aclanthology.org/2021.alta-1.10/"
     pages: 97&mdash;106
@@ -172,7 +181,7 @@ papers:
     title: "Findings on Conversation Disentanglement"
     year: 2021
     paper-type: inproceedings
-    booktitle: "Proceedings of The 19th Annual Workshop of the Australasian Language Technology Association"
+    booktitle: "Proceedings of The 19th Annual Workshop of the Australasian Language Technology Association (ALTA 2021)"
     venue: workshop
     docurl: "https://aclanthology.org/2021.alta-1.1/"
     pages: 1&mdash;11
@@ -380,7 +389,7 @@ papers:
     title: "From Shakespeare to Li-Bai: Adapting a Sonnet Model to Chinese Poetry"
     year: 2019
     paper-type: inproceedings
-    booktitle: "Proceedings of the The 17th Annual Workshop of the Australasian Language Technology Association"
+    booktitle: "Proceedings of the The 17th Annual Workshop of the Australasian Language Technology Association (ALTA 2019)"
     address: "Sydney, Australia"
     venue: workshop
     docurl: "https://www.aclweb.org/anthology/U19-1002"
@@ -390,7 +399,7 @@ papers:
     title: "Improved Document Modelling with a Neural Discourse Parser"
     year: 2019
     paper-type: inproceedings
-    booktitle: "Proceedings of the The 17th Annual Workshop of the Australasian Language Technology Association"
+    booktitle: "Proceedings of the The 17th Annual Workshop of the Australasian Language Technology Association (ALTA 2019)"
     address: "Sydney, Australia"
     venue: workshop
     docurl: "https://www.aclweb.org/anthology/U19-1010"
