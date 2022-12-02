@@ -15,6 +15,7 @@ papers:
     paper-type: article
     journal: "IEEE Access"
     venue: journal
+    docurl: "https://ieeexplore.ieee.org/document/9966598"
   - layout: paper
     author: "M. Li, J. Qi, and J.H. Lau"
     title: "Compressed Heterogeneous Graph for Abstractive Multi-document Summarization"
