@@ -1,13 +1,53 @@
 papers:
   - layout: paper
+    author: "Z. Zhang, C. Shu, Y. Xiao, Y. Shen, D. Zhu, Y. Chen, J. Xiao, J.H. Lau, Q. Zhang, and Z. Lu"
+    title: "Improving Visual-Semantic Embedding with Adaptive Pooling and Optimization Objective"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)"
+    address: "Dubrovnik, Croatia"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2210.02206"
+    codeurl: "https://github.com/96-Zachary/vse_2ad"
+  - layout: paper
+    author: "G. Winata, A. Aji, S. Cahyawijaya, R. Mahendra, F. Koto, A. Romadhony, K. Kurniawan, D. Moeljadi, R. Prasojo, P. Fung, T. Baldwin, J.H. Lau, R. Sennrich, and S. Ruder"
+    title: "NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Languages"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)"
+    address: "Dubrovnik, Croatia"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2205.15960"
+    codeurl: "https://github.com/IndoNLP/nusax"
+  - layout: paper
+    author: "L. Tian, X. Zhang, and J.H. Lau"
+    title: "MetaTroll: Few-shot Detection of State-Sponsored Trolls with Transformer Adapters"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the Web Conference 2023 (WWW 2023)"
+    address: "Austin, USA"
+    venue: conference
+  - layout: paper
     author: "R. Xing, S. Bhatia, T. Baldwin, and J.H. Lau"
     title: "Automatic Explanation Generation For Climate Science Claims"
-    year: "to appear"
+    year: 2022
     paper-type: inproceedings
     booktitle: "Proceedings of The 20th Annual Workshop of the Australasian Language Technology Association (ALTA 2022)"
     address: "Adelaide, Australia"
     venue: workshop
+    docurl: "https://alta2022.alta.asn.au/files/ALTA_2022_16.pdf"
     codeurl: "https://github.com/ruixing76/ClimateChange-ExpGen"
+    pages: 122&mdash;129
+  - layout: paper
+    author: "T.H. Truong, Y. Otmakhova, T. Baldwin, T. Cohn, J.H. Lau, and K. Verspoor"
+    title: "Not another Negation Benchmark: The NaN-NLI Test Suite for Sub-clausal Negation"
+    year: 2022
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022)"
+    venue: conference
+    docurl: "https://aclanthology.org/2022.aacl-main.65/"
+    codeurl: "https://github.com/joey234/nan-nli"
+    pages: 883&mdash;894
   - layout: paper
     author: "C. Shu, Z. Zhang, Y. Chen, J. Xiao, J.H. Lau, Q. Zhang, and Z. Lu"
     title: "Open Domain Response Generation Guided by Retrieved Conversations"
@@ -83,14 +123,6 @@ papers:
     paper-type: inproceedings
     booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2022"
     venue: conference
-  - layout: paper
-    author: "T.H. Truong, Y. Otmakhova, T. Baldwin, T. Cohn, J.H. Lau, and K. Verspoor"
-    title: "Not another Negation Benchmark: The NaN-NLI Test Suite for Sub-clausal Negation"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2022)"
-    venue: conference
-    docurl: "https://arxiv.org/abs/2210.03256"
   - layout: paper
     author: "L. Tian, X. Zhang, and J.H. Lau"
     title: "DUCK: Rumour Detection on Social Media by Modelling User and Comment Propagation Networks"
