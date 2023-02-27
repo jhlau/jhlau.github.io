@@ -1,4 +1,32 @@
 team:
+  - name: "Ming-bin (Bryan) Chen"
+    completed: 0
+    degree: "PhD"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Lea Frermann"
+    start: 2023
+    end:
+  - name: "Chao Sun"
+    completed: 0
+    degree: "Masters"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Bowei Zou (A*STAR Singapore)"
+    start: 2023
+    end:
+  - name: "Kaijin Zhang"
+    completed: 0
+    degree: "Masters"
+    affiliation: "The University of Melbourne"
+    co-supervisor:
+    start: 2023
+    end:
+  - name: "Yanbei Jiang"
+    completed: 0
+    degree: "Masters"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Kris Ehinger"
+    start: 2023
+    end:
   - name: "Andrew Naughton"
     completed: 0
     degree: "Masters"
@@ -127,12 +155,13 @@ team:
     end:
     current:
   - name: "Shiquan Yang"
-    completed: 0
+    completed: 1
     degree: "PhD"
     affiliation: "The University of Melbourne"
     co-supervisor: "Sarah Erfani"
     start: 2019
-    end:
+    end: 2023
+    current: "Currently a research engineer in Oracle (Melbourne)"
   - name: "Huidu Lu"
     completed: 1
     degree: "Masters"
@@ -150,12 +179,12 @@ team:
     end: 2019
     current:
   - name: "Han Liu"
-    completed: 1
+    completed: 0
     degree: "PhD"
     affiliation: "The University of Melbourne"
     co-supervisor: "Richard Sinnott"
     start: 2019
-    end: 2022
+    end:
     current:
   - name: "Zhuohan Xie"
     completed: 1
@@ -166,13 +195,13 @@ team:
     end: 2019
     current: "Currently a PhD student at The University of Melbourne"
   - name: "Fajri"
-    completed: 0
+    completed: 1
     degree: "PhD"
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2018
-    end:
-    current:
+    end: 2023
+    current: "Currently a postdoctoral researcher at MBZUAI"
   - name: "Shraey Bhatia"
     completed: 0
     degree: "PhD"
