@@ -42,6 +42,13 @@ team:
     co-supervisor: "Tim Baldwin"
     start: 2022
     end:
+  - name: "Rena Gao"
+    completed: 0
+    degree: "PhD"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Carsten Roever (School of Languages and Linguistics)"
+    start: 2021
+    end:
   - name: "Zixun Wu"
     completed: 1
     degree: "Masters"
@@ -129,7 +136,7 @@ team:
     completed: 0
     degree: "PhD"
     affiliation: "RMIT University"
-    co-supervisor: "Jenny Zhang"
+    co-supervisor: "Jenny Zhang (RMIT)"
     start: 2020
     end:
   - name: "Takashi Wada"
@@ -224,7 +231,7 @@ team:
     completed: 1
     degree: "PhD"
     affiliation: "RMIT University"
-    co-supervisor: "Jenny Zhang, Jeffrey Chan and Cecile Paris"
+    co-supervisor: "Jenny Zhang (RMIT), Jeffrey Chan (RMIT) and Cecile Paris (CSIRO)"
     start: 2016
     end: 2021
     thesis-title: "Mining user-generated texts via neural classification"
