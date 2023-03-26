@@ -147,6 +147,7 @@ Queries on E-commerce Platforms (Keynote)**, Endeavour Group, Open Data Science 
 - [2012&mdash;present]&nbsp; Programme Committee for ACL, NAACL, EACL, EMNLP, COLING, IJCNLP, AAAI, CoNLL, \*SEM, and ALTA
 
 ## Media Coverage
+- [2023]&nbsp; My art+science chatbot project was featured by [Sydney Morning Herald](https://www.smh.com.au/culture/art-and-design/the-now-factor-10-things-not-to-miss-at-ngv-s-latest-blockbuster-20230310-p5cr6p.html)
 - [2021]&nbsp; Research on understanding mass influence activities online was covered by [Guardian](https://www.theguardian.com/australia-news/2021/dec/10/cyberwarfare-report-australias-democracy-faces-existential-threat-from-mass-influence-of-foreign-powers-and-social-media)
 - [2020]&nbsp; Interviewed about AI and Creativity on the radio show [PassW0rd](https://www.mixcloud.com/FI_PassW0rd/passw0rd-creativity-and-ai/)
 - [2018]&nbsp; [Shakespearean sonnet generator](https://www.aclweb.org/anthology/P18-1181) was covered by [New Scientist](https://www.newscientist.com/article/2175301-ai-creates-shakespearean-sonnets-and-theyre-actually-quite-good/), [Times UK](https://www.thetimes.co.uk/article/computers-produce-poetry-by-the-meter-vk80077zl), [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-6000619/Can-spot-real-Shakespeare-sonnet-AI-learns-write-poetry.html), and others
