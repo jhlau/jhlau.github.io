@@ -15,6 +15,8 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 
 ### News
 
+- My art+science chatbot project is now being exhibited at NGV Australia (Fed Square)! More information in [this article](https://www.smh.com.au/culture/art-and-design/the-now-factor-10-things-not-to-miss-at-ngv-s-latest-blockbuster-20230310-p5cr6p.html) (first project).
+
 - Our paper on [a new natural language inference dataset](https://arxiv.org/abs/2210.03256) was a runner up for [Best Paper Award at AACL 2022](https://www.aacl2022.org/Blog/Best-paper-awards)!
 
 - Our paper on [understanding commonsense stories in Indonesian](https://openreview.net/forum?id=zPFbyqOX8Cx) won the Best Paper Award for [CSRR 2022](https://csrr-workshop.github.io/)!
