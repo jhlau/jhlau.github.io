@@ -1,5 +1,26 @@
 papers:
   - layout: paper
+    author: "S. Yang, X. Huang, R. Zhang, J.H. Lau, and S. Erfani"
+    title: "Robust Task-Oriented Dialogue Generation with Contrastive Pre-training and Adversarial Filtering"
+    year: 2022
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2022"
+    address: "Abu Dhabi, United Arab Emirates"
+    venue: conference
+    docurl: "https://aclanthology.org/2022.findings-emnlp.88/"
+    codeurl: "https://github.com/shiquanyang/Robust-Dialogue"
+    pages: 1220&mdash;1234
+  - layout: paper
+    author: "Y. Otmakhova, K. Verspoor, T. Baldwin, A. Jimeno-Yepes, and J.H. Lau"
+    title: "M3: Multi-level dataset for Multi-document summarisation of Medical studies"
+    year: 2022
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2022"
+    address: "Abu Dhabi, United Arab Emirates"
+    venue: conference
+    docurl: "https://aclanthology.org/2022.emnlp-main.94/"
+    pages: 1450&mdash;1461
+  - layout: paper
     author: "S. Šuster, T. Baldwin, J.H. Lau, A. Jimeno-Yepes, D. Martinez, Y. Otmakhova, and K. Verspoor"
     title: "Automating Quality Assessment of Medical Evidence in Systematic Reviews: Model Development and Validation Study"
     year: 2023
@@ -118,21 +139,6 @@ papers:
     docurl: "https://aclanthology.org/2022.codi-1.5"
     codeurl: "https://github.com/Redrew/NeuralRST-Bottom-Up"
     pages: 35&mdash;41
-  - layout: paper
-    author: "S. Yang, X. Huang, R. Zhang, J.H. Lau, and S. Erfani"
-    title: "Robust Task-Oriented Dialogue Generation with Contrastive Pre-training and Adversarial Filtering"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2022"
-    venue: conference
-    docurl: "https://arxiv.org/abs/2205.10363"
-  - layout: paper
-    author: "Y. Otmakhova, K. Verspoor, T. Baldwin, A. Jimeno-Yepes, and J.H. Lau"
-    title: "M3: Multi-level dataset for Multi-document summarisation of Medical studies"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2022"
-    venue: conference
   - layout: paper
     author: "L. Tian, X. Zhang, and J.H. Lau"
     title: "DUCK: Rumour Detection on Social Media by Modelling User and Comment Propagation Networks"
