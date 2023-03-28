@@ -55,6 +55,7 @@ papers:
     title: "MetaTroll: Few-shot Detection of State-Sponsored Trolls with Transformer Adapters"
     year: "to appear"
     docurl: "https://arxiv.org/abs/2303.07354"
+    codeurl: "https://github.com/ltian678/metatroll-code"
     paper-type: inproceedings
     booktitle: "Proceedings of the Web Conference 2023 (WWW 2023)"
     address: "Austin, USA"
