@@ -1,5 +1,15 @@
 papers:
   - layout: paper
+    author: "S. Šuster, T. Baldwin, J.H. Lau, A. Jimeno-Yepes, D. Martinez, Y. Otmakhova, and K. Verspoor"
+    title: "Automating Quality Assessment of Medical Evidence in Systematic Reviews: Model Development and Validation Study"
+    year: 2023
+    paper-type: article
+    journal: "Journal of Medical Internet Research"
+    volume: 25
+    venue: journal
+    docurl: "https://www.jmir.org/2023/1/e35568/"
+    pages: 1543&mdash;1562
+  - layout: paper
     author: "Z. Zhang, C. Shu, Y. Xiao, Y. Shen, D. Zhu, Y. Chen, J. Xiao, J.H. Lau, Q. Zhang, and Z. Lu"
     title: "Improving Visual-Semantic Embedding with Adaptive Pooling and Optimization Objective"
     year: "to appear"
