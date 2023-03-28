@@ -54,6 +54,7 @@ papers:
     author: "L. Tian, X. Zhang, and J.H. Lau"
     title: "MetaTroll: Few-shot Detection of State-Sponsored Trolls with Transformer Adapters"
     year: "to appear"
+    docurl: "https://arxiv.org/abs/2303.07354"
     paper-type: inproceedings
     booktitle: "Proceedings of the Web Conference 2023 (WWW 2023)"
     address: "Austin, USA"
