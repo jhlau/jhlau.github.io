@@ -275,7 +275,7 @@ papers:
     pages: 603&mdash;618
     codeurl: "https://github.com/ltian678/cross-lingual-rumour"
   - layout: paper
-    author: "S. Suster, K. Verspoor, T. Baldwin, J.H. Lau, A. Jimeno-Yepes, D. Martinez, and Y. Otmakhova"
+    author: "S. Šuster, K. Verspoor, T. Baldwin, J.H. Lau, A. Jimeno-Yepes, D. Martinez, and Y. Otmakhova"
     title: "Impact of Detecting Clinical Trial Elements in Exploration of COVID-19 Literature"
     year: 2021
     paper-type: inproceedings
@@ -341,7 +341,7 @@ papers:
     codeurl: "https://github.com/fajri91/NeuralRST-TopDown"
     pages: 715&mdash;726
   - layout: paper
-    author: "K. Verspoor, S. Suster, Y. Otmakhova, S. Mendis, Z. Zhai, B. Fang, J.H. Lau, T. Baldwin, A. Jimeno-Yepes, and D. Martinez"
+    author: "K. Verspoor, S. Šuster, Y. Otmakhova, S. Mendis, Z. Zhai, B. Fang, J.H. Lau, T. Baldwin, A. Jimeno-Yepes, and D. Martinez"
     title: "Brief description of COVID-SEE: The Scientific Evidence Explorer for COVID-19 Related Research"
     year: 2021
     paper-type: inproceedings
