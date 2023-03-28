@@ -95,6 +95,7 @@ papers:
     booktitle: "Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2023)"
     address: "Washington DC, USA"
     venue: conference
+    docurl: "https://arxiv.org/abs/2303.06565"
   - layout: paper
     author: "F. Koto, T. Baldwin, and J.H. Lau"
     title: "LipKey: A Large-Scale News Dataset for Absent Keyphrases Generation and Abstractive Summarization"
