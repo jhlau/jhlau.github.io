@@ -1,4 +1,11 @@
 team:
+  - name: "Patrick Bowers"
+    completed: 0
+    degree: "PhD"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Dani Tomlin (Audiology and Speech Pathology), Kelley Graydon (Audiology and Speech Pathology) and Tracii Ryan (Education)"
+    start: 2023
+    end:
   - name: "Ming-bin (Bryan) Chen"
     completed: 0
     degree: "PhD"
@@ -46,7 +53,7 @@ team:
     completed: 0
     degree: "PhD"
     affiliation: "The University of Melbourne"
-    co-supervisor: "Carsten Roever (School of Languages and Linguistics)"
+    co-supervisor: "Carsten Roever (Languages and Linguistics)"
     start: 2021
     end:
   - name: "Zixun Wu"
