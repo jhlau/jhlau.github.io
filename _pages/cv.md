@@ -135,6 +135,9 @@ Queries on E-commerce Platforms (Keynote)**, Endeavour Group, Open Data Science 
 
 ## Service
 
+- [2023]&nbsp; Senior Area Chair for IJCNLP-AACL
+- [2023]&nbsp; Senior Area Chair for ACL
+- [2023]&nbsp; Program Chair for ALTA
 - [2022&mdash;present]&nbsp; Master of Computer Science Project Coordinator, University of Melbourne 
 - [2022]&nbsp; Area Chair for EMNLP
 - [2022]&nbsp; Area Chair for Natural Language Processing and Chinese Computing (NLPCC)
@@ -153,7 +156,7 @@ Queries on E-commerce Platforms (Keynote)**, Endeavour Group, Open Data Science 
 - [2018]&nbsp; [Shakespearean sonnet generator](https://www.aclweb.org/anthology/P18-1181) was covered by [New Scientist](https://www.newscientist.com/article/2175301-ai-creates-shakespearean-sonnets-and-theyre-actually-quite-good/), [Times UK](https://www.thetimes.co.uk/article/computers-produce-poetry-by-the-meter-vk80077zl), [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-6000619/Can-spot-real-Shakespeare-sonnet-AI-learns-write-poetry.html), and others
 
 ## Collaborations Outside Academia
-- [2020&mdash;present]&nbsp; **Gee**. A project with artist Georgia Banks to develop a chatbot that incorporates her personality to explore self/ego. It was presented in ANAT Spectra 2022 and will have an exhibition at the National Gallery of Victoria in 2023.
+- [2020&mdash;present]&nbsp; **Gee**. A project with artist Georgia Banks to develop a chatbot that incorporates her personality to explore self/ego. It was presented in ANAT Spectra 2022 and saw an exhibition at the National Gallery of Victoria in 2023.
 - [2021&mdash;2022]&nbsp; **Exploring AI for Interpreting Artwork**. A project with the Ian Potter Museum of Art to develop computational models to generate descriptions for artworks.
 
 ## Non-scientifc Publications
