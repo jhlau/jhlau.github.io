@@ -1,5 +1,54 @@
 papers:
   - layout: paper
+    author: "R. Zhu, J. Qi, and J.H. Lau"
+    title: "Annotating and Detecting Fine-grained Factual Inconsistencies for Dialogue Summarization"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)"
+    address: "Toronto, Canada"
+    venue: conference
+  - layout: paper
+    author: "T. Wada, Y. Matsumoto, T. Baldwin, and J.H. Lau"
+    title: "Unsupervised Paraphrasing of Multiword Expressions"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: ACL 2023"
+    address: "Toronto, Canada"
+    venue: conference
+  - layout: paper
+    author: "L. Tian, X. Zhang, and J.H. Lau"
+    title: "MetaTroll: Few-shot Detection of State-Sponsored Trolls with Transformer Adapters"
+    year: 2023
+    paper-type: inproceedings
+    booktitle: "Proceedings of the Web Conference 2023 (WWW 2023)"
+    address: "Austin, USA"
+    venue: conference
+    docurl: "https://dl.acm.org/doi/10.1145/3543507.3583417"
+    codeurl: "https://github.com/ltian678/metatroll-code"
+    pages: 1743–1753
+  - layout: paper
+    author: "G. Winata, A. Aji, S. Cahyawijaya, R. Mahendra, F. Koto, A. Romadhony, K. Kurniawan, D. Moeljadi, R. Prasojo, P. Fung, T. Baldwin, J.H. Lau, R. Sennrich, and S. Ruder"
+    title: "NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Languages"
+    year: 2023
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)"
+    address: "Dubrovnik, Croatia"
+    venue: conference
+    docurl: "https://aclanthology.org/2023.eacl-main.57/"
+    codeurl: "https://github.com/IndoNLP/nusax"
+    pages: 815&mdash;834
+  - layout: paper
+    author: "Z. Zhang, C. Shu, Y. Xiao, Y. Shen, D. Zhu, Y. Chen, J. Xiao, J.H. Lau, Q. Zhang, and Z. Lu"
+    title: "Improving Visual-Semantic Embedding with Adaptive Pooling and Optimization Objective"
+    year: 2023
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)"
+    address: "Dubrovnik, Croatia"
+    venue: conference
+    docurl: "https://aclanthology.org/2023.eacl-main.87/"
+    codeurl: "https://github.com/96-Zachary/vse_2ad"
+    pages: 1209&mdash;1221
+  - layout: paper
     author: "S. Yang, X. Huang, R. Zhang, J.H. Lau, and S. Erfani"
     title: "Robust Task-Oriented Dialogue Generation with Contrastive Pre-training and Adversarial Filtering"
     year: 2022
@@ -30,36 +79,6 @@ papers:
     venue: journal
     docurl: "https://www.jmir.org/2023/1/e35568/"
     pages: 1543&mdash;1562
-  - layout: paper
-    author: "Z. Zhang, C. Shu, Y. Xiao, Y. Shen, D. Zhu, Y. Chen, J. Xiao, J.H. Lau, Q. Zhang, and Z. Lu"
-    title: "Improving Visual-Semantic Embedding with Adaptive Pooling and Optimization Objective"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)"
-    address: "Dubrovnik, Croatia"
-    venue: conference
-    docurl: "https://arxiv.org/abs/2210.02206"
-    codeurl: "https://github.com/96-Zachary/vse_2ad"
-  - layout: paper
-    author: "G. Winata, A. Aji, S. Cahyawijaya, R. Mahendra, F. Koto, A. Romadhony, K. Kurniawan, D. Moeljadi, R. Prasojo, P. Fung, T. Baldwin, J.H. Lau, R. Sennrich, and S. Ruder"
-    title: "NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Languages"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)"
-    address: "Dubrovnik, Croatia"
-    venue: conference
-    docurl: "https://arxiv.org/abs/2205.15960"
-    codeurl: "https://github.com/IndoNLP/nusax"
-  - layout: paper
-    author: "L. Tian, X. Zhang, and J.H. Lau"
-    title: "MetaTroll: Few-shot Detection of State-Sponsored Trolls with Transformer Adapters"
-    year: "to appear"
-    docurl: "https://arxiv.org/abs/2303.07354"
-    codeurl: "https://github.com/ltian678/metatroll-code"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the Web Conference 2023 (WWW 2023)"
-    address: "Austin, USA"
-    venue: conference
   - layout: paper
     author: "R. Xing, S. Bhatia, T. Baldwin, and J.H. Lau"
     title: "Automatic Explanation Generation For Climate Science Claims"
