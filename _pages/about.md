@@ -15,6 +15,8 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 
 ### News
 
+- Our [parallel sentiment dataset for Indonesian languages](https://aclanthology.org/2023.eacl-main.57/) received the [Outstanding Paper Award at EACL 2023](https://2023.eacl.org/program/best-paper/)!
+
 - My art+science chatbot project is now being exhibited at NGV Australia (Fed Square)! More information in [this article](https://www.smh.com.au/culture/art-and-design/the-now-factor-10-things-not-to-miss-at-ngv-s-latest-blockbuster-20230310-p5cr6p.html) (first project).
 
 - Our paper on [a new natural language inference dataset](https://arxiv.org/abs/2210.03256) was a runner up for [Best Paper Award at AACL 2022](https://www.aacl2022.org/Blog/Best-paper-awards)!
