@@ -136,6 +136,7 @@ Queries on E-commerce Platforms (Keynote)**, Endeavour Group, Open Data Science 
 
 ## Service
 
+- [2023]&nbsp; Area Chair for EMNLP
 - [2023]&nbsp; Senior Area Chair for IJCNLP-AACL
 - [2023]&nbsp; Senior Area Chair for ACL
 - [2023]&nbsp; Program Chair for ALTA
