@@ -176,6 +176,8 @@ team:
     start: 2019
     end: 2023
     current: "Currently a research engineer at Oracle (Melbourne)"
+    thesis-title: "Towards Multimodal, Interpretable and Robust Task-Oriented Dialogue Modeling"
+    thesis-url: "https://minerva-access.unimelb.edu.au/items/355cb5b3-66da-478d-95a3-7a8d4c28c3a9"
   - name: "Huidu Lu"
     completed: 1
     degree: "Masters"
