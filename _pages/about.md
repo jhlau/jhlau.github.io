@@ -40,5 +40,5 @@ is up.
 
 ### Prospective Students
 
-- I am not recruiting PhD students at the moment (though this may change in the future).
-- Unfortunately I also do not take interns, as such do not expect a response to these enquiries.
+- If your query is related PhD supervision, it would help to: (1) have a look over my publications to identify areas of overlapping interests; and (2) send a thoughtful research proposal to suggest potential projects. As a student I don't expect that you understand the gaps in the field and can identify research questions that fit the scope of a PhD, but the proposal would serve to kickstart a discussion about potential project ideas.
+- If your query is about internship, please note that I do not take interns (and so any queries of this nature would not receive a response).
