@@ -2,7 +2,7 @@ papers:
   - layout: paper
     author: "Z. Xie, T. Cohn, and J.H. Lau"
     title: "Can Large Language Models Learn Better Storytelling With A Few Examples?"
-    year: "to-appear"
+    year: "to appear"
     paper-type: inproceedings
     booktitle: "Proceedings of The 16th International Natural Language Generation Conference (INLG 2023)"
     venue: workshop
