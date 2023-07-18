@@ -13,6 +13,11 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 
 **Affiliations**: The University of Melbourne's [NLP Group](https://cis.unimelb.edu.au/research/artificial-intelligence/Natural-Language-Processing) and Information and Influence Hub. 
 
+### Prospective Students
+
+- If your query is related PhD supervision, it would help to: (1) have a look over my publications to identify areas of overlapping interests; and (2) send a thoughtful research proposal to suggest potential projects. As a student I don't expect that you have a perfect understanding of the gaps in the field and can identify research questions that fit the scope of a PhD, but the proposal would serve to kickstart a discussion about potential project ideas.
+- If your query is about internship, please note that I do not take interns (and so any queries of this nature would not receive a response).
+
 ### News
 
 - Our [parallel sentiment dataset for Indonesian languages](https://aclanthology.org/2023.eacl-main.57/) received the [Outstanding Paper Award at EACL 2023](https://2023.eacl.org/program/best-paper/)!
@@ -38,7 +43,4 @@ is up.
 - I'm presenting a talk on "Creativity, Machine and Poetry" at a [public forum on language](https://art-museum.unimelb.edu.au/events/language/) [[video](https://www.youtube.com/watch?v=cHUIFKhPPyo)].
 - Our [Shakespearean sonnet generator](https://www.aclweb.org/anthology/P18-1181) was covered by [New Scientist](https://www.newscientist.com/article/2175301-ai-creates-shakespearean-sonnets-and-theyre-actually-quite-good/), [Times UK](https://www.thetimes.co.uk/article/computers-produce-poetry-by-the-meter-vk80077zl), [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-6000619/Can-spot-real-Shakespeare-sonnet-AI-learns-write-poetry.html), and others. More information can be found [here](https://github.com/jhlau/deepspeare#media-coverage).
 
-### Prospective Students
 
-- If your query is related PhD supervision, it would help to: (1) have a look over my publications to identify areas of overlapping interests; and (2) send a thoughtful research proposal to suggest potential projects. As a student I don't expect that you understand the gaps in the field and can identify research questions that fit the scope of a PhD, but the proposal would serve to kickstart a discussion about potential project ideas.
-- If your query is about internship, please note that I do not take interns (and so any queries of this nature would not receive a response).
