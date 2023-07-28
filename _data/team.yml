@@ -1,4 +1,11 @@
 team:
+  - name: "Archit Aggarwal"
+    completed: 0
+    degree: "Masters"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Christine de Kock"
+    start: 2023
+    end:
   - name: "Patrick Bowers"
     completed: 0
     degree: "PhD"
@@ -14,12 +21,12 @@ team:
     start: 2023
     end:
   - name: "Chao Sun"
-    completed: 0
+    completed: 1
     degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Bowei Zou (A*STAR Singapore)"
     start: 2023
-    end:
+    end: 2023
   - name: "Kaijin Zhang"
     completed: 0
     degree: "Masters"
@@ -35,13 +42,13 @@ team:
     start: 2023
     end:
   - name: "Andrew Naughton"
-    completed: 0
+    completed: 1
     degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Lea Frermann"
     start: 2022
-    end:
-    current:
+    end: 2023
+    current: "Currently a Software Engineer at Airwallex"
   - name: "Rui Xing"
     completed: 0
     degree: "PhD"
@@ -195,12 +202,12 @@ team:
     end: 2019
     current:
   - name: "Han Liu"
-    completed: 0
+    completed: 1
     degree: "PhD"
     affiliation: "The University of Melbourne"
     co-supervisor: "Richard Sinnott"
     start: 2019
-    end:
+    end: 2023
     current:
   - name: "Zhuohan Xie"
     completed: 1
