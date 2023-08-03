@@ -1,12 +1,13 @@
 papers:
   - layout: paper
     author: "Z. Xie, T. Cohn, and J.H. Lau"
-    title: "Can Large Language Models Learn Better Storytelling With A Few Examples?"
+    title: "The Next Chapter: A Study of Large Language Models in Storytelling"
     year: "to appear"
     paper-type: inproceedings
     booktitle: "Proceedings of The 16th International Natural Language Generation Conference (INLG 2023)"
     venue: workshop
     docurl: "https://arxiv.org/abs/2301.09790"
+    codeurl: "https://github.com/ZhuohanX/TheNextChapter"
   - layout: paper
     author: "R. Zhu, J. Qi, and J.H. Lau"
     title: "Annotating and Detecting Fine-grained Factual Inconsistencies for Dialogue Summarization"
