@@ -1,5 +1,38 @@
 papers:
   - layout: paper
+    author: "R. Zhu, J. Qi, and J.H. Lau"
+    title: "Annotating and Detecting Fine-grained Factual Inconsistencies for Dialogue Summarization"
+    year: 2023
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)"
+    address: "Toronto, Canada"
+    venue: conference
+    docurl: "https://aclanthology.org/2023.acl-long.377/"
+    codeurl: "https://github.com/731935354/Dia-Sum-Fact"
+    pages: 6825&mdash;6845
+  - layout: paper
+    author: "T. Wada, Y. Matsumoto, T. Baldwin, and J.H. Lau"
+    title: "Unsupervised Paraphrasing of Multiword Expressions"
+    year: 2023
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: ACL 2023"
+    address: "Toronto, Canada"
+    venue: conference
+    docurl: "https://aclanthology.org/2023.findings-acl.290/"
+    codeurl: "https://github.com/twadada/mwe-paraphrase"
+    pages: 4732&mdash;4746
+  - layout: paper
+    author: "M. Li, J. Qi, and J.H. Lau"
+    title: "Compressed Heterogeneous Graph for Abstractive Multi-document Summarization"
+    year: 2023
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2023)"
+    address: "Washington DC, USA"
+    venue: conference
+    docurl: "https://ojs.aaai.org/index.php/AAAI/article/view/26537"
+    codeurl: "https://github.com/oaimli/HGSum"
+    pages: 13085&mdash;13093
+  - layout: paper
     author: "Z. Xie, T. Cohn, and J.H. Lau"
     title: "The Next Chapter: A Study of Large Language Models in Storytelling"
     year: "to appear"
@@ -8,22 +41,6 @@ papers:
     venue: workshop
     docurl: "https://arxiv.org/abs/2301.09790"
     codeurl: "https://github.com/ZhuohanX/TheNextChapter"
-  - layout: paper
-    author: "R. Zhu, J. Qi, and J.H. Lau"
-    title: "Annotating and Detecting Fine-grained Factual Inconsistencies for Dialogue Summarization"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)"
-    address: "Toronto, Canada"
-    venue: conference
-  - layout: paper
-    author: "T. Wada, Y. Matsumoto, T. Baldwin, and J.H. Lau"
-    title: "Unsupervised Paraphrasing of Multiword Expressions"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Findings of the Association for Computational Linguistics: ACL 2023"
-    address: "Toronto, Canada"
-    venue: conference
   - layout: paper
     author: "L. Tian, X. Zhang, and J.H. Lau"
     title: "MetaTroll: Few-shot Detection of State-Sponsored Trolls with Transformer Adapters"
@@ -34,7 +51,7 @@ papers:
     venue: conference
     docurl: "https://dl.acm.org/doi/10.1145/3543507.3583417"
     codeurl: "https://github.com/ltian678/metatroll-code"
-    pages: 1743–1753
+    pages: 1743&mdash;1753
   - layout: paper
     author: "G. Winata, A. Aji, S. Cahyawijaya, R. Mahendra, F. Koto, A. Romadhony, K. Kurniawan, D. Moeljadi, R. Prasojo, P. Fung, T. Baldwin, J.H. Lau, R. Sennrich, and S. Ruder"
     title: "NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Languages"
@@ -117,15 +134,6 @@ papers:
     journal: "IEEE Access"
     venue: journal
     docurl: "https://ieeexplore.ieee.org/document/9966598"
-  - layout: paper
-    author: "M. Li, J. Qi, and J.H. Lau"
-    title: "Compressed Heterogeneous Graph for Abstractive Multi-document Summarization"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI 2023)"
-    address: "Washington DC, USA"
-    venue: conference
-    docurl: "https://arxiv.org/abs/2303.06565"
   - layout: paper
     author: "F. Koto, T. Baldwin, and J.H. Lau"
     title: "LipKey: A Large-Scale News Dataset for Absent Keyphrases Generation and Abstractive Summarization"
