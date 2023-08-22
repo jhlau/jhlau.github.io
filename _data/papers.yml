@@ -93,7 +93,7 @@ papers:
     booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2022"
     address: "Abu Dhabi, United Arab Emirates"
     venue: conference
-    docurl: "https://aclanthology.org/2022.emnlp-main.94/"
+    docurl: "https://aclanthology.org/2022.findings-emnlp.286/"
     pages: 1450&mdash;1461
   - layout: paper
     author: "S. Šuster, T. Baldwin, J.H. Lau, A. Jimeno-Yepes, D. Martinez, Y. Otmakhova, and K. Verspoor"
