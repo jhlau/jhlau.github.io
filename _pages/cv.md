@@ -98,7 +98,8 @@ redirect_from:
 
 ## Invited Keynotes, Talks and Tutorials
 
-- [2023]&nbsp; **Rumour and Disinformation Detection in Online Conversations**, Monash University
+- [2023]&nbsp; **Careers Night in Data Science, AI & NLP (Panelist)**, The University of Melbourne
+- [2023]&nbsp; **Rumour and Disinformation Detection in Online Conversations**, Monash University, VinAI
 - [2022]&nbsp; **Combating Misinformation on Social Media: From Detection to Mitigation (Tutorial)**, ALTA
 - [2022]&nbsp; **Generating Product Descriptions and Answers for Customer
 Queries on E-commerce Platforms (Keynote)**, Endeavour Group, Open Data Science Conference Asia Pacific
