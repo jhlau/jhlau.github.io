@@ -97,7 +97,7 @@ redirect_from:
 
 
 ## Invited Keynotes, Talks and Tutorials
-
+- [2023]&nbsp; **Few-shot Detection of State-Sponsored Agents in Disinformation Campaigns**, Understanding and Countering Mis/Disinformation Workshop 2023
 - [2023]&nbsp; **Careers Night in Data Science, AI & NLP (Panelist)**, The University of Melbourne
 - [2023]&nbsp; **Rumour and Disinformation Detection in Online Conversations**, Monash University, VinAI
 - [2022]&nbsp; **Combating Misinformation on Social Media: From Detection to Mitigation (Tutorial)**, ALTA
