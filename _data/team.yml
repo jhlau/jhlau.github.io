@@ -1,4 +1,11 @@
 team:
+  - name: "Kemal Kurniawan"
+    completed: 0
+    degree: "Postdoc"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Tim Baldwin"
+    start: 2023
+    end:
   - name: "Archit Aggarwal"
     completed: 0
     degree: "Masters"
