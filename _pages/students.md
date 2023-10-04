@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Students/Postdocs"
-permalink: /students/
+permalink: /team/
 author_profile: true
 ---
 
