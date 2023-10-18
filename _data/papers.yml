@@ -1,5 +1,32 @@
 papers:
   - layout: paper
+    author: "Z. Xie, M. Li, T. Cohn, and J.H. Lau"
+    title: "DeltaScore: Story Evaluation with Perturbations"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2023"
+    address: "Singapore"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2303.08991"
+  - layout: paper
+    author: "T. Wada, T. Baldwin, and J.H. Lau"
+    title: "Unsupervised Lexical Simplification with Context Augmentation"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2023"
+    address: "Singapore"
+    venue: conference
+  - layout: paper
+    author: "M. Li, E. Hovy, and J.H. Lau"
+    title: "Summarizing Multiple Documents with Conversational Structure for Meta-Review Generation"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2023"
+    address: "Singapore"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2305.01498"
+    codeurl: "https://github.com/oaimli/PeerSum"
+  - layout: paper
     author: "R. Zhu, J. Qi, and J.H. Lau"
     title: "Annotating and Detecting Fine-grained Factual Inconsistencies for Dialogue Summarization"
     year: 2023
