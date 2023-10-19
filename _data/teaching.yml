@@ -1,4 +1,15 @@
 subjects:
+  - name: "BUSA90543 Text Analytics for Business"
+    department: "Melbourne Business School"
+    url: "https://handbook.unimelb.edu.au/2023/subjects/busa90543"
+    year: 2023
+    semester: "Semester 2"
+    note1: "Co-lectured with Qiongkai Xu"
+  - name: "COMP90042 Natural Language Processing"
+    department: "Computing and Information Systems"
+    url: "https://handbook.unimelb.edu.au/2023/subjects/comp90042"
+    year: 2023
+    semester: "Semester 1"
   - name: "BUSA90501 Text and Web Analytics"
     department: "Melbourne Business School"
     url: "https://handbook.unimelb.edu.au/2022/subjects/busa90501"
