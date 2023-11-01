@@ -2,7 +2,7 @@ papers:
   - layout: paper
     author: "Z. Xie, M. Li, T. Cohn, and J.H. Lau"
     title: "DeltaScore: Story Evaluation with Perturbations"
-    year: "to appear"
+    year: 2023
     paper-type: inproceedings
     booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2023"
     address: "Singapore"
@@ -11,7 +11,7 @@ papers:
   - layout: paper
     author: "T. Wada, T. Baldwin, and J.H. Lau"
     title: "Unsupervised Lexical Simplification with Context Augmentation"
-    year: "to appear"
+    year: 2023
     paper-type: inproceedings
     booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2023"
     address: "Singapore"
@@ -19,7 +19,7 @@ papers:
   - layout: paper
     author: "M. Li, E. Hovy, and J.H. Lau"
     title: "Summarizing Multiple Documents with Conversational Structure for Meta-Review Generation"
-    year: "to appear"
+    year: 2023
     paper-type: inproceedings
     booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2023"
     address: "Singapore"
@@ -62,7 +62,7 @@ papers:
   - layout: paper
     author: "Z. Xie, T. Cohn, and J.H. Lau"
     title: "The Next Chapter: A Study of Large Language Models in Storytelling"
-    year: "to appear"
+    year: 2023
     paper-type: inproceedings
     booktitle: "Proceedings of The 16th International Natural Language Generation Conference (INLG 2023)"
     venue: workshop
