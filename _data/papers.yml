@@ -18,6 +18,7 @@ papers:
     address: "Singapore"
     venue: conference
     codeurl: "https://github.com/twadada/lexsub_decontextualised"
+    docurl: "https://arxiv.org/abs/2311.00310"    
   - layout: paper
     author: "M. Li, E. Hovy, and J.H. Lau"
     title: "Summarizing Multiple Documents with Conversational Structure for Meta-Review Generation"
