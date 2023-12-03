@@ -44,6 +44,7 @@ redirect_from:
   
 ## Awards and Honours
 
+- [2023]&nbsp; **Best Paper Award**, ALTA
 - [2023]&nbsp; **Outstanding Paper Award**, EACL
 - [2022]&nbsp; **Best Paper Award Runner Up**, AACL
 - [2022]&nbsp; **Best Paper Award**, CSRR
