@@ -20,13 +20,15 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 
 ### News
 
+- Our paper on [understanding the relation between empathy and toxicity](https://alta2023.alta.asn.au/files/27.pdf) won the Best Paper Award at ALTA 2023!
+
 - Our [parallel sentiment dataset for Indonesian languages](https://aclanthology.org/2023.eacl-main.57/) received the [Outstanding Paper Award at EACL 2023](https://2023.eacl.org/program/best-paper/)!
 
 - My art+science chatbot project is now being exhibited at NGV Australia (Fed Square)! More information in [this article](https://www.smh.com.au/culture/art-and-design/the-now-factor-10-things-not-to-miss-at-ngv-s-latest-blockbuster-20230310-p5cr6p.html) (first project).
 
 - Our paper on [a new natural language inference dataset](https://arxiv.org/abs/2210.03256) was a runner up for [Best Paper Award at AACL 2022](https://www.aacl2022.org/Blog/Best-paper-awards)!
 
-- Our paper on [understanding commonsense stories in Indonesian](https://openreview.net/forum?id=zPFbyqOX8Cx) won the Best Paper Award for [CSRR 2022](https://csrr-workshop.github.io/)!
+- Our paper on [understanding commonsense stories in Indonesian](https://openreview.net/forum?id=zPFbyqOX8Cx) won the Best Paper Award at [CSRR 2022](https://csrr-workshop.github.io/)!
 
 - Together with [Georgia Banks](https://www.georgiabanks.info/) we will be presenting an art+science collaboration project for [ANAT Spectra 2022](https://events.humanitix.com/spectravision), where we build a chatbot with Georgia's personality to explore ego/self.
 
@@ -34,9 +36,9 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 
 - Our work on understanding mass influence activities online is covered by [Guardian](https://www.theguardian.com/australia-news/2021/dec/10/cyberwarfare-report-australias-democracy-faces-existential-threat-from-mass-influence-of-foreign-powers-and-social-media).
 
-- Our paper on [conversation disentanglement](https://alta2021.alta.asn.au/files/ALTA2021-proceedings-draft.pdf#page=11) won the Best Paper Award for [ALTA 2021](https://alta2021.alta.asn.au/)!
+- Our paper on [conversation disentanglement](https://alta2021.alta.asn.au/files/ALTA2021-proceedings-draft.pdf#page=11) won the Best Paper Award at [ALTA 2021](https://alta2021.alta.asn.au/)!
 
-- Our paper on [learning cross-lingual embeddings for low resource languages](https://aclanthology.org/2021.mrl-1.2.pdf) won the [Best Paper Award for MRL 2021](https://sites.google.com/view/mrl-2021/best-papers)!
+- Our paper on [learning cross-lingual embeddings for low resource languages](https://aclanthology.org/2021.mrl-1.2.pdf) won the [Best Paper Award at MRL 2021](https://sites.google.com/view/mrl-2021/best-papers)!
 - Talked about AI and creativity on the radio show [PassW0rd](https://www.mixcloud.com/FI_PassW0rd/passw0rd-creativity-and-ai/) (starts at around the 43 minute mark).
 - Our IEEE Spectrum article ["The AI Poet"](https://spectrum.ieee.org/artificial-intelligence/machine-learning/this-ai-poet-mastered-rhythm-rhyme-and-natural-language-to-write-like-shakespeare) 
 is up.
