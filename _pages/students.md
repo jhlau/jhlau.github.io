@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Students/Postdocs"
+title: "Supervision"
 permalink: /team/
 author_profile: true
 ---
