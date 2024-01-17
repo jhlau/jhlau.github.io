@@ -35,19 +35,19 @@ team:
     start: 2023
     end: 2023
   - name: "Kaijin Zhang"
-    completed: 0
+    completed: 1
     degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor:
     start: 2023
-    end:
+    end: 2023
   - name: "Yanbei Jiang"
-    completed: 0
+    completed: 1
     degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Kris Ehinger"
     start: 2023
-    end:
+    end: 2023
   - name: "Andrew Naughton"
     completed: 1
     degree: "Masters"
