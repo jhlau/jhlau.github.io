@@ -1,4 +1,11 @@
 team:
+  - name: "Carolyn Hicks"
+    completed: 0
+    degree: "Masters"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Kathryn Davidson (Architecture, Building and Planning)"
+    start: 2023
+    end:
   - name: "Kemal Kurniawan"
     completed: 0
     degree: "Postdoc"
