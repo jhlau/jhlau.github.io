@@ -1,5 +1,13 @@
 papers:
   - layout: paper
+    author: "L. Tian, X. Zhang, and J.H. Lau"
+    title: "CMA-R: Causal Mediation Analysis for Explaining Rumour Detection"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: EACL 2024"
+    address: "Malta"
+    venue: conference
+  - layout: paper
     author: "Z. Xie, M. Li, T. Cohn, and J.H. Lau"
     title: "DeltaScore: Story Evaluation with Perturbations"
     year: 2023
