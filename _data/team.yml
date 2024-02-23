@@ -1,4 +1,18 @@
 team:
+  - name: "Anudeex Shetty"
+    completed: 0
+    degree: "Masters"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Qiongkai Xu"
+    start: 2024
+    end:
+  - name: "Zhou Peng"
+    completed: 0
+    degree: "Masters"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Qiongkai Xu"
+    start: 2024
+    end:
   - name: "Carolyn Hicks"
     completed: 0
     degree: "Masters"
