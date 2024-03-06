@@ -189,12 +189,15 @@ team:
     start: 2020
     end:
   - name: "Yulia Otmakhova"
-    completed: 0
+    completed: 1
     degree: "PhD"
     affiliation: "The University of Melbourne"
     co-supervisor: "Karin Verspoor and Tim Baldwin"
     start: 2020
-    end:
+    end: 2024
+    current: "Research Fellow at The University of Melbourne"
+    thesis-title: "Multi-document Summarisation Supporting Clinical Evidence Review"
+    thesis-url: "https://minerva-access.unimelb.edu.au/items/6fff7913-e895-4b54-8e99-b4a444edd89a"
   - name: "Zhuohan Xie"
     completed: 0
     degree: "PhD"
