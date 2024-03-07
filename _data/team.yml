@@ -62,6 +62,7 @@ team:
     co-supervisor:
     start: 2023
     end: 2023
+    current: "Currently an AI Engineer at ZTE"
   - name: "Yanbei Jiang"
     completed: 1
     degree: "Masters"
