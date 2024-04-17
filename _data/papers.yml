@@ -2,10 +2,31 @@ papers:
   - layout: paper
     author: "L. Tian, X. Zhang, and J.H. Lau"
     title: "CMA-R: Causal Mediation Analysis for Explaining Rumour Detection"
-    year: "to appear"
+    year: 2024
     paper-type: inproceedings
     booktitle: "Findings of the Association for Computational Linguistics: EACL 2024"
-    address: "Malta"
+    address: "St. Julian's, Malta"
+    venue: conference
+    docurl: "https://aclanthology.org/2024.findings-eacl.116/"
+    codeurl: "https://github.com/ltian678/cma-r"
+    pages: 1667&mdash;1675
+  - layout: paper
+    author: "C. Shu, Z. Zhang, Y. Chen, J. Xiao, J.H. Lau, Q. Zhang, and Z. Lu"
+    title: "Open Domain Response Generation Guided by Retrieved Conversations"
+    year: 2023
+    paper-type: article
+    journal: "IEEE Access"
+    volume: 11
+    venue: journal
+    docurl: "https://ieeexplore.ieee.org/document/9966598"
+    pages: 99365&mdash;99375
+  - layout: paper
+    author: "Y. Jiang, K. Ehinger, and J.H. Lau"
+    title: "KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)"
+    address: "Jeju Island, South Korea"
     venue: conference
   - layout: paper
     author: "Z. Xie, M. Li, T. Cohn, and J.H. Lau"
@@ -164,14 +185,6 @@ papers:
     docurl: "https://aclanthology.org/2022.aacl-main.65/"
     codeurl: "https://github.com/joey234/nan-nli"
     pages: 883&mdash;894
-  - layout: paper
-    author: "C. Shu, Z. Zhang, Y. Chen, J. Xiao, J.H. Lau, Q. Zhang, and Z. Lu"
-    title: "Open Domain Response Generation Guided by Retrieved Conversations"
-    year: "to appear"
-    paper-type: article
-    journal: "IEEE Access"
-    venue: journal
-    docurl: "https://ieeexplore.ieee.org/document/9966598"
   - layout: paper
     author: "F. Koto, T. Baldwin, and J.H. Lau"
     title: "LipKey: A Large-Scale News Dataset for Absent Keyphrases Generation and Abstractive Summarization"
