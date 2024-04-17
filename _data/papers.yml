@@ -1,5 +1,15 @@
 papers:
   - layout: paper
+    author: "M. Chen, J.H. Lau, and L. Frermann"
+    title: "The Uncivil Empathy: Investigating the Relation Between Empathy and Toxicity in Online Mental Health Support Forums"
+    year: 2023
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 21st Annual Workshop of the Australasian Language Technology Association"
+    address: "Melbourne, Australia"
+    venue: workshop
+    docurl: "https://aclanthology.org/2023.alta-1.16/"
+    pages: 136&mdash;147
+  - layout: paper
     author: "L. Tian, X. Zhang, and J.H. Lau"
     title: "CMA-R: Causal Mediation Analysis for Explaining Rumour Detection"
     year: 2024
