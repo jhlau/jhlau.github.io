@@ -168,6 +168,7 @@ Queries on E-commerce Platforms (Keynote)**, Endeavour Group, Open Data Science 
 ## Collaborations Outside Academia
 - [2020&mdash;2023]&nbsp; **Gee**. A project with artist Georgia Banks to develop a chatbot that incorporates her personality to explore self/ego. It was presented in ANAT Spectra 2022 and saw an exhibition at the National Gallery of Victoria in 2023.
 - [2021&mdash;2022]&nbsp; **Exploring AI for Interpreting Artwork**. A project with the Ian Potter Museum of Art to develop computational models to generate descriptions for artworks.
+- [2021&mdash;present]&nbsp; **AI for Legal Problem Diagnosis**. Our collaboration with Justice Connect has led to our partner winning the Not-For-Profit Technology Innovator of the Year Award at Infoxchange’s Australian Technology Awards 2024.
 
 ## Non-scientifc Publications
 - [2021]&nbsp; **[Creativity, Machine and Poetry](https://art-museum.unimelb.edu.au/wp-content/uploads/2021/06/IPM_Language_online.pdf)**, Language
