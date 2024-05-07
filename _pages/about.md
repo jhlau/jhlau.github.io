@@ -20,6 +20,8 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 
 ### News
 
+- Our Linkage partner, Justice Connect, has won the [Not-For-Profit Technology Innovator of the Year Award at Infoxchange’s Australian Technology Awards 2024 for our AI project](https://www.communitydirectors.com.au/articles/sector-shines-in-technology-awards#:~:text=The%20Not%2Dfor%2Dprofit%20Technology,them%20to%20the%20right%20support.)!
+
 - Our paper on [understanding the relation between empathy and toxicity](https://alta2023.alta.asn.au/files/27.pdf) won the Best Paper Award at ALTA 2023!
 
 - Our [parallel sentiment dataset for Indonesian languages](https://aclanthology.org/2023.eacl-main.57/) received the [Outstanding Paper Award at EACL 2023](https://2023.eacl.org/program/best-paper/)!
