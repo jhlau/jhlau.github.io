@@ -183,12 +183,15 @@ team:
     start: 2020
     end:
   - name: "Takashi Wada"
-    completed: 0
+    completed: 1
     degree: "PhD"
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2020
-    end:
+    end: 2024
+    current: "Currently a Machine Learning researcher at ZOZO"
+    thesis-title: "Lexical Semantics of the Long Tail"
+    thesis-url: "https://minerva-access.unimelb.edu.au/items/67bebb1b-4045-4eea-af1e-81201c896a87"
   - name: "Yulia Otmakhova"
     completed: 1
     degree: "PhD"
