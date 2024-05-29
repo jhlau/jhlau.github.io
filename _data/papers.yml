@@ -1,5 +1,12 @@
 papers:
   - layout: paper
+    author: "P. Bowers, K. Graydon, T. Ryan, J.H. Lau, and D. Tomlin"
+    title: "Artificial Intelligence Driven Virtual Patients For Communication Skill Development In Healthcare Students: A Scoping Review."
+    year: "to appear"
+    paper-type: article
+    journal: "Australasian Journal of Educational Technology"
+    venue: journal
+  - layout: paper
     author: "M. Li, J.H. Lau, and E. Hovy"
     title: "Exploring Multi-Document Information Consolidation for Scientific Sentiment Summarization"
     year: "to appear"
