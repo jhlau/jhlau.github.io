@@ -14,7 +14,7 @@ papers:
     booktitle: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)"
     address: "Bangkok, Thailand"
     venue: conference
-    docurl: "https://openreview.net/pdf?id=IUpMMjrYxvg"
+    docurl: "https://arxiv.org/abs/2402.18005"
   - layout: paper
     author: "M. Chen, J.H. Lau, and L. Frermann"
     title: "The Uncivil Empathy: Investigating the Relation Between Empathy and Toxicity in Online Mental Health Support Forums"
