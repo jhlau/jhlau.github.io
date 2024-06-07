@@ -6,6 +6,7 @@ papers:
     paper-type: article
     journal: "Australasian Journal of Educational Technology"
     venue: journal
+    docurl: "https://ajet.org.au/index.php/AJET/article/view/9307"
   - layout: paper
     author: "M. Li, J.H. Lau, and E. Hovy"
     title: "Exploring Multi-Document Information Consolidation for Scientific Sentiment Summarization"
