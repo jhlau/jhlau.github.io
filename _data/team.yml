@@ -263,13 +263,15 @@ team:
     thesis-title: "From Discourse and Keyphrases, to Language Modeling in Automatic Summarization"
     thesis-url: "https://minerva-access.unimelb.edu.au/items/d20650e9-0cb9-4d61-84d8-82e2727c2994"
   - name: "Shraey Bhatia"
-    completed: 0
+    completed: 1
     degree: "PhD"
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2017
-    end:
-    current:
+    end: 2024
+    current: "Co-founder of an AI start up"
+    thesis-title: "Detection and Analysis of Climate Change Scepticism"
+    thesis-url: "https://minerva-access.unimelb.edu.au/items/34c45242-30c6-4465-b35e-437e0f91b2cc"
   - name: "Steven Xu"
     completed: 1
     degree: "Masters"
