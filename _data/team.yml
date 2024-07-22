@@ -1,4 +1,11 @@
 team:
+  - name: "Wenzheng Du"
+    completed: 0
+    degree: "Masters"
+    affiliation: "The University of Melbourne"
+    co-supervisor:
+    start: 2024
+    end:
   - name: "Anudeex Shetty"
     completed: 0
     degree: "Masters"
@@ -14,12 +21,12 @@ team:
     start: 2024
     end:
   - name: "Carolyn Hicks"
-    completed: 0
+    completed: 1
     degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Kathryn Davidson (Architecture, Building and Planning)"
     start: 2023
-    end:
+    end: 2024
   - name: "Kemal Kurniawan"
     completed: 0
     degree: "Postdoc"
@@ -28,12 +35,12 @@ team:
     start: 2023
     end:
   - name: "Archit Aggarwal"
-    completed: 0
+    completed: 1
     degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Christine de Kock"
     start: 2023
-    end:
+    end: 2024
   - name: "Patrick Bowers"
     completed: 0
     degree: "PhD"
