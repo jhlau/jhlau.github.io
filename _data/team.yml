@@ -204,6 +204,7 @@ team:
     start: 2020
     end: 2024
     current: "Currently a machine learning researcher at ZOZO"
+    website: "https://twadada.github.io/"
     thesis-title: "Lexical Semantics of the Long Tail"
     thesis-url: "https://minerva-access.unimelb.edu.au/items/67bebb1b-4045-4eea-af1e-81201c896a87"
   - name: "Yulia Otmakhova"
