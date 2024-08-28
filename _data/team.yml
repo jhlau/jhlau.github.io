@@ -41,6 +41,7 @@ team:
     co-supervisor: "Tim Baldwin"
     start: 2023
     end:
+    website: "https://kkurniawan.com/index.html"
   - name: "Archit Aggarwal"
     completed: 1
     degree: "Masters"
@@ -113,7 +114,6 @@ team:
     co-supervisor: "Kris Ehinger"
     start: 2021
     end: 2022
-    current:
   - name: "Erya Wen"
     completed: 1
     degree: "Masters"
@@ -121,7 +121,7 @@ team:
     co-supervisor:
     start: 2021
     end: 2022
-    current:
+    current: Currently at Telstra
   - name: "Mulin Shi"
     completed: 1
     degree: "Masters"
@@ -189,7 +189,6 @@ team:
     co-supervisor: "Daniel Beck"
     start: 2020
     end: 2021
-    current:
   - name: "Lin Tian"
     completed: 0
     degree: "PhD"
@@ -204,7 +203,7 @@ team:
     co-supervisor: "Tim Baldwin"
     start: 2020
     end: 2024
-    current: "Currently a Machine Learning researcher at ZOZO"
+    current: "Currently a machine learning researcher at ZOZO"
     thesis-title: "Lexical Semantics of the Long Tail"
     thesis-url: "https://minerva-access.unimelb.edu.au/items/67bebb1b-4045-4eea-af1e-81201c896a87"
   - name: "Yulia Otmakhova"
@@ -224,7 +223,6 @@ team:
     co-supervisor: "Trevor Cohn"
     start: 2020
     end:
-    current:
   - name: "Shiquan Yang"
     completed: 1
     degree: "PhD"
@@ -250,7 +248,6 @@ team:
     co-supervisor:
     start: 2019
     end: 2019
-    current:
   - name: "Han Liu"
     completed: 1
     degree: "PhD"
@@ -258,7 +255,6 @@ team:
     co-supervisor: "Richard Sinnott"
     start: 2019
     end: 2023
-    current:
   - name: "Zhuohan Xie"
     completed: 1
     degree: "Masters"
@@ -266,7 +262,6 @@ team:
     co-supervisor: "Trevor Cohn"
     start: 2019
     end: 2019
-    current: "Currently a PhD student at The University of Melbourne"
   - name: "Fajri"
     completed: 1
     degree: "PhD"
@@ -274,7 +269,8 @@ team:
     co-supervisor: "Tim Baldwin"
     start: 2018
     end: 2022
-    current: "Currently a postdoctoral researcher at MBZUAI"
+    current: "Currently an Assistant Professor at MBZUAI"
+    website: "https://www.fajrikoto.com/home"
     thesis-title: "From Discourse and Keyphrases, to Language Modeling in Automatic Summarization"
     thesis-url: "https://minerva-access.unimelb.edu.au/items/d20650e9-0cb9-4d61-84d8-82e2727c2994"
   - name: "Shraey Bhatia"
@@ -294,7 +290,6 @@ team:
     co-supervisor: "Tim Baldwin"
     start: 2017
     end: 2017
-    current:
   - name: "Shiwei Zhang"
     completed: 1
     degree: "PhD"
@@ -304,7 +299,7 @@ team:
     end: 2021
     thesis-title: "Mining user-generated texts via neural classification"
     thesis-url: "https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Mining-user-generated-texts-via-neural-classification/9921956711401341"
-    current: "Currently a researcher at Tencent Jarvis Lab, Shenzhen China"
+    current: "Currently a researcher at Alibaba"
   - name: "Adel Foda"
     completed: 1
     degree: "PhD"
@@ -312,7 +307,6 @@ team:
     co-supervisor: "Tim Baldwin"
     start: 2016
     end: 2018
-    current:
   - name: "Ionut-Teodor Sorodoc"
     completed: 1
     degree: "Masters"
@@ -320,7 +314,6 @@ team:
     co-supervisor: "Tim Baldwin"
     start: 2016
     end: 2017
-    current: "Currently a PhD student at Pompeu Fabra University"
   - name: "Shraey Bhatia"
     completed: 1
     degree: "Masters"
@@ -328,7 +321,6 @@ team:
     co-supervisor: "Tim Baldwin"
     start: 2015
     end: 2017
-    current: "Currently a PhD student at The University of Melbourne"
   - name: "Andrew Bennett"
     completed: 1
     degree: "Masters"
@@ -336,4 +328,4 @@ team:
     co-supervisor: "Tim Baldwin"
     start: 2014
     end: 2016
-    current: "Currently a PhD student at Cornell University"
+    website: "https://awbennett.net/"
