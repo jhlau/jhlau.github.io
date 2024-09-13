@@ -20,19 +20,21 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 
 ### News
 
-- Interviewed by [SBS Mandarin News about Generative AI and workforce](https://www.youtube.com/watch?v=BXPeDFKZ3Yg#t=21m24s)!
+- Visited Mentone Girls' Grammar for a gifted student event to talk about AI, ethics and creative generation.
 
-- Our Linkage partner, Justice Connect, has won the [Not-For-Profit Technology Innovator of the Year Award at Infoxchange’s Australian Technology Awards 2024 for our AI project](https://www.communitydirectors.com.au/articles/sector-shines-in-technology-awards#:~:text=The%20Not%2Dfor%2Dprofit%20Technology,them%20to%20the%20right%20support.)!
+- Interviewed by [SBS Mandarin News about Generative AI and workforce](https://www.youtube.com/watch?v=BXPeDFKZ3Yg#t=21m24s).
 
-- Our paper on [understanding the relation between empathy and toxicity](https://alta2023.alta.asn.au/files/27.pdf) won the Best Paper Award at ALTA 2023!
+- Our Linkage partner, Justice Connect, has won the [Not-For-Profit Technology Innovator of the Year Award at Infoxchange’s Australian Technology Awards 2024 for our AI project](https://www.communitydirectors.com.au/articles/sector-shines-in-technology-awards#:~:text=The%20Not%2Dfor%2Dprofit%20Technology,them%20to%20the%20right%20support.).
 
-- Our [parallel sentiment dataset for Indonesian languages](https://aclanthology.org/2023.eacl-main.57/) received the [Outstanding Paper Award at EACL 2023](https://2023.eacl.org/program/best-paper/)!
+- Our paper on [understanding the relation between empathy and toxicity](https://alta2023.alta.asn.au/files/27.pdf) won the Best Paper Award at ALTA 2023.
+
+- Our [parallel sentiment dataset for Indonesian languages](https://aclanthology.org/2023.eacl-main.57/) received the [Outstanding Paper Award at EACL 2023](https://2023.eacl.org/program/best-paper/).
 
 - Our art+science chatbot project is now being exhibited at NGV Australia (Fed Square)! More information in [this article](https://www.smh.com.au/culture/art-and-design/the-now-factor-10-things-not-to-miss-at-ngv-s-latest-blockbuster-20230310-p5cr6p.html) (first project).
 
-- Our paper on [a new natural language inference dataset](https://arxiv.org/abs/2210.03256) was a runner up for [Best Paper Award at AACL 2022](https://www.aacl2022.org/Blog/Best-paper-awards)!
+- Our paper on [a new natural language inference dataset](https://arxiv.org/abs/2210.03256) was a runner up for [Best Paper Award at AACL 2022](https://www.aacl2022.org/Blog/Best-paper-awards).
 
-- Our paper on [understanding commonsense stories in Indonesian](https://openreview.net/forum?id=zPFbyqOX8Cx) won the Best Paper Award at [CSRR 2022](https://csrr-workshop.github.io/)!
+- Our paper on [understanding commonsense stories in Indonesian](https://openreview.net/forum?id=zPFbyqOX8Cx) won the Best Paper Award at [CSRR 2022](https://csrr-workshop.github.io/).
 
 - Together with [Georgia Banks](https://www.georgiabanks.info/) we will be presenting an art+science collaboration project for [ANAT Spectra 2022](https://events.humanitix.com/spectravision), where we build a chatbot with Georgia's personality to explore ego/self.
 
