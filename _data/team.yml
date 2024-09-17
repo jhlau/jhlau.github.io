@@ -218,12 +218,15 @@ team:
     thesis-title: "Multi-document Summarisation Supporting Clinical Evidence Review"
     thesis-url: "https://minerva-access.unimelb.edu.au/items/6fff7913-e895-4b54-8e99-b4a444edd89a"
   - name: "Zhuohan Xie"
-    completed: 0
+    completed: 1
     degree: "PhD"
     affiliation: "The University of Melbourne"
     co-supervisor: "Trevor Cohn"
     start: 2020
-    end:
+    end: 2024
+    current: "Currently a postdoctoral fellow at MBZUAI"
+    thesis-title: "Automatic Story Generation and Evaluation"
+    thesis-url: "https://minerva-access.unimelb.edu.au/items/69683c23-f428-409c-91d5-6b58c7fa2756"
   - name: "Shiquan Yang"
     completed: 1
     degree: "PhD"
