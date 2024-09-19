@@ -58,7 +58,7 @@ redirect_from:
 - [2005, 2006]&nbsp; **Wyvern Medal for Academic Excellency**, Queen's College
 
 ## Grants
-- [2024] **Developing a Pilot Artificial Intelligence-driven Virtual Patient Architecture for Communication Skill Development of Healthcare Students**
+- [2024] **Developing a Pilot Artificial Intelligence-driven Virtual Patient Architecture for Communication Skill Development of Healthcare Students** (AUD 10K)
   - MDHS Learning and Teaching Initiative Seed Funding
   - Chief Investigator, joint with P. Bowers, T. Ryan, K. Graydon and D. Tomlin
 - [2024&mdash;2026] **Empowering Next-Generation Spatial Digital Twins with Linked Spatial Data** (AUD 434K)
