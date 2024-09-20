@@ -1,21 +1,35 @@
 papers:
   - layout: paper
+    author: "Y. Jiang, K. Ehinger, and J.H. Lau"
+    title: "KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph"
+    year: 2024
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)"
+    address: "Jeju Island, South Korea"
+    venue: conference
+    docurl: "https://www.ijcai.org/proceedings/2024/848"
+    codeurl: "https://github.com/Yanbei-Jiang/Artwork-Interpretation"
+    pages: 7663&mdash;7671
+  - layout: paper
     author: "P. Bowers, K. Graydon, T. Ryan, J.H. Lau, and D. Tomlin"
     title: "Artificial Intelligence Driven Virtual Patients For Communication Skill Development In Healthcare Students: A Scoping Review."
-    year: "to appear"
+    year: 2024
     paper-type: article
     journal: "Australasian Journal of Educational Technology"
+    volume: 40
     venue: journal
     docurl: "https://ajet.org.au/index.php/AJET/article/view/9307"
   - layout: paper
     author: "M. Li, J.H. Lau, and E. Hovy"
     title: "Exploring Multi-Document Information Consolidation for Scientific Sentiment Summarization"
-    year: "to appear"
+    year: 2024
     paper-type: inproceedings
     booktitle: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)"
     address: "Bangkok, Thailand"
     venue: conference
-    docurl: "https://arxiv.org/abs/2402.18005"
+    docurl: "https://aclanthology.org/2024.acl-long.547/"
+    codeurl: "https://github.com/oaimli/MetaReviewingLogic"
+    pages: 10158&mdash;10177
   - layout: paper
     author: "M. Chen, J.H. Lau, and L. Frermann"
     title: "The Uncivil Empathy: Investigating the Relation Between Empathy and Toxicity in Online Mental Health Support Forums"
@@ -47,14 +61,6 @@ papers:
     venue: journal
     docurl: "https://ieeexplore.ieee.org/document/9966598"
     pages: 99365&mdash;99375
-  - layout: paper
-    author: "Y. Jiang, K. Ehinger, and J.H. Lau"
-    title: "KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)"
-    address: "Jeju Island, South Korea"
-    venue: conference
   - layout: paper
     author: "Z. Xie, M. Li, T. Cohn, and J.H. Lau"
     title: "DeltaScore: Story Evaluation with Perturbations"
