@@ -4,7 +4,7 @@ papers:
     title: "To Aggregate or Not to Aggregate. That is the Question: A Case Study on Annotation Subjectivity in Span Prediction"
     year: 2024
     paper-type: inproceedings
-    booktitle: "Proceedings of the 14th Workshop on Computational Approaches to Subjectivity, Sentiment, {\&} Social Media Analysis"
+    booktitle: "Proceedings of the 14th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis"
     address: "Bangkok, Thailand"
     venue: workshop
     docurl: "https://aclanthology.org/2024.wassa-1.29/"
