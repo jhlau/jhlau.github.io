@@ -32,7 +32,7 @@ papers:
     docurl: "https://ajet.org.au/index.php/AJET/article/view/9307"
   - layout: paper
     author: "M. Li, J.H. Lau, and E. Hovy"
-    title: "Exploring Multi-Document Information Consolidation for Scientific Sentiment Summarization"
+    title: "A Sentiment Consolidation Framework for Meta-Review Generation"
     year: 2024
     paper-type: inproceedings
     booktitle: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)"
