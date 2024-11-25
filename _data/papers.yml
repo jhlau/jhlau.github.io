@@ -4,7 +4,7 @@ papers:
     title: "To Aggregate or Not to Aggregate. That is the Question: A Case Study on Annotation Subjectivity in Span Prediction"
     year: 2024
     paper-type: inproceedings
-    booktitle: "Proceedings of the 14th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis"
+    booktitle: "Proceedings of the 14th Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis (WASSA 2024)"
     address: "Bangkok, Thailand"
     venue: workshop
     docurl: "https://aclanthology.org/2024.wassa-1.29/"
@@ -46,7 +46,7 @@ papers:
     title: "The Uncivil Empathy: Investigating the Relation Between Empathy and Toxicity in Online Mental Health Support Forums"
     year: 2023
     paper-type: inproceedings
-    booktitle: "Proceedings of the 21st Annual Workshop of the Australasian Language Technology Association"
+    booktitle: "Proceedings of the 21st Annual Workshop of the Australasian Language Technology Association (ALTA 2023)"
     address: "Melbourne, Australia"
     venue: workshop
     docurl: "https://aclanthology.org/2023.alta-1.16/"
