@@ -1,5 +1,13 @@
 papers:
   - layout: paper
+    author: "T. Simonds, J.H. Lau, and K. Kurniawan"
+    title: "MoDEM: Mixture of Domain Expert Models"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 22nd Annual Workshop of the Australasian Language Technology Association (ALTA 2024)"
+    address: "Canberra, Australia"
+    venue: workshop
+  - layout: paper
     author: "K. Kurniawan, M. Mistica, T. Baldwin, and J.H. Lau"
     title: "To Aggregate or Not to Aggregate. That is the Question: A Case Study on Annotation Subjectivity in Span Prediction"
     year: 2024
