@@ -190,12 +190,16 @@ team:
     start: 2020
     end: 2021
   - name: "Lin Tian"
-    completed: 0
+    completed: 1
     degree: "PhD"
     affiliation: "RMIT University"
     co-supervisor: "Jenny Zhang (RMIT)"
     start: 2020
-    end:
+    end: 2024
+    current: "Currently a postdoctoral researcher at the University of Technology Sydney"
+    website: "https://lintian.io/"
+    thesis-title: "Adaptable Transfer Learning Models for Online Misinformation Detection"
+    thesis-url: "https://research-repository.rmit.edu.au/articles/thesis/Adaptable_Transfer_Learning_Models_for_Online_Misinformation_Detection/27237651?file=49840392"
   - name: "Takashi Wada"
     completed: 1
     degree: "PhD"
