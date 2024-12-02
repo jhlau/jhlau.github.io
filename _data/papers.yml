@@ -1,5 +1,15 @@
 papers:
   - layout: paper
+    author: "R. Gao, C. Roever, and J.H. Lau"
+    title: "Interaction Matters: An Evaluation Framework for Interactive Dialogue Assessment on English Second Language Conversations"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)"
+    address: "Abu Dhabi, United Arab Emirates"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2407.06479"
+    codeurl: "https://github.com/RenaGao/2024InteractiveMetrics"
+  - layout: paper
     author: "T. Simonds, J.H. Lau, and K. Kurniawan"
     title: "MoDEM: Mixture of Domain Expert Models"
     year: "to appear"
