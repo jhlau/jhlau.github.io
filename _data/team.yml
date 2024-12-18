@@ -1,4 +1,11 @@
 team:
+  - name: "Toby Simonds"
+    completed: 1
+    degree: "Bachelor"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Kemal Kurniawan"
+    start: 2024
+    end: 2024
   - name: "Yanbei Jiang"
     completed: 0
     degree: "PhD"
