@@ -3,7 +3,9 @@ papers:
     author: "M. Chen, L. Frermann, and J.H. Lau"
     title: "WHoW: A Cross-domain Approach for Analysing Conversation Moderation"
     year: "to appear"
-    paper-type: proceedings
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL HLT 2025)"
+    address: "Albuquerque, New Mexico"
     venue: conference
     docurl: "https://arxiv.org/abs/2410.15551"
     codeurl: "https://github.com/mrknight21/conversation_moderation_analysis"
@@ -11,7 +13,9 @@ papers:
     author: "R. Gao, J. Wu, C. Roever, X. Wu, L. Lv, and J.H. Lau"
     title: "An Interpretable and Crosslingual Method for Evaluating Second-Language Dialogues"
     year: "to appear"
-    paper-type: proceedings
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL HLT 2025)"
+    address: "Albuquerque, New Mexico"
     venue: conference
     docurl: "https://arxiv.org/pdf/2408.16518"
     codeurl: "https://github.com/RenaGao/CSL2024"
@@ -19,7 +23,9 @@ papers:
     author: "R. Xing, J.H. Lau, and T. Baldwin"
     title: "Evaluating Evidence Attribution in Generated Fact Checking Explanations"
     year: "to appear"
-    paper-type: proceedings
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL HLT 2025)"
+    address: "Albuquerque, New Mexico"
     venue: conference
     docurl: "https://arxiv.org/pdf/2406.12645"
     codeurl: "https://github.com/ruixing76/Transparent-FCExp"
@@ -32,26 +38,6 @@ papers:
     volume: 32
     venue: journal
   - layout: paper
-    author: "R. Zhu, J.H. Lau, and J. Qi"
-    title: "Factual Dialogue Summarization via Learning from Large Language Models"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)"
-    address: "Abu Dhabi, United Arab Emirates"
-    venue: conference
-    docurl: "https://arxiv.org/abs/2406.14709"
-    codeurl: "https://github.com/731935354/symbolic_distill_contrastive_summ"
-  - layout: paper
-    author: "R. Gao, C. Roever, and J.H. Lau"
-    title: "Interaction Matters: An Evaluation Framework for Interactive Dialogue Assessment on English Second Language Conversations"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)"
-    address: "Abu Dhabi, United Arab Emirates"
-    venue: conference
-    docurl: "https://arxiv.org/abs/2407.06479"
-    codeurl: "https://github.com/RenaGao/2024InteractiveMetrics"
-  - layout: paper
     author: "T. Simonds, J.H. Lau, and K. Kurniawan"
     title: "MoDEM: Mixture of Domain Expert Models"
     year: "to appear"
@@ -60,6 +46,28 @@ papers:
     address: "Canberra, Australia"
     venue: workshop
     docurl: "https://arxiv.org/abs/2410.07490"
+  - layout: paper
+    author: "R. Zhu, J.H. Lau, and J. Qi"
+    title: "Factual Dialogue Summarization via Learning from Large Language Models"
+    year: 2025
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)"
+    address: "Abu Dhabi, United Arab Emirates"
+    venue: conference
+    docurl: "https://aclanthology.org/2025.coling-main.302/"
+    codeurl: "https://github.com/731935354/symbolic_distill_contrastive_summ"
+    pages: 4474&mdash;4492
+  - layout: paper
+    author: "R. Gao, C. Roever, and J.H. Lau"
+    title: "Interaction Matters: An Evaluation Framework for Interactive Dialogue Assessment on English Second Language Conversations"
+    year: 2025
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)"
+    address: "Abu Dhabi, United Arab Emirates"
+    venue: conference
+    docurl: "https://aclanthology.org/2025.coling-main.729/"
+    codeurl: "https://github.com/RenaGao/2024InteractiveMetrics"
+    pages: 10977&mdash;11012
   - layout: paper
     author: "K. Kurniawan, M. Mistica, T. Baldwin, and J.H. Lau"
     title: "To Aggregate or Not to Aggregate. That is the Question: A Case Study on Annotation Subjectivity in Span Prediction"
