@@ -1,4 +1,11 @@
 team:
+  - name: "Shengxiang Gao"
+    completed: 0
+    degree: "PhD"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Jianzhong Qi"
+    start: 2025
+    end:
   - name: "Toby Simonds"
     completed: 1
     degree: "Bachelor"
