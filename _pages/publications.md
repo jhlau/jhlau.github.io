@@ -12,7 +12,7 @@ Full publication list is given below. Please see <a href="{{ site.author.googles
 
 {% include publications.html year="to appear" %}
 
-{% for yr in (2010..2024) reversed %}
+{% for yr in (2010..2025) reversed %}
 ## {{yr}}
 {% include publications.html year=yr %}
 {% endfor %}
