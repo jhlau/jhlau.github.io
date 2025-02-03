@@ -1,5 +1,37 @@
 papers:
   - layout: paper
+    author: "M. Chen, L. Frermann, and J.H. Lau"
+    title: "WHoW: A Cross-domain Approach for Analysing Conversation Moderation"
+    year: "to appear"
+    paper-type: proceedings
+    venue: conference
+    docurl: "https://arxiv.org/abs/2410.15551"
+    codeurl: "https://github.com/mrknight21/conversation_moderation_analysis"
+  - layout: paper
+    author: "R. Gao, J. Wu, C. Roever, X. Wu, L. Lv, and J.H. Lau"
+    title: "An Interpretable and Crosslingual Method for Evaluating Second-Language Dialogues"
+    year: "to appear"
+    paper-type: proceedings
+    venue: conference
+    docurl: "https://arxiv.org/pdf/2408.16518"
+    codeurl: "https://github.com/RenaGao/CSL2024"
+  - layout: paper
+    author: "R. Xing, J.H. Lau, and T. Baldwin"
+    title: "Evaluating Evidence Attribution in Generated Fact Checking Explanations"
+    year: "to appear"
+    paper-type: proceedings
+    venue: conference
+    docurl: "https://arxiv.org/pdf/2406.12645"
+    codeurl: "https://github.com/ruixing76/Transparent-FCExp"
+  - layout: paper
+    author: "T. Aoki, J.H. Lau, H. Kamigaito, H. Takamura, T. Baldwin, and M. Okumura"
+    title: "Discovering Unusual Word Usages with Masked Language Model via Pseudo-label Training"
+    year: "to appear"
+    paper-type: article
+    journal: "Journal of Natural Language Processing"
+    volume: 32
+    venue: journal
+  - layout: paper
     author: "R. Zhu, J.H. Lau, and J. Qi"
     title: "Factual Dialogue Summarization via Learning from Large Language Models"
     year: "to appear"
