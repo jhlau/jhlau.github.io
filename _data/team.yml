@@ -6,6 +6,13 @@ team:
     co-supervisor: "Jianzhong Qi"
     start: 2025
     end:
+  - name: "Chris Guest"
+    completed: 0
+    degree: "MPhil"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Ekaterina Vylomova"
+    start: 2024
+    end:
   - name: "Toby Simonds"
     completed: 1
     degree: "Bachelor"
