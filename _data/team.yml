@@ -1,4 +1,18 @@
 team:
+  - name: "Anudeex Shetty"
+    completed: 0
+    degree: "PhD"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Qiongkai Xu and Olya Ohrimenko"
+    start: 2025
+    end:
+  - name: "Thinh Truong"
+    completed: 0
+    degree: "Postdoc"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Jianzhong Qi"
+    start: 2025
+    end:    
   - name: "Shengxiang Gao"
     completed: 0
     degree: "PhD"
