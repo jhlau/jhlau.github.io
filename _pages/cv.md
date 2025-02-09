@@ -146,6 +146,7 @@ Queries on E-commerce Platforms (Keynote)**, Endeavour Group, Open Data Science 
 
 ## Service
 
+- [2025&mdash;2027]&nbsp; President of the Australasian Language Technology Association (ALTA)
 - [2024]&nbsp; Senior Action Editor for ACL ARR April, August, December
 - [2024&mdash;2026]&nbsp; Action Editor for Computational Linguistics
 - [2024]&nbsp; Senior Area Chair for NAACL
