@@ -3,7 +3,7 @@ subjects:
     department: "Melbourne Business School"
     url: "https://handbook.unimelb.edu.au/2024/subjects/busa90543"
     year: 2024
-    semester: "Semester 2"
+    semester: "Winter"
   - name: "COMP90042 Natural Language Processing"
     department: "Computing and Information Systems"
     url: "https://handbook.unimelb.edu.au/2024/subjects/comp90042"
@@ -14,7 +14,7 @@ subjects:
     department: "Melbourne Business School"
     url: "https://handbook.unimelb.edu.au/2023/subjects/busa90543"
     year: 2023
-    semester: "Semester 2"
+    semester: "Winter"
     note1: "Co-lectured with Qiongkai Xu"
   - name: "COMP90042 Natural Language Processing"
     department: "Computing and Information Systems"
