@@ -1,4 +1,11 @@
 team:
+  - name: "Shuhe Wang"
+    completed: 0
+    degree: "PhD"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Ed Hovy"
+    start: 2025
+    end:
   - name: "Anudeex Shetty"
     completed: 0
     degree: "PhD"
