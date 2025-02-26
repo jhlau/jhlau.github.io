@@ -1,5 +1,15 @@
 papers:
   - layout: paper
+    author: "T. Simonds, J.H. Lau, and K. Kurniawan"
+    title: "MoDEM: Mixture of Domain Expert Models"
+    year: 2024
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 22nd Annual Workshop of the Australasian Language Technology Association (ALTA 2024)"
+    address: "Canberra, Australia"
+    venue: workshop
+    docurl: "https://aclanthology.org/2024.alta-1.6/"
+    pages: 75&mdash;88
+  - layout: paper
     author: "M. Chen, L. Frermann, and J.H. Lau"
     title: "WHoW: A Cross-domain Approach for Analysing Conversation Moderation"
     year: "to appear"
@@ -37,15 +47,6 @@ papers:
     journal: "Journal of Natural Language Processing"
     volume: 32
     venue: journal
-  - layout: paper
-    author: "T. Simonds, J.H. Lau, and K. Kurniawan"
-    title: "MoDEM: Mixture of Domain Expert Models"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 22nd Annual Workshop of the Australasian Language Technology Association (ALTA 2024)"
-    address: "Canberra, Australia"
-    venue: workshop
-    docurl: "https://arxiv.org/abs/2410.07490"
   - layout: paper
     author: "R. Zhu, J.H. Lau, and J. Qi"
     title: "Factual Dialogue Summarization via Learning from Large Language Models"
