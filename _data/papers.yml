@@ -99,6 +99,7 @@ papers:
     volume: 40
     venue: journal
     docurl: "https://ajet.org.au/index.php/AJET/article/view/9307"
+    pages: 39&mdash;57
   - layout: paper
     author: "M. Li, J.H. Lau, and E. Hovy"
     title: "A Sentiment Consolidation Framework for Meta-Review Generation"
