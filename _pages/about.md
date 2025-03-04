@@ -20,6 +20,8 @@ Prior to joining the University of Melbourne, I spent over 3.5 years as an indus
 
 ### News
 
+- Interviewed by [Yahoo Finance News about Generative AI risks](https://au.finance.yahoo.com/news/insidious-risk-uncovered-in-australian-workers-big-experiment-with-ai-really-scary-043417398.html).
+
 - Visited Mentone Girls' Grammar for a gifted student event to talk about AI, ethics and creative generation.
 
 - Interviewed by [SBS Mandarin News about Generative AI and workforce](https://www.youtube.com/watch?v=BXPeDFKZ3Yg#t=21m24s).
