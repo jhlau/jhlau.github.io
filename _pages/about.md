@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My field of research is in Natural Language Processing (NLP) &mdash; a sub-field of Artificial Intelligence &mdash; and the goal of NLP is to develop computational models to understand human languages. There are a host of NLP applications that are commonly used in our everyday lives: machine translation (e.g. Google Translate) and chatbot (e.g. Siri) are two examples. My research focuses on building computational models in an unsupervised or semi-supervised setting, i.e. a learning scenario where the supervision signal for model training is not available or scarce, and is characterised by a diverse flavour of applications, e.g. topic models, lexical semantics, text generation and misinformation detection. Some of my research has a broader community interest beyond academia &mdash; e.g. my work in text generation and influence operations has been covered by science magazines (New Scientist) and mainstream news media (Guardian and BBC).
+My field of research is in Natural Language Processing (NLP) &mdash; a sub-field of Artificial Intelligence &mdash; and the goal of NLP is to develop computational models to understand human languages. There are a host of NLP applications that are commonly used in our everyday lives: machine translation (e.g. Google Translate) and chatbot (e.g. Siri) are two examples. My research is characterised by a diverse flavour of applications, but they are connected by my passion for language modelling, such as learning topics from document collections, understanding the nature of grammar knowledge, analysing the conversation dynamics of online misinformation, and writing poetry or stories. Some of my research has a broader community interest beyond academia &mdash; e.g. my work in text generation and influence operations has been covered by science magazines (New Scientist) and mainstream news media (Guardian and BBC).
 
-Prior to joining the University of Melbourne, I spent over 3.5 years as an industry scientist at IBM Research, developing solutions for clients in application domains from education to government.
-
-**Affiliations**: The University of Melbourne's [NLP Group](https://cis.unimelb.edu.au/research/artificial-intelligence/Natural-Language-Processing) and Information and Influence Hub. 
+**Affiliations**: The University of Melbourne's [NLP Group](https://cis.unimelb.edu.au/research/artificial-intelligence/Natural-Language-Processing) and [Information and Influence Hub](https://eng.unimelb.edu.au/industry/defence/capabilities/information-and-influence). 
 
 ### Prospective Students
 
