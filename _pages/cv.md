@@ -64,7 +64,7 @@ redirect_from:
 - [2024&mdash;2026] **Empowering Next-Generation Spatial Digital Twins with Linked Spatial Data** (AUD 434K)
   - Australian Research Council (ARC) Discovery Project
   - Chief Investigator, joint with J. Qi and W. Wang
-- [2022&mdash;2024] **AI for Legal Problem Diagnosis in the Diverse Language of Australians** (AUD 343K)
+- [2023&mdash;2026] **AI for Legal Problem Diagnosis in the Diverse Language of Australians** (AUD 343K)
   - Australian Research Council (ARC) Linkage Project
   - Chief Investigator, joint with T. Baldwin, T. O’Doherty and B. Merrifield
 - [2022&mdash;2024] **Robust Natural Language Processing for Healthcare** (AUD 10K + GBP 6K)
