@@ -331,7 +331,7 @@ team:
     co-supervisor: "Tim Baldwin"
     start: 2017
     end: 2024
-    current: "Co-founder of an AI start up"
+    current: "Currently the Co-founder and Chief Scientist of startup Leaping AI"
     thesis-title: "Detection and Analysis of Climate Change Scepticism"
     thesis-url: "https://minerva-access.unimelb.edu.au/items/34c45242-30c6-4465-b35e-437e0f91b2cc"
   - name: "Steven Xu"
@@ -350,7 +350,7 @@ team:
     end: 2021
     thesis-title: "Mining user-generated texts via neural classification"
     thesis-url: "https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Mining-user-generated-texts-via-neural-classification/9921956711401341"
-    current: "Currently a researcher at Alibaba"
+    current: "Currently an engineer at MagicLight AI"
   - name: "Adel Foda"
     completed: 1
     degree: "PhD"
