@@ -58,25 +58,28 @@ redirect_from:
 - [2005, 2006]&nbsp; **Wyvern Medal for Academic Excellency**, Queen's College
 
 ## Grants
-- [2024] **Developing a Pilot Artificial Intelligence-driven Virtual Patient Architecture for Communication Skill Development of Healthcare Students** (AUD 10K)
+- [2025&mdash;2027] **Verifying Authenticity of Information via Automated Detection and Sourcing** (AUD$3.0M)
+  - Department of Defense (Advanced Strategic Capabilities Accelerator)
+  - Co-lead Investigator, joint with M. Dras, X. Zhang, M. Rizoiu, A. McIver, Q. Xu, U. Naseem, T. Drummond, L. Frermann and H. Yu
+- [2024] **Developing a Pilot Artificial Intelligence-driven Virtual Patient Architecture for Communication Skill Development of Healthcare Students** (AUD$10K)
   - MDHS Learning and Teaching Initiative Seed Funding
   - Chief Investigator, joint with P. Bowers, T. Ryan, K. Graydon and D. Tomlin
-- [2024&mdash;2026] **Empowering Next-Generation Spatial Digital Twins with Linked Spatial Data** (AUD 434K)
+- [2024&mdash;2026] **Empowering Next-Generation Spatial Digital Twins with Linked Spatial Data** (AUD$434K)
   - Australian Research Council (ARC) Discovery Project
   - Chief Investigator, joint with J. Qi and W. Wang
-- [2023&mdash;2026] **AI for Legal Problem Diagnosis in the Diverse Language of Australians** (AUD 343K)
+- [2023&mdash;2026] **AI for Legal Problem Diagnosis in the Diverse Language of Australians** (AUD$343K)
   - Australian Research Council (ARC) Linkage Project
   - Chief Investigator, joint with T. Baldwin, T. O’Doherty and B. Merrifield
-- [2022&mdash;2024] **Robust Natural Language Processing for Healthcare** (AUD 10K + GBP 6K)
+- [2022&mdash;2024] **Robust Natural Language Processing for Healthcare** (AUD$20K)
   - Manchester-Melbourne-Toronto Research Fund
   - Partner Investigator, joint with D. Beck, T. Cohn, Y. Otmakhova, V. Schlegel, R. Batista-Navarro, Y. Sun and Y. Wu
-- [2022&mdash;2023] **Towards Robust NLP: Out-of-distribution Benchmarks and Multi-task Fine-tuning** (USD 90K)
+- [2022&mdash;2023] **Towards Robust NLP: Out-of-distribution Benchmarks and Multi-task Fine-tuning** (USD$90K)
   - Oracle Gift
   - Lead Investigator, joint with D. Beck
 - [2021] **Mirrored Social Media Platform** (AUD$75K)
   - Defense Science Institute Collaborative Research Grant and Leidos
   - Chief Investigator, joint with C. Leckie and S. Karunasekera
-- [2021] **Multi-Party Collaborative Project for Three Case Studies of Mass Influencing Organisations** ($AUD419K)
+- [2021] **Multi-Party Collaborative Project for Three Case Studies of Mass Influencing Organisations** (AUD$419K)
   - Department of Defense
   - Partner Investigator, joint with L. Sciacca, E. Ebbott, C. Leckie, S. Karunasekera, A. Ahmad, L. Ruppanner, T. van Gelder, A. Perfors, Y. Kashima and R. de Rozario. 
 - [2020&mdash;2021] **Development of Natural Language Processing for Knowledge Base Population** (AUD$107K)
