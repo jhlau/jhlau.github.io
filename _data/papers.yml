@@ -13,7 +13,7 @@ papers:
   - layout: paper
     author: "R. Gao, J. Wu, C. Roever, X. Wu, L. Lv, and J.H. Lau"
     title: "An Interpretable and Crosslingual Method for Evaluating Second-Language Dialogues"
-    year: "2025"
+    year: 2025
     paper-type: inproceedings
     booktitle: "Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL HLT 2025)"
     address: "Albuquerque, New Mexico"
@@ -24,7 +24,7 @@ papers:
   - layout: paper
     author: "R. Xing, J.H. Lau, and T. Baldwin"
     title: "Evaluating Evidence Attribution in Generated Fact Checking Explanations"
-    year: "2025"
+    year: 2025
     paper-type: inproceedings
     booktitle: "Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL HLT 2025)"
     address: "Albuquerque, New Mexico"
@@ -32,6 +32,16 @@ papers:
     docurl: "https://aclanthology.org/2025.naacl-long.282/"
     codeurl: "https://github.com/ruixing76/Transparent-FCExp"
     pages: 5475&mdash;5496
+  - layout: paper
+    author: "T. Aoki, J.H. Lau, H. Kamigaito, H. Takamura, T. Baldwin, and M. Okumura"
+    title: "Discovering Unusual Word Usages with Masked Language Model via Pseudo-label Training"
+    year: 2025
+    paper-type: article
+    journal: "Journal of Natural Language Processing"
+    volume: 32
+    venue: journal
+    docurl: "https://www.jstage.jst.go.jp/article/jnlp/32/1/32_134/_article/-char/ja"
+    pages: 134-175
   - layout: paper
     author: "T. Simonds, J.H. Lau, and K. Kurniawan"
     title: "MoDEM: Mixture of Domain Expert Models"
@@ -42,14 +52,6 @@ papers:
     venue: workshop
     docurl: "https://aclanthology.org/2024.alta-1.6/"
     pages: 75&mdash;88
-  - layout: paper
-    author: "T. Aoki, J.H. Lau, H. Kamigaito, H. Takamura, T. Baldwin, and M. Okumura"
-    title: "Discovering Unusual Word Usages with Masked Language Model via Pseudo-label Training"
-    year: "to appear"
-    paper-type: article
-    journal: "Journal of Natural Language Processing"
-    volume: 32
-    venue: journal
   - layout: paper
     author: "R. Zhu, J.H. Lau, and J. Qi"
     title: "Factual Dialogue Summarization via Learning from Large Language Models"
