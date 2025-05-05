@@ -13,7 +13,7 @@ papers:
   - layout: paper
     author: "R. Gao, J. Wu, C. Roever, X. Wu, L. Lv, and J.H. Lau"
     title: "An Interpretable and Crosslingual Method for Evaluating Second-Language Dialogues"
-    year: "to appear"
+    year: "2025"
     paper-type: inproceedings
     booktitle: "Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL HLT 2025)"
     address: "Albuquerque, New Mexico"
@@ -24,7 +24,7 @@ papers:
   - layout: paper
     author: "R. Xing, J.H. Lau, and T. Baldwin"
     title: "Evaluating Evidence Attribution in Generated Fact Checking Explanations"
-    year: "to appear"
+    year: "2025"
     paper-type: inproceedings
     booktitle: "Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL HLT 2025)"
     address: "Albuquerque, New Mexico"
