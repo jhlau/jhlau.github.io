@@ -1,5 +1,14 @@
 papers:
   - layout: paper
+    author: "R. Xing, B. Sun, K. Zhang, P. Nakov, T. Baldwin, and J.H. Lau"
+    title: "An Analytical Emotion Framework of Rumour Threads on Social Media"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 1st Workshop on Misinformation Detection in the Era of LLMs (MisD 2025)"
+    address: "Copenhagen, Denmark"
+    venue: workshop
+    docurl: "https://arxiv.org/abs/2502.16560"
+  - layout: paper
     author: "M. Chen, L. Frermann, and J.H. Lau"
     title: "WHoW: A Cross-domain Approach for Analysing Conversation Moderation"
     year: 2025
