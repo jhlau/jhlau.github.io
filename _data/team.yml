@@ -211,12 +211,15 @@ team:
     end: 2021
     current: Currently a software engineer at Canva, Sydney
   - name: "Rongxin Zhu"
-    completed: 0
+    completed: 1
     degree: "PhD"
     affiliation: "The University of Melbourne"
     co-supervisor: "Jiangzhong Qi"
     start: 2020
-    end:
+    end: 2025
+    current: "Currently a senior applied Scientist at Oracle (Melbourne)"
+    thesis-title: "On Disentanglement and Factual Consistency in Automatic Dialogue Summarisation"
+    thesis-url: "https://minerva-access.unimelb.edu.au/items/3cfcc1e6-92c1-481c-b3a9-906b5374c0dc"
   - name: "Chaoxian Zhou"
     completed: 1
     degree: "Masters"
@@ -281,7 +284,7 @@ team:
     co-supervisor: "Sarah Erfani"
     start: 2019
     end: 2023
-    current: "Currently a research engineer at Oracle (Melbourne)"
+    current: "Currently an AI engineer at Oracle (Melbourne)"
     thesis-title: "Towards Multimodal, Interpretable and Robust Task-Oriented Dialogue Modeling"
     thesis-url: "https://minerva-access.unimelb.edu.au/items/355cb5b3-66da-478d-95a3-7a8d4c28c3a9"
   - name: "Huidu Lu"
