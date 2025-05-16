@@ -1,5 +1,52 @@
 papers:
   - layout: paper
+    author: "R. Gao, X. Wu, T. Kuribayashi, M. Ye, S. Qi, C. Roever, Y. Liu, Z. Yuan, and J.H. Lau"
+    title: "Can LLMs Simulate L2-English Dialogue? An Information-Theoretic Analysis of L1-Dependent Biases"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)"
+    address: "Vienna, Austria"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2502.14507"
+    codeurl: "https://github.com/RenaGao/LLMPirorknowledge"
+  - layout: paper
+    author: "A. Shetty, Q. Xu, and J.H. Lau"
+    title: "WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service with Linear Transformation Watermarks"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)"
+    address: "Vienna, Austria"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2409.04459"
+    codeurl: "https://github.com/anudeex/WET.git"
+  - layout: paper
+    author: "Y. Jiang, Y. Ding, C. Lei, J. Ao, J.H. Lau, and K. Ehinger"
+    title: "Beyond Perception: Evaluating Abstract Visual Reasoning through Multi-Stage Task"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: ACL 2025"
+    address: "Vienna, Austria"
+    venue: conference
+  - layout: paper
+    author: "R. Gao, M. Chen, L. Frermann, and J.H. Lau"
+    title: "Moderation Matters: Measuring Conversational Moderation Impact in English as a Second Language Group Discussion"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: ACL 2025"
+    address: "Vienna, Austria"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2502.18341"
+    codeurl: "https://github.com/RenaGao/L2Moderator"
+  - layout: paper
+    author: "M. Li, J.H. Lau, E. Hovy, and M. Lapata"
+    title: "Aspect-Aware Decomposition for Opinion Summarization"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: ACL 2025"
+    address: "Vienna, Austria"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2501.17191"
+  - layout: paper
     author: "R. Xing, B. Sun, K. Zhang, P. Nakov, T. Baldwin, and J.H. Lau"
     title: "An Analytical Emotion Framework of Rumour Threads on Social Media"
     year: "to appear"
