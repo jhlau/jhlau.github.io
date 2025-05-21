@@ -1,4 +1,11 @@
 team:
+  - name: "Annisa Yusup"
+    completed: 0
+    degree: "Masters"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Kemal Kurniawan"
+    start: 2025
+    end:
   - name: "Shuhe Wang"
     completed: 0
     degree: "PhD"
