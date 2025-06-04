@@ -58,6 +58,9 @@ redirect_from:
 - [2005, 2006]&nbsp; **Wyvern Medal for Academic Excellency**, Queen's College
 
 ## Grants
+- [2025] **Prototyping AI-Assisted Legal Issue Identification to Enhance Access to Justice Services** (AUD$5K)
+  - Australian Academy of Law
+  - Chief Investigator, joint with P. Burgess and E. Shareghi
 - [2025&mdash;2027] **Verifying Authenticity of Information via Automated Detection and Sourcing** (AUD$3.0M)
   - Department of Defense (Advanced Strategic Capabilities Accelerator)
   - Co-lead Investigator, joint with M. Dras, X. Zhang, M. Rizoiu, A. McIver, Q. Xu, U. Naseem, T. Drummond, L. Frermann and H. Yu
