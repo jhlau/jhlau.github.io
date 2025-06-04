@@ -78,7 +78,7 @@ papers:
     codeurl: "https://github.com/RenaGao/CSL2024"
     pages: 1979&mdash;2008
   - layout: paper
-    author: "R. Xing, J.H. Lau, and T. Baldwin"
+    author: "R. Xing, T. Baldwin, and J.H. Lau"
     title: "Evaluating Evidence Attribution in Generated Fact Checking Explanations"
     year: 2025
     paper-type: inproceedings
@@ -99,7 +99,7 @@ papers:
     docurl: "https://www.jstage.jst.go.jp/article/jnlp/32/1/32_134/_article/-char/ja"
     pages: 134-175
   - layout: paper
-    author: "T. Simonds, J.H. Lau, and K. Kurniawan"
+    author: "T. Simonds, K. Kurniawan, and J.H. Lau"
     title: "MoDEM: Mixture of Domain Expert Models"
     year: 2024
     paper-type: inproceedings
