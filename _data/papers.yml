@@ -1,5 +1,13 @@
 papers:
   - layout: paper
+    author: "P. Bowers, T. Ryan, K. Graydon, J.H. Lau, and D. Tomlin"
+    title: "Healthcare educators&apos; perspectives on Artificial Intelligence driven Virtual Patients for teaching communication 
+skills"
+    year: "to appear"
+    paper-type: article
+    journal: "Interactive Technology and Smart Education"
+    venue: journal
+  - layout: paper
     author: "R. Gao, X. Wu, T. Kuribayashi, M. Ye, S. Qi, C. Roever, Y. Liu, Z. Yuan, and J.H. Lau"
     title: "Can LLMs Simulate L2-English Dialogue? An Information-Theoretic Analysis of L1-Dependent Biases"
     year: "to appear"
