@@ -44,6 +44,7 @@ redirect_from:
   
 ## Awards and Honours
 
+- [2025]&nbsp; **FEIT's Excellence Awards in Engagement for Public Value and Social Inclusion**, University of Melbourne
 - [2023]&nbsp; **Best Paper Award**, ALTA
 - [2023]&nbsp; **Outstanding Paper Award**, EACL
 - [2022]&nbsp; **Best Paper Award Runner Up**, AACL
