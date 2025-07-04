@@ -85,7 +85,7 @@ team:
     start: 2023
     end: 2024
     thesis-title: "Computational Analysis of Climate Policy"
-    thesis-url: "https://github.com/jhlau/jhlau.github.io/blob/master/files/hicks-thesis.pdf"
+    thesis-url: "https://arxiv.org/abs/2506.22449"
   - name: "Kemal Kurniawan"
     completed: 0
     degree: "Postdoc"
