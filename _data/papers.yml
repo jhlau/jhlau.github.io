@@ -1,5 +1,13 @@
 papers:
   - layout: paper
+    author: "X. Ma, Y. Jiang, S. Erfani, J. Bailey, W. Liu, K. Ehinger, and J.H. Lau"
+    title: "Reasoning Like Experts: Leveraging Multimodal Large Language Models for Drawing-based Psychoanalysis"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 33rd ACM International Conference on Multimedia (MM 2025)"
+    address: "Dublin, Ireland"
+    venue: conference
+  - layout: paper
     author: "P. Bowers, T. Ryan, K. Graydon, J.H. Lau, and D. Tomlin"
     title: "Healthcare educators&apos; perspectives on Artificial Intelligence driven Virtual Patients for teaching communication 
 skills"
