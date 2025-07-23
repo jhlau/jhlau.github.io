@@ -1,5 +1,13 @@
 papers:
   - layout: paper
+    author: "P. Bowers, T. Ryan, K. Graydon, J.H. Lau, and D. Tomlin"
+    title: "Healthcare Educators&apos; Perspectives on Artificial Intelligence Driven Virtual Patients for Teaching Communication Skills"
+    year: 2025
+    paper-type: article
+    journal: "Interactive Technology and Smart Education"
+    venue: journal
+    docurl: "https://github.com/jhlau/jhlau.github.io/blob/master/files/2025-itse-vp.pdf"
+  - layout: paper
     author: "X. Ma, Y. Jiang, S. Erfani, J. Bailey, W. Liu, K. Ehinger, and J.H. Lau"
     title: "Reasoning Like Experts: Leveraging Multimodal Large Language Models for Drawing-based Psychoanalysis"
     year: "to appear"
@@ -7,14 +15,6 @@ papers:
     booktitle: "Proceedings of the 33rd ACM International Conference on Multimedia (MM 2025)"
     address: "Dublin, Ireland"
     venue: conference
-  - layout: paper
-    author: "P. Bowers, T. Ryan, K. Graydon, J.H. Lau, and D. Tomlin"
-    title: "Healthcare educators&apos; perspectives on Artificial Intelligence driven Virtual Patients for teaching communication 
-skills"
-    year: "to appear"
-    paper-type: article
-    journal: "Interactive Technology and Smart Education"
-    venue: journal
   - layout: paper
     author: "R. Gao, X. Wu, T. Kuribayashi, M. Ye, S. Qi, C. Roever, Y. Liu, Z. Yuan, and J.H. Lau"
     title: "Can LLMs Simulate L2-English Dialogue? An Information-Theoretic Analysis of L1-Dependent Biases"
