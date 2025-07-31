@@ -1,4 +1,11 @@
 team:
+  - name: "Reza Ghasemi Madani"
+    completed: 0
+    degree: "PhD"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Caren Han"
+    start: 2025
+    end:
   - name: "Annisa Yusup"
     completed: 0
     degree: "Masters"
