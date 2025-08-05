@@ -1,4 +1,18 @@
 team:
+  - name: "David Setiawan"
+    completed: 0
+    degree: "Masters"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Raphaël Merx"
+    start: 2025
+    end:
+  - name: "Phuong Le"
+    completed: 0
+    degree: "Masters"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Kemal Kurniawan"
+    start: 2025
+    end:
   - name: "Reza Ghasemi Madani"
     completed: 0
     degree: "PhD"
