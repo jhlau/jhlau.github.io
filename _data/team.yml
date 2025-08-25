@@ -1,4 +1,25 @@
 team:
+  - name: "Haolan Zhan"
+    completed: 0
+    degree: "Postdoc"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Lea Frermann and Tom Drummond"
+    start: 2025
+    end:   
+  - name: "Tao Shi"
+    completed: 0
+    degree: "PhD"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Qiongkai Xu"
+    start: 2025
+    end:
+  - name: "Dingyang Lyu"
+    completed: 0
+    degree: "PhD"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Jianzhong Qi"
+    start: 2025
+    end:
   - name: "David Setiawan"
     completed: 0
     degree: "Masters"
