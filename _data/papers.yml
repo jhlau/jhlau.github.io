@@ -246,7 +246,7 @@ papers:
     booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2023"
     address: "Singapore"
     venue: conference
-    docurl: "https://arxiv.org/abs/2303.08991"
+    docurl: "https://aclanthology.org/2023.findings-emnlp.353/"
     codeurl: "https://github.com/ZhuohanX/DeltaScore"
   - layout: paper
     author: "T. Wada, T. Baldwin, and J.H. Lau"
