@@ -59,6 +59,9 @@ redirect_from:
 - [2005, 2006]&nbsp; **Wyvern Medal for Academic Excellency**, Queen's College
 
 ## Grants
+- [2025] **Harnessing Generative AI to Enhance Student Learning Support in Subject Discussion Forums** (AUD$20K)
+  - FEIT Learning and Teaching Initiatives Grant
+  - Chief Investigator, joint with Tawfiq Islam, Antonette Mendoza and Alex Zable
 - [2025] **Prototyping AI-Assisted Legal Issue Identification to Enhance Access to Justice Services** (AUD$5K)
   - Australian Academy of Law
   - Chief Investigator, joint with P. Burgess and E. Shareghi
