@@ -20,7 +20,7 @@ My field of research is in Natural Language Processing (NLP) &mdash; a sub-field
 
 - Interviewed by [The Age about AI and hallucination](https://www.theage.com.au/national/apologies-for-any-confusion-why-chatbots-hallucinate-20250821-p5moqh.html) ([PDF version](https://github.com/jhlau/jhlau.github.io/blob/master/files/hallucination.pdf)).
 
-- Our collaboration with [Justice Connect](https://justiceconnect.org.au/) to develop AI to support connecting disadvantaged groups to pro-bono lawyers has won the faculty's [Excellence Awards in Engagement for Public Value and Social Inclusion](https://eng.unimelb.edu.au/about/feit-excellence-awards/honour-roll/2025-honour-roll) and also been selected as a [finalist in the Engagement Australia 2025's Excellence in Community Engagement Award](https://engagementaustralia.org.au/2025-excellence-awards-finalists/).
+- Our collaboration with [Justice Connect](https://justiceconnect.org.au/) to develop AI to support connecting disadvantaged groups to pro-bono lawyers has won the faculty's [Excellence Awards in Engagement for Public Value and Social Inclusion](https://eng.unimelb.edu.au/about/feit-excellence-awards/honour-roll/2025-honour-roll) and also been named a [finalist for Engagement Australia's 2025 Excellence in Community Engagement Award](https://engagementaustralia.org.au/2025-excellence-awards-finalists/).
 
 - Interviewed by [Yahoo Finance News about Generative AI risks](https://au.finance.yahoo.com/news/insidious-risk-uncovered-in-australian-workers-big-experiment-with-ai-really-scary-043417398.html).
 
