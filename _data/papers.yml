@@ -1,5 +1,13 @@
 papers:
   - layout: paper
+    author: "C Hicks, J.H. Lau, T. Nguyen, and K. Davidson"
+    title: "Implications of Declaration of Climate Emergency on Australian Local Government Policy in the State of Victoria: Policy Analysis Utilising an LLM-based Retriever-Reader Pipeline"
+    year: "to appear"
+    paper-type: article
+    journal: "Climatic Change"
+    venue: journal
+    codeurl: "https://github.com/xpatiate/nlp-climate-vic-output"
+  - layout: paper
     author: "S. Gao, J.H. Lau, and J. Qi"
     title: "Beyond Seen Data: Improving KBQA Generalization Through Schema-Guided Logical Form Generation"
     year: "to appear"
