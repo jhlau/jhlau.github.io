@@ -15,6 +15,7 @@ papers:
     paper-type: article
     journal: "Climatic Change"
     venue: journal
+    docurl: "https://rdcu.be/eLWEC"
     codeurl: "https://github.com/xpatiate/nlp-climate-vic-output"
   - layout: paper
     author: "S. Gao, J.H. Lau, and J. Qi"
