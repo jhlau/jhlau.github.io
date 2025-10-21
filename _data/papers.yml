@@ -9,7 +9,7 @@ papers:
     docurl: "https://arxiv.org/abs/2502.01891"
     codeurl: "https://github.com/kmkurn/train-eval-hlv"
   - layout: paper
-    author: "C Hicks, J.H. Lau, T. Nguyen, and K. Davidson"
+    author: "C Hicks, K. Davidson, J.H. Lau, and T. Nguyen"
     title: "Implications of Declaration of Climate Emergency on Australian Local Government Policy in the State of Victoria: Policy Analysis Utilising an LLM-based Retriever-Reader Pipeline"
     year: "to appear"
     paper-type: article
