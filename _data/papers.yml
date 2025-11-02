@@ -1,5 +1,27 @@
 papers:
   - layout: paper
+    author: "S. Gao, J.H. Lau, and J. Qi"
+    title: "Beyond Seen Data: Improving KBQA Generalization Through Schema-Guided Logical Form Generation"
+    year: 2025
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)"
+    address: "Suzhou, China"
+    venue: conference
+    docurl: "https://aclanthology.org/2025.emnlp-main.442/"
+    codeurl: "https://github.com/gaosx2000/SG_KBQA"
+    pages: 8764&mdash;8783
+  - layout: paper
+    author: "X. Ma, Y. Jiang, S. Erfani, J. Bailey, W. Liu, K. Ehinger, and J.H. Lau"
+    title: "Reasoning Like Experts: Leveraging Multimodal Large Language Models for Drawing-based Psychoanalysis"
+    year: 2025
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 33rd ACM International Conference on Multimedia (MM 2025)"
+    address: "Dublin, Ireland"
+    venue: conference
+    docurl: "https://dl.acm.org/doi/10.1145/3746027.3755744"
+    codeurl: "https://github.com/YanbeiJiang/PICK"
+    pages: 5090&mdash;5099
+  - layout: paper
     author: "K. Kurniawan, M. Mistica, T. Baldwin, and J.H. Lau"
     title: "Training and Evaluating with Human Label Variation: An Empirical Study"
     year: "to appear"
@@ -17,16 +39,6 @@ papers:
     venue: journal
     docurl: "https://rdcu.be/eLWEC"
     codeurl: "https://github.com/xpatiate/nlp-climate-vic-output"
-  - layout: paper
-    author: "S. Gao, J.H. Lau, and J. Qi"
-    title: "Beyond Seen Data: Improving KBQA Generalization Through Schema-Guided Logical Form Generation"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)"
-    address: "Suzhou, China"
-    venue: conference
-    docurl: "https://arxiv.org/abs/2502.12737"
-    codeurl: "https://github.com/gaosx2000/SG_KBQA"
   - layout: paper
     author: "R. Gao, X. Wu, T. Kuribayashi, M. Ye, S. Qi, C. Roever, Y. Liu, Z. Yuan, and J.H. Lau"
     title: "Can LLMs Simulate L2-English Dialogue? An Information-Theoretic Analysis of L1-Dependent Biases"
@@ -99,14 +111,6 @@ papers:
     journal: "Interactive Technology and Smart Education"
     venue: journal
     docurl: "https://github.com/jhlau/jhlau.github.io/blob/master/files/2025-itse-vp.pdf"
-  - layout: paper
-    author: "X. Ma, Y. Jiang, S. Erfani, J. Bailey, W. Liu, K. Ehinger, and J.H. Lau"
-    title: "Reasoning Like Experts: Leveraging Multimodal Large Language Models for Drawing-based Psychoanalysis"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 33rd ACM International Conference on Multimedia (MM 2025)"
-    address: "Dublin, Ireland"
-    venue: conference
   - layout: paper
     author: "M. Chen, L. Frermann, and J.H. Lau"
     title: "WHoW: A Cross-domain Approach for Analysing Conversation Moderation"
