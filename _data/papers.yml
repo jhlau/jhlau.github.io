@@ -288,7 +288,7 @@ papers:
     booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2023"
     address: "Singapore"
     venue: conference
-    docurl: "https://arxiv.org/abs/2305.01498"
+    docurl: "https://aclanthology.org/2023.findings-emnlp.472/"
     codeurl: "https://github.com/oaimli/PeerSum"
   - layout: paper
     author: "R. Zhu, J. Qi, and J.H. Lau"
