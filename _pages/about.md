@@ -18,7 +18,7 @@ My field of research is in Natural Language Processing (NLP) &mdash; a sub-field
 
 ### News
 
-- I'll be giving a keynote talk at the [New Frontiers in Summarization Workshop](https://newsumm.github.io/2025/#Schedule) at EMNLP 2025 at 4pm, summarising abstractive summarisation in the past ten years.
+- I gave a keynote talk at the [New Frontiers in Summarization Workshop](https://newsumm.github.io/2025/#Schedule) at EMNLP 2025, summarising abstractive summarisation in the past ten years.
 
 - Interviewed by [The Age about AI and hallucination](https://www.theage.com.au/national/apologies-for-any-confusion-why-chatbots-hallucinate-20250821-p5moqh.html) ([PDF version](https://github.com/jhlau/jhlau.github.io/blob/master/files/hallucination.pdf)).
 
