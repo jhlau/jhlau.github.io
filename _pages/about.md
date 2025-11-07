@@ -18,6 +18,8 @@ My field of research is in Natural Language Processing (NLP) &mdash; a sub-field
 
 ### News
 
+- I'll be giving a keynote talk at the [New Frontiers in Summarization Workshop](https://newsumm.github.io/2025/#Schedule) at EMNLP 2025 at 4pm, summarising abstractive summarisation in the past ten years.
+
 - Interviewed by [The Age about AI and hallucination](https://www.theage.com.au/national/apologies-for-any-confusion-why-chatbots-hallucinate-20250821-p5moqh.html) ([PDF version](https://github.com/jhlau/jhlau.github.io/blob/master/files/hallucination.pdf)).
 
 - Our collaboration with [Justice Connect](https://justiceconnect.org.au/) to develop AI to support connecting disadvantaged groups to pro-bono lawyers has won the faculty's [Excellence Awards in Engagement for Public Value and Social Inclusion](https://eng.unimelb.edu.au/about/feit-excellence-awards/honour-roll/2025-honour-roll) and also been named a [finalist for Engagement Australia's 2025 Excellence in Community Engagement Award](https://engagementaustralia.org.au/2025-excellence-awards-finalists/) ([video](https://drive.google.com/file/d/1kKQdD888GmnXzHmeLBu5r8CEcVs043mB/view?usp=sharing)).
