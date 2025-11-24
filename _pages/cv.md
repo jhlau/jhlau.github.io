@@ -114,6 +114,7 @@ redirect_from:
 
 
 ## Invited Keynotes, Talks and Tutorials
+- [2025]&nbsp; **Teaching NLP/Using NLP for Teaching (Panelist)**, ALTA
 - [2024]&nbsp; **Generative AI and Ethics**, Mentone Girls' Grammar
 - [2023]&nbsp; **Few-shot Detection of State-Sponsored Agents in Disinformation Campaigns**, Understanding and Countering Mis/Disinformation Workshop 2023
 - [2023]&nbsp; **Careers Night in Data Science, AI & NLP (Panelist)**, The University of Melbourne
