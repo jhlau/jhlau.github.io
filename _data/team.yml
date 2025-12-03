@@ -1,4 +1,11 @@
 team:
+  - name: "Mehreen Mubashar"
+    completed: 0
+    degree: "PhD"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Lars Kulik"
+    start: 2025
+    end:
   - name: "Hyewon Jang"
     completed: 0
     degree: "Postdoc"
