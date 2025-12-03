@@ -246,7 +246,7 @@ team:
     start: 2021
     end: 2021
   - name: "Miao Li"
-    completed: 0
+    completed: 1
     degree: "PhD"
     affiliation: "The University of Melbourne"
     co-supervisor: "Ed Hovy"
