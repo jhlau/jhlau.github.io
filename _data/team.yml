@@ -251,8 +251,11 @@ team:
     affiliation: "The University of Melbourne"
     co-supervisor: "Ed Hovy"
     start: 2020
-    end:
+    end: 2025
     website: "https://oaimli.github.io/"
+    current: "Currently a postdoctoral researcher at The University of Edinburgh"
+    thesis-title: "Multi-Document Summarization: From Ideational to Opinionated Sources"
+    thesis-url: "https://minerva-access.unimelb.edu.au/items/e87e9a20-97f1-49cc-bd48-cdc6ac60cc00"    
   - name: "Yi Li"
     completed: 1
     degree: "Masters"
