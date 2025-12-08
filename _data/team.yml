@@ -35,12 +35,12 @@ team:
     start: 2025
     end:
   - name: "David Setiawan"
-    completed: 0
+    completed: 1
     degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Raphaël Merx"
     start: 2025
-    end:
+    end: 2025
   - name: "Phuong Le"
     completed: 0
     degree: "Masters"
@@ -56,12 +56,12 @@ team:
     start: 2025
     end:
   - name: "Annisa Yusup"
-    completed: 0
+    completed: 1
     degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Kemal Kurniawan"
     start: 2025
-    end:
+    end: 2025
   - name: "Shuhe Wang"
     completed: 0
     degree: "PhD"
