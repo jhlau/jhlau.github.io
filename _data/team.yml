@@ -1,11 +1,46 @@
 team:
-  - name: "David Setiawan"
+  - name: "Mehreen Mubashar"
     completed: 0
+    degree: "PhD"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Lars Kulik"
+    start: 2025
+    end:
+  - name: "Hyewon Jang"
+    completed: 0
+    degree: "Postdoc"
+    affiliation: "University of Gothenburg"
+    co-supervisor: "Shalom Lappin, Sharid Loáiciga and Haim Dubossarsky (University of Gothenburg)"
+    start: 2025
+    end:
+  - name: "Haolan Zhan"
+    completed: 0
+    degree: "Postdoc"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Lea Frermann and Tom Drummond"
+    start: 2025
+    end:   
+  - name: "Tao Shi"
+    completed: 0
+    degree: "PhD"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Qiongkai Xu"
+    start: 2025
+    end:
+  - name: "Dingyang Lyu"
+    completed: 0
+    degree: "PhD"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Jianzhong Qi"
+    start: 2025
+    end:
+  - name: "David Setiawan"
+    completed: 1
     degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Raphaël Merx"
     start: 2025
-    end:
+    end: 2025
   - name: "Phuong Le"
     completed: 0
     degree: "Masters"
@@ -21,12 +56,12 @@ team:
     start: 2025
     end:
   - name: "Annisa Yusup"
-    completed: 0
+    completed: 1
     degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Kemal Kurniawan"
     start: 2025
-    end:
+    end: 2025
   - name: "Shuhe Wang"
     completed: 0
     degree: "PhD"
@@ -218,13 +253,16 @@ team:
     start: 2021
     end: 2021
   - name: "Miao Li"
-    completed: 0
+    completed: 1
     degree: "PhD"
     affiliation: "The University of Melbourne"
     co-supervisor: "Ed Hovy"
     start: 2020
-    end:
+    end: 2025
     website: "https://oaimli.github.io/"
+    current: "Currently a postdoctoral researcher at The University of Edinburgh"
+    thesis-title: "Multi-Document Summarization: From Ideational to Opinionated Sources"
+    thesis-url: "https://minerva-access.unimelb.edu.au/items/e87e9a20-97f1-49cc-bd48-cdc6ac60cc00"    
   - name: "Yi Li"
     completed: 1
     degree: "Masters"

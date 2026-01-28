@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My field of research is in Natural Language Processing (NLP) &mdash; a sub-field of Artificial Intelligence &mdash; and the goal of NLP is to develop computational models to understand human languages. There are a host of NLP applications that are commonly used in our everyday lives: machine translation (e.g. Google Translate) and chatbot (e.g. Siri) are two examples. My research is characterised by a diverse flavour of applications, such as [discovering topics from document collections](https://aclanthology.org/E14-1056.pdf), [understanding the nature of grammar knowledge](https://github.com/jhlau/jhlau.github.io/raw/master/files/2017-cogsci-grammaticality.pdf), [analysing the conversation dynamics of online misinformation](https://aclanthology.org/2022.naacl-main.364.pdf), and generating [poetry](https://aclanthology.org/P18-1181.pdf) and [stories](https://aclanthology.org/2023.inlg-main.23.pdf), but they are ultimately connected by my interest in language modelling. Some of my research has a broader community interest beyond academia &mdash; e.g. my work in text generation and influence operations has been covered by science magazines (New Scientist) and mainstream news media (Guardian and BBC).
+My field of research is in Natural Language Processing (NLP) &mdash; a sub-field of Artificial Intelligence &mdash; and the goal of NLP is to develop computational models to understand human languages. There are a host of NLP applications that are commonly used in our everyday lives: machine translation (e.g. Google Translate) and chatbot (e.g. Siri) are two examples. My research is characterised by a diverse flavour of applications &mdash; such as [discovering topics from document collections](https://aclanthology.org/E14-1056.pdf), [understanding the nature of grammar knowledge](https://github.com/jhlau/jhlau.github.io/raw/master/files/2017-cogsci-grammaticality.pdf), [analysing the conversation dynamics of online misinformation](https://aclanthology.org/2022.naacl-main.364.pdf), and generating [poetry](https://aclanthology.org/P18-1181.pdf) and [stories](https://aclanthology.org/2023.inlg-main.23.pdf) &mdash; but they are ultimately connected by my interest in language modelling. Some of my work has a broader community interest beyond academia; e.g. my research on text generation and influence operations has been covered by science and mainstream news media outlets such as New Scientist, The Guardian and BBC.
 
-**Affiliations**: The University of Melbourne's [NLP Group](https://cis.unimelb.edu.au/research/artificial-intelligence/Natural-Language-Processing) and [Information and Influence Hub](https://eng.unimelb.edu.au/industry/defence/capabilities/information-and-influence). 
+### Affiliations ###
+- The University of Melbourne [NLP Group](https://cis.unimelb.edu.au/research/artificial-intelligence/Natural-Language-Processing) &mdash; follow us on [X](https://x.com/UniMelb_NLP), [Rednote/小红书](https://www.xiaohongshu.com/user/profile/6662a5fb0000000007005723) and [Linkedin](https://www.linkedin.com/in/unimelb-nlp-group-3a2669398/)!
+- [Information and Influence Hub](https://eng.unimelb.edu.au/industry/defence/capabilities/information-and-influence)
 
 ### Prospective Students
 
@@ -18,9 +20,11 @@ My field of research is in Natural Language Processing (NLP) &mdash; a sub-field
 
 ### News
 
-- Interviewed by [The Age about AI and hallucination](https://www.theage.com.au/national/apologies-for-any-confusion-why-chatbots-hallucinate-20250821-p5moqh.html) (alternative web archive [link](https://web.archive.org/web/20250823235758/https://www.theage.com.au/national/apologies-for-any-confusion-why-chatbots-hallucinate-20250821-p5moqh.html)).
+- I gave a keynote talk at the [New Frontiers in Summarization Workshop](https://newsumm.github.io/2025/#Schedule) at EMNLP 2025, summarising abstractive summarisation in the past ten years.
 
-- Our collaboration with [Justice Connect](https://justiceconnect.org.au/) to develop AI to support connecting disadvantaged groups to pro-bono lawyers have won the faculty's [Excellence Awards in Engagement for Public Value and Social Inclusion](https://eng.unimelb.edu.au/about/feit-excellence-awards/honour-roll/2025-honour-roll).
+- Interviewed by [The Age about AI and hallucination](https://www.theage.com.au/national/apologies-for-any-confusion-why-chatbots-hallucinate-20250821-p5moqh.html) ([PDF version](https://github.com/jhlau/jhlau.github.io/blob/master/files/hallucination.pdf)).
+
+- Our collaboration with [Justice Connect](https://justiceconnect.org.au/) to develop AI to support connecting disadvantaged groups to pro-bono lawyers has won the faculty's [Excellence Awards in Engagement for Public Value and Social Inclusion](https://eng.unimelb.edu.au/about/feit-excellence-awards/honour-roll/2025-honour-roll) and also been named a [finalist for Engagement Australia's 2025 Excellence in Community Engagement Award](https://engagementaustralia.org.au/2025-excellence-awards-finalists/) ([video](https://drive.google.com/file/d/1kKQdD888GmnXzHmeLBu5r8CEcVs043mB/view?usp=sharing)).
 
 - Interviewed by [Yahoo Finance News about Generative AI risks](https://au.finance.yahoo.com/news/insidious-risk-uncovered-in-australian-workers-big-experiment-with-ai-really-scary-043417398.html).
 

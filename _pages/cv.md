@@ -21,7 +21,11 @@ redirect_from:
   * First Class Honours
   
 ## Employment History
-* [2022&mdash;present]&nbsp; **Senior Lecturer**
+
+* [2026&mdash;present]&nbsp; **Associate Professor**
+  * The University of Melbourne, School of Computing and Information Systems
+
+* [2022&mdash;2025]&nbsp; **Senior Lecturer**
   * The University of Melbourne, School of Computing and Information Systems
 
 * [2019&mdash;2022]&nbsp; **Lecturer**
@@ -59,6 +63,9 @@ redirect_from:
 - [2005, 2006]&nbsp; **Wyvern Medal for Academic Excellency**, Queen's College
 
 ## Grants
+- [2025] **Harnessing Generative AI to Enhance Student Learning Support in Subject Discussion Forums** (AUD$20K)
+  - FEIT Learning and Teaching Initiatives Grant
+  - Chief Investigator, joint with Tawfiq Islam, Antonette Mendoza and Alex Zable
 - [2025] **Prototyping AI-Assisted Legal Issue Identification to Enhance Access to Justice Services** (AUD$5K)
   - Australian Academy of Law
   - Chief Investigator, joint with P. Burgess and E. Shareghi
@@ -111,6 +118,7 @@ redirect_from:
 
 
 ## Invited Keynotes, Talks and Tutorials
+- [2025]&nbsp; **Teaching NLP/Using NLP for Teaching (Panelist)**, ALTA
 - [2024]&nbsp; **Generative AI and Ethics**, Mentone Girls' Grammar
 - [2023]&nbsp; **Few-shot Detection of State-Sponsored Agents in Disinformation Campaigns**, Understanding and Countering Mis/Disinformation Workshop 2023
 - [2023]&nbsp; **Careers Night in Data Science, AI & NLP (Panelist)**, The University of Melbourne
@@ -154,9 +162,9 @@ Queries on E-commerce Platforms (Keynote)**, Endeavour Group, Open Data Science 
 ## Service
 
 - [2025&mdash;2027]&nbsp; President of the Australasian Language Technology Association (ALTA)
-- [2024]&nbsp; Senior Action Editor for ACL ARR April, August, December
+- [2025]&nbsp; Senior Area Chair for ACL ARR July, October
+- [2024]&nbsp; Senior Area Chair for ACL ARR April, August, December
 - [2024&mdash;2026]&nbsp; Action Editor for Computational Linguistics
-- [2024]&nbsp; Senior Area Chair for NAACL
 - [2023]&nbsp; Area Chair for EMNLP
 - [2023]&nbsp; Senior Area Chair for IJCNLP-AACL
 - [2023]&nbsp; Senior Area Chair for ACL

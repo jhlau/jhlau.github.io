@@ -1,5 +1,139 @@
 papers:
   - layout: paper
+    author: "K. Kurniawan, M. Mistica, T. Baldwin, and J.H. Lau"
+    title: "On the Interplay between Human Label Variation and Model Fairness"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: EACL 2026"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2510.12036"
+    codeurl: "https://github.com/kmkurn/hlv-fairness-interplay"
+  - layout: paper
+    author: "Y. Otmakhova, T.H. Truong, R. Mahendra, Z. Zhai, R. Zhu, D. Beck, and J.H. Lau"
+    title: "FLUKE: A Linguistically-Driven and Task-Agnostic Framework for Robustness Evaluation"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: EACL 2026"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2504.17311"
+    codeurl: "https://fluke-nlp.github.io/"
+  - layout: paper
+    author: "R. Xing, P. Nakov, T. Baldwin, and J.H. Lau"
+    title: "COMMUNITYNOTES: A Dataset for Exploring the Helpfulness of Fact-Checking Explanations"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: EACL 2026"
+    venue: conference
+    docurl: "https://arxiv.org/pdf/2510.24810"
+    codeurl: "https://github.com/ruixing76/Helpfulness-FCExp"
+  - layout: paper
+    author: "K. Kurniawan, M. Mistica, T. Baldwin, and J.H. Lau"
+    title: "Training and Evaluating with Human Label Variation: An Empirical Study"
+    year: 2025
+    paper-type: article
+    journal: "Computational Linguistics"
+    venue: journal
+    docurl: "https://direct.mit.edu/coli/article/doi/10.1162/COLI.a.578/133833/Training-and-Evaluating-with-Human-Label-Variation"
+    codeurl: "https://github.com/kmkurn/train-eval-hlv"
+    pages: 1&mdash;27
+  - layout: paper
+    author: "C Hicks, K. Davidson, J.H. Lau, and T. Nguyen"
+    title: "Implications of Declaration of Climate Emergency on Australian Local Government Policy in the State of Victoria: Policy Analysis Utilising an LLM-based Retriever-Reader Pipeline"
+    year: 2025
+    paper-type: article
+    journal: "Climatic Change"
+    volume: 178
+    venue: journal
+    docurl: "https://rdcu.be/eLWEC"
+    codeurl: "https://github.com/xpatiate/nlp-climate-vic-output"
+    pages: 191&mdash;214
+  - layout: paper
+    author: "S. Gao, J.H. Lau, and J. Qi"
+    title: "Beyond Seen Data: Improving KBQA Generalization Through Schema-Guided Logical Form Generation"
+    year: 2025
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)"
+    address: "Suzhou, China"
+    venue: conference
+    docurl: "https://aclanthology.org/2025.emnlp-main.442/"
+    codeurl: "https://github.com/gaosx2000/SG_KBQA"
+    pages: 8764&mdash;8783
+  - layout: paper
+    author: "X. Ma, Y. Jiang, S. Erfani, J. Bailey, W. Liu, K. Ehinger, and J.H. Lau"
+    title: "Reasoning Like Experts: Leveraging Multimodal Large Language Models for Drawing-based Psychoanalysis"
+    year: 2025
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 33rd ACM International Conference on Multimedia (MM 2025)"
+    address: "Dublin, Ireland"
+    venue: conference
+    docurl: "https://dl.acm.org/doi/10.1145/3746027.3755744"
+    codeurl: "https://github.com/YanbeiJiang/PICK"
+    pages: 5090&mdash;5099
+  - layout: paper
+    author: "R. Gao, X. Wu, T. Kuribayashi, M. Ye, S. Qi, C. Roever, Y. Liu, Z. Yuan, and J.H. Lau"
+    title: "Can LLMs Simulate L2-English Dialogue? An Information-Theoretic Analysis of L1-Dependent Biases"
+    year: 2025
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)"
+    address: "Vienna, Austria"
+    venue: conference
+    docurl: "https://aclanthology.org/2025.acl-long.219/"
+    codeurl: "https://github.com/RenaGao/LLMPirorknowledge"
+    pages: 4355&mdash;4379
+  - layout: paper
+    author: "A. Shetty, Q. Xu, and J.H. Lau"
+    title: "WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service with Linear Transformation Watermarks"
+    year: 2025
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)"
+    address: "Vienna, Austria"
+    venue: conference
+    docurl: "https://aclanthology.org/2025.acl-long.1122/"
+    codeurl: "https://github.com/anudeex/WET.git"
+    pages: 23024&mdash;23043
+  - layout: paper
+    author: "Y. Jiang, Y. Ding, C. Lei, J. Ao, J.H. Lau, and K. Ehinger"
+    title: "Beyond Perception: Evaluating Abstract Visual Reasoning through Multi-Stage Task"
+    year: 2025
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: ACL 2025"
+    address: "Vienna, Austria"
+    venue: conference
+    docurl: "https://aclanthology.org/2025.findings-acl.2/"
+    codeurl: "https://github.com/YanbeiJiang/MultiStAR"
+    pages: 13&mdash;45
+  - layout: paper
+    author: "R. Gao, M. Chen, L. Frermann, and J.H. Lau"
+    title: "Moderation Matters: Measuring Conversational Moderation Impact in English as a Second Language Group Discussion"
+    year: 2025
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: ACL 2025"
+    address: "Vienna, Austria"
+    venue: conference
+    docurl: "https://aclanthology.org/2025.findings-acl.106/"
+    codeurl: "https://github.com/RenaGao/L2Moderator"
+    pages: 2070&mdash;2095
+  - layout: paper
+    author: "M. Li, J.H. Lau, E. Hovy, and M. Lapata"
+    title: "Decomposed Opinion Summarization with Verified Aspect-Aware Modules"
+    year: 2025
+    paper-type: inproceedings
+    booktitle: "Findings of the Association for Computational Linguistics: ACL 2025"
+    address: "Vienna, Austria"
+    venue: conference
+    docurl: "https://aclanthology.org/2025.findings-acl.1273/"
+    codeurl: "https://github.com/oaimli/ModularMetaReview"
+    pages: 24805&mdash;24841
+  - layout: paper
+    author: "R. Xing, B. Sun, K. Zhang, P. Nakov, T. Baldwin, and J.H. Lau"
+    title: "An Analytical Emotion Framework of Rumour Threads on Social Media"
+    year: 2025
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 1st Workshop on Misinformation Detection in the Era of LLMs (MisD 2025)"
+    address: "Copenhagen, Denmark"
+    venue: workshop
+    docurl: "https://workshop-proceedings.icwsm.org/abstract.php?id=2025_28"
+  - layout: paper
     author: "P. Bowers, T. Ryan, K. Graydon, J.H. Lau, and D. Tomlin"
     title: "Healthcare Educators&apos; Perspectives on Artificial Intelligence Driven Virtual Patients for Teaching Communication Skills"
     year: 2025
@@ -7,70 +141,6 @@ papers:
     journal: "Interactive Technology and Smart Education"
     venue: journal
     docurl: "https://github.com/jhlau/jhlau.github.io/blob/master/files/2025-itse-vp.pdf"
-  - layout: paper
-    author: "X. Ma, Y. Jiang, S. Erfani, J. Bailey, W. Liu, K. Ehinger, and J.H. Lau"
-    title: "Reasoning Like Experts: Leveraging Multimodal Large Language Models for Drawing-based Psychoanalysis"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 33rd ACM International Conference on Multimedia (MM 2025)"
-    address: "Dublin, Ireland"
-    venue: conference
-  - layout: paper
-    author: "R. Gao, X. Wu, T. Kuribayashi, M. Ye, S. Qi, C. Roever, Y. Liu, Z. Yuan, and J.H. Lau"
-    title: "Can LLMs Simulate L2-English Dialogue? An Information-Theoretic Analysis of L1-Dependent Biases"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)"
-    address: "Vienna, Austria"
-    venue: conference
-    docurl: "https://arxiv.org/abs/2502.14507"
-    codeurl: "https://github.com/RenaGao/LLMPirorknowledge"
-  - layout: paper
-    author: "A. Shetty, Q. Xu, and J.H. Lau"
-    title: "WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service with Linear Transformation Watermarks"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)"
-    address: "Vienna, Austria"
-    venue: conference
-    docurl: "https://arxiv.org/abs/2409.04459"
-    codeurl: "https://github.com/anudeex/WET.git"
-  - layout: paper
-    author: "Y. Jiang, Y. Ding, C. Lei, J. Ao, J.H. Lau, and K. Ehinger"
-    title: "Beyond Perception: Evaluating Abstract Visual Reasoning through Multi-Stage Task"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Findings of the Association for Computational Linguistics: ACL 2025"
-    address: "Vienna, Austria"
-    venue: conference
-  - layout: paper
-    author: "R. Gao, M. Chen, L. Frermann, and J.H. Lau"
-    title: "Moderation Matters: Measuring Conversational Moderation Impact in English as a Second Language Group Discussion"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Findings of the Association for Computational Linguistics: ACL 2025"
-    address: "Vienna, Austria"
-    venue: conference
-    docurl: "https://arxiv.org/abs/2502.18341"
-    codeurl: "https://github.com/RenaGao/L2Moderator"
-  - layout: paper
-    author: "M. Li, J.H. Lau, E. Hovy, and M. Lapata"
-    title: "Aspect-Aware Decomposition for Opinion Summarization"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Findings of the Association for Computational Linguistics: ACL 2025"
-    address: "Vienna, Austria"
-    venue: conference
-    docurl: "https://arxiv.org/abs/2501.17191"
-  - layout: paper
-    author: "R. Xing, B. Sun, K. Zhang, P. Nakov, T. Baldwin, and J.H. Lau"
-    title: "An Analytical Emotion Framework of Rumour Threads on Social Media"
-    year: "to appear"
-    paper-type: inproceedings
-    booktitle: "Proceedings of the 1st Workshop on Misinformation Detection in the Era of LLMs (MisD 2025)"
-    address: "Copenhagen, Denmark"
-    venue: workshop
-    docurl: "https://arxiv.org/abs/2502.16560"
   - layout: paper
     author: "M. Chen, L. Frermann, and J.H. Lau"
     title: "WHoW: A Cross-domain Approach for Analysing Conversation Moderation"
@@ -228,7 +298,7 @@ papers:
     booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2023"
     address: "Singapore"
     venue: conference
-    docurl: "https://arxiv.org/abs/2303.08991"
+    docurl: "https://aclanthology.org/2023.findings-emnlp.353/"
     codeurl: "https://github.com/ZhuohanX/DeltaScore"
   - layout: paper
     author: "T. Wada, T. Baldwin, and J.H. Lau"
@@ -248,7 +318,7 @@ papers:
     booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2023"
     address: "Singapore"
     venue: conference
-    docurl: "https://arxiv.org/abs/2305.01498"
+    docurl: "https://aclanthology.org/2023.findings-emnlp.472/"
     codeurl: "https://github.com/oaimli/PeerSum"
   - layout: paper
     author: "R. Zhu, J. Qi, and J.H. Lau"
