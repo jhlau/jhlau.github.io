@@ -27,27 +27,6 @@ papers:
     docurl: "https://arxiv.org/pdf/2510.24810"
     codeurl: "https://github.com/ruixing76/Helpfulness-FCExp"
   - layout: paper
-    author: "K. Kurniawan, M. Mistica, T. Baldwin, and J.H. Lau"
-    title: "Training and Evaluating with Human Label Variation: An Empirical Study"
-    year: 2025
-    paper-type: article
-    journal: "Computational Linguistics"
-    venue: journal
-    docurl: "https://direct.mit.edu/coli/article/doi/10.1162/COLI.a.578/133833/Training-and-Evaluating-with-Human-Label-Variation"
-    codeurl: "https://github.com/kmkurn/train-eval-hlv"
-    pages: 1&mdash;27
-  - layout: paper
-    author: "C Hicks, K. Davidson, J.H. Lau, and T. Nguyen"
-    title: "Implications of Declaration of Climate Emergency on Australian Local Government Policy in the State of Victoria: Policy Analysis Utilising an LLM-based Retriever-Reader Pipeline"
-    year: 2025
-    paper-type: article
-    journal: "Climatic Change"
-    volume: 178
-    venue: journal
-    docurl: "https://rdcu.be/eLWEC"
-    codeurl: "https://github.com/xpatiate/nlp-climate-vic-output"
-    pages: 191&mdash;214
-  - layout: paper
     author: "S. Gao, J.H. Lau, and J. Qi"
     title: "Beyond Seen Data: Improving KBQA Generalization Through Schema-Guided Logical Form Generation"
     year: 2025
