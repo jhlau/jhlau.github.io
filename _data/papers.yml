@@ -1,5 +1,13 @@
 papers:
   - layout: paper
+    author: "D. Setiawan, R. Merx, and J.H. Lau"
+    title: "Context Volume Drives Performance: Tackling Domain Shift in Extremely Low-Resource Translation via RAG"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the Ninth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2026)"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2601.09982"
+  - layout: paper
     author: "K. Kurniawan, M. Mistica, T. Baldwin, and J.H. Lau"
     title: "On the Interplay between Human Label Variation and Model Fairness"
     year: "to appear"
