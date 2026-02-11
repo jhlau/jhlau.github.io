@@ -149,6 +149,7 @@ papers:
     journal: "Interactive Technology and Smart Education"
     venue: journal
     docurl: "https://github.com/jhlau/jhlau.github.io/blob/master/files/2025-itse-vp.pdf"
+    pages: 97&mdash;112    
   - layout: paper
     author: "M. Chen, L. Frermann, and J.H. Lau"
     title: "WHoW: A Cross-domain Approach for Analysing Conversation Moderation"
