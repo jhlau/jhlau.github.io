@@ -1,39 +1,63 @@
 papers:
   - layout: paper
-    author: "D. Setiawan, R. Merx, and J.H. Lau"
-    title: "Context Volume Drives Performance: Tackling Domain Shift in Extremely Low-Resource Translation via RAG"
+    author: "Y. Jiang, A. Keleg, R. Diandaru, J.H. Lau, L. Frermann, B. Fang, and F. Koto"
+    title: "Controlling Distributional Bias in Multi-Round LLM Generation via KL-Optimized Fine-Tuning"
     year: "to appear"
     paper-type: inproceedings
-    booktitle: "Proceedings of the Ninth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2026)"
+    booktitle: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)"
+    address: "San Diego, California"
     venue: conference
-    docurl: "https://arxiv.org/abs/2601.09982"
+  - layout: paper
+    author: "M. Chen, J.H. Lau, and L. Frermann"
+    title: "CIG: Measuring Conversational Information Gain in Deliberative Dialogues with Semantic Memory Dynamics"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)"
+    address: "San Diego, California"
+    venue: conference
+  - layout: paper
+    author: "D. Setiawan, R. Merx, and J.H. Lau"
+    title: "Context Volume Drives Performance: Tackling Domain Shift in Extremely Low-Resource Translation via RAG"
+    year: 2026
+    paper-type: inproceedings
+    booktitle: "Proceedings of the Ninth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2026)"
+    address: "Rabat, Morocco"
+    venue: conference
+    docurl: "https://aclanthology.org/2026.loresmt-1.7/"
+    pages: 87&mdash;101
   - layout: paper
     author: "K. Kurniawan, M. Mistica, T. Baldwin, and J.H. Lau"
     title: "On the Interplay between Human Label Variation and Model Fairness"
-    year: "to appear"
+    year: 2026
     paper-type: inproceedings
     booktitle: "Findings of the Association for Computational Linguistics: EACL 2026"
+    address: "Rabat, Morocco"
     venue: conference
-    docurl: "https://arxiv.org/abs/2510.12036"
+    docurl: "https://aclanthology.org/2026.findings-eacl.50/"
     codeurl: "https://github.com/kmkurn/hlv-fairness-interplay"
+    pages: 967&mdash;976
   - layout: paper
     author: "Y. Otmakhova, T.H. Truong, R. Mahendra, Z. Zhai, R. Zhu, D. Beck, and J.H. Lau"
     title: "FLUKE: A Linguistically-Driven and Task-Agnostic Framework for Robustness Evaluation"
-    year: "to appear"
+    year: 2026
     paper-type: inproceedings
     booktitle: "Findings of the Association for Computational Linguistics: EACL 2026"
+    address: "Rabat, Morocco"
     venue: conference
-    docurl: "https://arxiv.org/abs/2504.17311"
+    docurl: "https://aclanthology.org/2026.findings-eacl.269/"
     codeurl: "https://fluke-nlp.github.io/"
+    pages: 5103&mdash;5123
   - layout: paper
     author: "R. Xing, P. Nakov, T. Baldwin, and J.H. Lau"
     title: "COMMUNITYNOTES: A Dataset for Exploring the Helpfulness of Fact-Checking Explanations"
-    year: "to appear"
+    year: 2026
     paper-type: inproceedings
     booktitle: "Findings of the Association for Computational Linguistics: EACL 2026"
+    address: "Rabat, Morocco"
     venue: conference
-    docurl: "https://arxiv.org/pdf/2510.24810"
+    docurl: "https://aclanthology.org/2026.findings-eacl.71/"
     codeurl: "https://github.com/ruixing76/Helpfulness-FCExp"
+    pages: 1390&mdash;1411 
   - layout: paper
     author: "K. Kurniawan, M. Mistica, T. Baldwin, and J.H. Lau"
     title: "Training and Evaluating with Human Label Variation: An Empirical Study"
