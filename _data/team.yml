@@ -77,12 +77,13 @@ team:
     start: 2025
     end:
   - name: "Thinh Truong"
-    completed: 0
+    completed: 1
     degree: "Postdoc"
     affiliation: "The University of Melbourne"
     co-supervisor: "Jianzhong Qi"
     start: 2025
-    end:    
+    end: 2026
+    current: "Currently an applied scientist at Oracle"  
   - name: "Shengxiang Gao"
     completed: 0
     degree: "PhD"
@@ -209,12 +210,16 @@ team:
     start: 2022
     end:
   - name: "Rena Gao"
-    completed: 0
+    completed: 1
     degree: "PhD"
     affiliation: "The University of Melbourne"
     co-supervisor: "Carsten Roever (Languages and Linguistics)"
     start: 2021
-    end:
+    end: 2026
+    website: "https://renagao.vercel.app/"
+    current: "Currently a research engineer at Tiktok"
+    thesis-title: "Automated Evaluation and Application of Interactive Quality of Dialogue in Cross-Lingual and Non-Native Conversations"
+    thesis-url: "https://minerva-access.unimelb.edu.au/items/17d4993a-2594-4317-b82f-55fe16275552"    
   - name: "Zixun Wu"
     completed: 1
     degree: "Masters"
