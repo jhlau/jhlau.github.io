@@ -120,6 +120,7 @@ redirect_from:
 
 ## Invited Keynotes, Talks and Tutorials
 - [2025]&nbsp; **Teaching NLP/Using NLP for Teaching (Panelist)**, ALTA
+- [2025]&nbsp; **Ten Years of Abstractive Summarisation: A Whirlwind Tour and Future Directions (Keynote)**, New Frontiers in Summarization Workshop, EMNLP
 - [2024]&nbsp; **Generative AI and Ethics**, Mentone Girls' Grammar
 - [2023]&nbsp; **Few-shot Detection of State-Sponsored Agents in Disinformation Campaigns**, Understanding and Countering Mis/Disinformation Workshop 2023
 - [2023]&nbsp; **Careers Night in Data Science, AI & NLP (Panelist)**, The University of Melbourne
@@ -181,6 +182,7 @@ Queries on E-commerce Platforms (Keynote)**, Endeavour Group, Open Data Science 
 - [2012&mdash;present]&nbsp; Programme Committee for ACL, NAACL, EACL, EMNLP, COLING, IJCNLP, AAAI, CoNLL, \*SEM, and ALTA
 
 ## Media Coverage
+- [2025]&nbsp; Interviewed by [SBS about AI and hallucination](https://www.theage.com.au/national/apologies-for-any-confusion-why-chatbots-hallucinate-20250821-p5moqh.html).
 - [2025]&nbsp; Interviewed by [Yahoo Finance News about Generative AI and risks](https://au.finance.yahoo.com/news/insidious-risk-uncovered-in-australian-workers-big-experiment-with-ai-really-scary-043417398.html).
 - [2024]&nbsp; Interviewed by [SBS Mandarin News about Generative AI and workforce](https://www.youtube.com/watch?v=BXPeDFKZ3Yg#t=21m24s).
 - [2023]&nbsp; My art+science chatbot project was featured by [Sydney Morning Herald](https://www.smh.com.au/culture/art-and-design/the-now-factor-10-things-not-to-miss-at-ngv-s-latest-blockbuster-20230310-p5cr6p.html)
