@@ -119,9 +119,10 @@ redirect_from:
 
 
 ## Invited Keynotes, Talks and Tutorials
+- [2026]&nbsp; **What is AI (Panelist)**, Melbourne Girls Grammar
 - [2025]&nbsp; **Teaching NLP/Using NLP for Teaching (Panelist)**, ALTA
 - [2025]&nbsp; **Ten Years of Abstractive Summarisation: A Whirlwind Tour and Future Directions (Keynote)**, New Frontiers in Summarization Workshop, EMNLP
-- [2024]&nbsp; **Generative AI and Ethics**, Mentone Girls' Grammar
+- [2024]&nbsp; **Generative AI and Ethics (Panelist)**, Mentone Girls' Grammar
 - [2023]&nbsp; **Few-shot Detection of State-Sponsored Agents in Disinformation Campaigns**, Understanding and Countering Mis/Disinformation Workshop 2023
 - [2023]&nbsp; **Careers Night in Data Science, AI & NLP (Panelist)**, The University of Melbourne
 - [2023]&nbsp; **Rumour and Disinformation Detection in Online Conversations**, Monash University, VinAI
@@ -163,17 +164,20 @@ Queries on E-commerce Platforms (Keynote)**, Endeavour Group, Open Data Science 
 
 ## Service
 
+- [2026]&nbsp; Senior Area Chair for EMNLP
+- [2026]&nbsp; Area Chair for NLPCC
+- [2025&mdash;present]&nbsp; Graduate Research Coordinator, University of Melbourne
 - [2025&mdash;2027]&nbsp; President of the Australasian Language Technology Association (ALTA)
-- [2025]&nbsp; Senior Area Chair for ACL ARR July, October
-- [2024]&nbsp; Senior Area Chair for ACL ARR April, August, December
+- [2025]&nbsp; Senior Area Chair for IJCNLP-AACL
+- [2025]&nbsp; Area Chair for EACL
 - [2024&mdash;2026]&nbsp; Action Editor for Computational Linguistics
+- [2024]&nbsp; Senior Area Chair for NAACL, EMNLP and ACL
+- [2023&mdash;2024]&nbsp; Executive Member of ALTA
 - [2023]&nbsp; Area Chair for EMNLP
-- [2023]&nbsp; Senior Area Chair for IJCNLP-AACL
-- [2023]&nbsp; Senior Area Chair for ACL
+- [2023]&nbsp; Senior Area Chair for IJCNLP-AACL and ACL
 - [2023]&nbsp; Program Chair for ALTA
 - [2022&mdash;present]&nbsp; Master of Computer Science Project Coordinator, University of Melbourne 
-- [2022]&nbsp; Area Chair for EMNLP
-- [2022]&nbsp; Area Chair for Natural Language Processing and Chinese Computing (NLPCC)
+- [2022]&nbsp; Area Chair for EMNLP and NLPCC
 - [2021&mdash;2022]&nbsp; Master of Information Technology (AI) Coordinator (interim), University of Melbourne 
 - [2021]&nbsp; Area Chair for EMNLP
 - [2019&mdash;present]&nbsp; Review Committee for TACL
