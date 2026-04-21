@@ -119,7 +119,7 @@ redirect_from:
 
 
 ## Invited Keynotes, Talks and Tutorials
-- [2026]&nbsp; **What is AI (Panelist)**, Melbourne Girls Grammar
+- [2026]&nbsp; **What AI isn't (Panelist)**, Melbourne Girls Grammar
 - [2025]&nbsp; **Teaching NLP/Using NLP for Teaching (Panelist)**, ALTA
 - [2025]&nbsp; **Ten Years of Abstractive Summarisation: A Whirlwind Tour and Future Directions (Keynote)**, New Frontiers in Summarization Workshop, EMNLP
 - [2024]&nbsp; **Generative AI and Ethics (Panelist)**, Mentone Girls' Grammar
