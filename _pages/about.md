@@ -20,7 +20,7 @@ My field of research is in Natural Language Processing (NLP) &mdash; a sub-field
 
 ### News
 
-- Visited Melbourne Girls Grammar to talk about what AI is, and what it isn't.
+- [Visited Melbourne Girls Grammar](https://www.linkedin.com/feed/update/urn:li:activity:7452221732486180864/) to talk about what AI is, and what it isn't.
 
 - Gave a keynote talk at the [New Frontiers in Summarization Workshop](https://newsumm.github.io/2025/#Schedule) at EMNLP 2025, summarising abstractive summarisation in the past ten years.
 
