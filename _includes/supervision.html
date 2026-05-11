@@ -6,7 +6,7 @@
       <li>
       [{{ people.start }}&mdash;{% if people.end %}{{ people.end }}{% else %}present{% endif %}]&nbsp; <b>{{ people.name }}</b>,
       {% if people.co-supervisor %}with {{ people.co-supervisor }},{% endif %} {{ people.affiliation }}.
-      {% if people.thesis-award %} (thesis awarded: {{ people.thesis-award }}) {% endif %}
+      {% if people.thesis-award %} Thesis awarded: {{ people.thesis-award }}. {% endif %}
       </li>
   
     {% endif %}
