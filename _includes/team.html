@@ -10,8 +10,13 @@
       ({{ people.start }}{% if people.end %}&mdash;{{ people.end }}{% endif %})
       <ul>
         <li>{{ people.degree }}{% if people.co-supervisor %}; co-supervised with {{ people.co-supervisor }}{% endif %}</li>
-        {% if people.thesis-title%}
+        {% if people.thesis-title %}
         <li> Thesis: <a href="{{ people.thesis-url }}">{{ people.thesis-title }}</a> </li>
+          {% if people.thesis-award %}  
+          <ul>
+          <li> Awarded: {{ people.thesis-award }} </li>
+          </ul>
+          {% endif %}  
         {% endif %}
         {% if people.current %}
         <li>{{ people.current }}</li>
