@@ -1,4 +1,11 @@
 team:
+  - name: "Lachlan Cowley"
+    completed: 0
+    degree: "Bachelor"
+    affiliation: "The University of Melbourne"
+    co-supervisor: "Ed Hovy"
+    start: 2026
+    end:
   - name: "Mehreen Mubashar"
     completed: 0
     degree: "PhD"
