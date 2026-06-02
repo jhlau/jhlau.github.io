@@ -20,13 +20,13 @@ My field of research is in Natural Language Processing (NLP) &mdash; a sub-field
 
 ### News
 
+- Our collaboration with [Justice Connect](https://justiceconnect.org.au/) to develop AI to support connecting disadvantaged groups to pro-bono lawyers has won the faculty's [Excellence Awards in Engagement for Public Value and Social Inclusion](https://eng.unimelb.edu.au/about/feit-excellence-awards/honour-roll/2025-honour-roll), been named as a [finalist for Engagement Australia's 2025 Excellence in Community Engagement Award](https://engagementaustralia.org.au/2025-excellence-awards-finalists/) ([video](https://drive.google.com/file/d/1kKQdD888GmnXzHmeLBu5r8CEcVs043mB/view?usp=sharing)), and most recently won the [Australian Financial Review 2026 AI Awards for Community Engagement](https://www.afr.com/technology/legal-jargon-buster-helps-those-who-need-justice-the-most-20260512-p5zw36)!
+
 - [Visited Melbourne Girls Grammar](https://www.linkedin.com/feed/update/urn:li:activity:7452221732486180864/) to talk about what AI is, and what it isn't.
 
 - Gave a keynote talk at the [New Frontiers in Summarization Workshop](https://newsumm.github.io/2025/#Schedule) at EMNLP 2025, summarising abstractive summarisation in the past ten years.
 
 - Interviewed by [The Age about AI and hallucination](https://www.theage.com.au/national/apologies-for-any-confusion-why-chatbots-hallucinate-20250821-p5moqh.html) ([PDF version](https://github.com/jhlau/jhlau.github.io/blob/master/files/hallucination.pdf)).
-
-- Our collaboration with [Justice Connect](https://justiceconnect.org.au/) to develop AI to support connecting disadvantaged groups to pro-bono lawyers has won the faculty's [Excellence Awards in Engagement for Public Value and Social Inclusion](https://eng.unimelb.edu.au/about/feit-excellence-awards/honour-roll/2025-honour-roll) and also been named a [finalist for Engagement Australia's 2025 Excellence in Community Engagement Award](https://engagementaustralia.org.au/2025-excellence-awards-finalists/) ([video](https://drive.google.com/file/d/1kKQdD888GmnXzHmeLBu5r8CEcVs043mB/view?usp=sharing)).
 
 - Interviewed by [Yahoo Finance News about Generative AI risks](https://au.finance.yahoo.com/news/insidious-risk-uncovered-in-australian-workers-big-experiment-with-ai-really-scary-043417398.html).
 
