@@ -48,6 +48,7 @@ redirect_from:
   
 ## Awards and Honours
 
+- [2026]&nbsp; **AI Awards for Community Engagement**, Australian Financial Review
 - [2025]&nbsp; **Finalist for Excellence in Community Engagement Award**, Engagement Australia
 - [2025]&nbsp; **Excellence Awards in Engagement for Public Value and Social Inclusion**, University of Melbourne
 - [2023]&nbsp; **Best Paper Award**, ALTA
