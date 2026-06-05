@@ -187,6 +187,7 @@ Queries on E-commerce Platforms (Keynote)**, Endeavour Group, Open Data Science 
 - [2012&mdash;present]&nbsp; Programme Committee for ACL, NAACL, EACL, EMNLP, COLING, IJCNLP, AAAI, CoNLL, \*SEM, and ALTA
 
 ## Media Coverage
+- [2026]&nbsp; Our project with Justice Connect to improve access to justice was covered by [Australian Financial Review](https://www.afr.com/technology/legal-jargon-buster-helps-those-who-need-justice-the-most-20260512-p5zw36).
 - [2025]&nbsp; Interviewed by [SBS about AI and hallucination](https://www.theage.com.au/national/apologies-for-any-confusion-why-chatbots-hallucinate-20250821-p5moqh.html).
 - [2025]&nbsp; Interviewed by [Yahoo Finance News about Generative AI and risks](https://au.finance.yahoo.com/news/insidious-risk-uncovered-in-australian-workers-big-experiment-with-ai-really-scary-043417398.html).
 - [2024]&nbsp; Interviewed by [SBS Mandarin News about Generative AI and workforce](https://www.youtube.com/watch?v=BXPeDFKZ3Yg#t=21m24s).
