@@ -1,5 +1,15 @@
 papers:
   - layout: paper
+    author: "P. Bowers, T. Ryan, K. Graydon, J.H. Lau, and D. Tomlin"
+    title: "Healthcare Students&apos; Perspectives on Artificial Intelligence-driven Virtual Patients for Learning Communication Skills"
+    year: 2026
+    paper-type: article
+    journal: "Focus on Health Professional Education: A Multi-Professional Journal"
+    volume: 27
+    venue: journal
+    docurl: "https://fohpe.org/FoHPE/article/view/969"
+    pages: 245&mdash;264
+  - layout: paper
     author: "Y. Jiang, A. Keleg, R. Diandaru, J.H. Lau, L. Frermann, B. Fang, and F. Koto"
     title: "Controlling Distributional Bias in Multi-Round LLM Generation via KL-Optimized Fine-Tuning"
     year: "to appear"
