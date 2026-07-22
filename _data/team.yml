@@ -49,12 +49,12 @@ team:
     start: 2025
     end: 2025
   - name: "Phuong Le"
-    completed: 0
+    completed: 1
     degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor: "Kemal Kurniawan"
     start: 2025
-    end:
+    end: 2026
   - name: "Reza Ghasemi Madani"
     completed: 0
     degree: "PhD"
@@ -120,12 +120,12 @@ team:
     start: 2024
     end:
   - name: "Wenzheng Du"
-    completed: 0
+    completed: 1
     degree: "Masters"
     affiliation: "The University of Melbourne"
     co-supervisor:
     start: 2024
-    end:
+    end: 2026
   - name: "Anudeex Shetty"
     completed: 1
     degree: "Masters"
@@ -151,12 +151,12 @@ team:
     thesis-title: "Computational Analysis of Climate Policy"
     thesis-url: "https://arxiv.org/abs/2506.22449"
   - name: "Kemal Kurniawan"
-    completed: 0
+    completed: 1
     degree: "Postdoc"
     affiliation: "The University of Melbourne"
     co-supervisor: "Tim Baldwin"
     start: 2023
-    end:
+    end: 2026
     website: "https://kkurniawan.com/index.html"
   - name: "Archit Aggarwal"
     completed: 1
