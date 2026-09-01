@@ -1,5 +1,23 @@
 papers:
   - layout: paper
+    author: "A. Shetty, Q. Xu, O. Ohrimenko, and J.H. Lau"
+    title: "Who Wrote the Book? Detecting and Attributing LLM Ghostwriters"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)"
+    address: "Budapest, Hungary"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2603.28054"
+    codeurl: "https://github.com/anudeex/TRACE"
+  - layout: paper
+    author: "S. Wang, L. Cowley, E. Hovy, and J.H. Lau"
+    title: "AutoLexSteer: Automatic Contrast Construction for Lexical Activation Steering"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)"
+    address: "Budapest, Hungary"
+    venue: conference
+  - layout: paper
     author: "Y. Jiang, A. Keleg, R. Diandaru, J.H. Lau, L. Frermann, B. Fang, and F. Koto"
     title: "Controlling Distributional Bias in Multi-Round LLM Generation via KL-Optimized Fine-Tuning"
     year: 2026
