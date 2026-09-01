@@ -14,7 +14,7 @@ papers:
     title: "AutoLexSteer: Automatic Contrast Construction for Lexical Activation Steering"
     year: "to appear"
     paper-type: inproceedings
-    booktitle: "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)"
+    booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2026"
     address: "Budapest, Hungary"
     venue: conference
   - layout: paper
