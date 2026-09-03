@@ -1,5 +1,16 @@
 papers:
   - layout: paper
+    author: "H. Jang, N. Ilinykh, S. Loaiciga, J.H. Lau, and S. Lappin"
+    title: "Predicting Sentence Acceptability Judgments in Multimodal Contexts"
+    year: 2026
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 15th Workshop on Cognitive Modeling and Computational Linguistics"
+    address: "Mallorca, Spain"
+    venue: workshop
+    docurl: "https://aclanthology.org/2026.cmcl-1.3/"
+    codeurl: "https://github.com/GU-CLASP/multimodal-sentence-acceptability"    
+    pages: 25&mdash;34
+  - layout: paper
     author: "A. Shetty, Q. Xu, O. Ohrimenko, and J.H. Lau"
     title: "Who Wrote the Book? Detecting and Attributing LLM Ghostwriters"
     year: "to appear"
@@ -56,7 +67,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the Ninth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2026)"
     address: "Rabat, Morocco"
-    venue: conference
+    venue: workshop
     docurl: "https://aclanthology.org/2026.loresmt-1.7/"
     pages: 87&mdash;101
   - layout: paper
