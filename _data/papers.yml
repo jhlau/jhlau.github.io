@@ -1,5 +1,15 @@
 papers:
   - layout: paper
+    author: "R. Gao, Y. Dai, H. Guan, S. Gao, W. Wu, Y. Shen, and J.H. Lau"
+    title: "Personalization Matters: Long-Horizon Conversation Agent with User-Centric Information in Online Shopping Interactions"
+    year: "to appear"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the 15th International Joint Conference on Natural Language Processing and the 5th Conference of the {A}sia-Pacific Chapter of the {A}ssociation for {C}omputational {L}inguistics (AACL-IJCNLP)"
+    address: "Hengqin, China"
+    venue: conference
+    docurl: "https://arxiv.org/abs/2610.11375"
+    codeurl: "https://github.com/RenaGao/Multimodel_RAG_Indexing"
+  - layout: paper
     author: "H. Jang, N. Ilinykh, S. Loaiciga, J.H. Lau, and S. Lappin"
     title: "Predicting Sentence Acceptability Judgments in Multimodal Contexts"
     year: 2026
